@@ -18,6 +18,7 @@ def ID3(examples, default):
     else:
         root = Node()
         root.label = 'TreeRoot'
+        root.freq = len(examples)
         first_split = pick_split(examples)
         poss_v = set()
         for e in examples:
@@ -31,15 +32,18 @@ def ID3(examples, default):
         return root
 
 def ID3_helper(examples, root):
+    root.freq = len(examples)
     # print('all same class?', all_same_class(examples))
     if all_same_class(examples):
         root.leaf = True
         root.value = examples[0]['Class']
+        # root.freq = len(examples)
         return root
     # print('only trivial splits possible?', only_trivial_splits(examples))
     if only_trivial_splits(examples):
         root.leaf = True
         root.value = find_mode_class(examples)
+        # root.freq = len(examples)
         return root
     # print('then it\'s time to get s p l i t t y')
     split_att = pick_split(examples)
@@ -156,26 +160,47 @@ def only_trivial_splits(examples):
     return only_trivial
 
 def prune(node, examples):
-  '''
-  Takes in a trained tree and a validation set of examples.  Prunes nodes in order
-  to improve accuracy on the validation data; the precise pruning strategy is up to you.
-  '''
+    '''
+    Takes in a trained tree and a validation set of examples.  Prunes nodes in order
+    to improve accuracy on the validation data; the precise pruning strategy is up to you.
+    '''
 
 def test(node, examples):
-  '''
-  Takes in a trained tree and a test set of examples.  Returns the accuracy (fraction
-  of examples the tree classifies correctly).
-  '''
-
+    '''
+    Takes in a trained tree and a test set of examples.  Returns the accuracy (fraction
+    of examples the tree classifies correctly).
+    '''
+    correct = 0
+    for e in examples:
+        tree_class = evaluate(node, e)
+        if tree_class == e['Class']:
+            correct += 1
+    percent = float(correct)/float(len(examples))
+    return(percent)
 
 def evaluate(node, example):
     '''
     Takes in a tree and one example.  Returns the Class value that the tree
     assigns to the example.
     '''
-
-def eval_helper(node, example):
     if node.leaf == True:
         return node.value
     else:
-        print(node.label)
+        poss_child = list(node.children.keys())
+        split_att = poss_child[0].split(':')[0]
+        if split_att in example:
+            find_key = split_att + ':' + str(example[split_att])
+            if find_key in poss_child:
+                return evaluate(node.children[find_key], example)
+            else:
+                high_freq = {}
+                for c in node.children:
+                    high_freq[node.children[c].label] = node.children[c].freq
+                good_enough = max(high_freq, key=high_freq.get)
+                return evaluate(node.children[good_enough], example)
+        else:
+            high_freq = {}
+            for c in node.children:
+                high_freq[node.children[c].label] = node.children[c].freq
+            good_enough = max(high_freq, key=high_freq.get)
+            return evaluate(node.children[good_enough], example)
