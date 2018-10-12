@@ -17,7 +17,18 @@ def ID3(examples, default):
         return tree
     else:
         root = Node()
-        return ID3_helper(examples, root)
+        root.label = 'TreeRoot'
+        first_split = pick_split(examples)
+        poss_v = set()
+        for e in examples:
+            poss_v.add(e[first_split])
+        branches = partition(first_split, examples)
+        for b in branches:
+            new_root = Node()
+            new_root.label = first_split + ':' + str(branches[b][0][first_split])
+            root.children[new_root.label] = new_root
+            ID3_helper(branches[b], new_root)
+        return root
 
 def ID3_helper(examples, root):
     # print('all same class?', all_same_class(examples))
@@ -33,13 +44,15 @@ def ID3_helper(examples, root):
     # print('then it\'s time to get s p l i t t y')
     split_att = pick_split(examples)
     # print('we\'ll split on', split_att)
-    root.label = str(split_att)
+    # root.label = str(split_att)
     branches = partition(split_att, examples)
     # pprint.pprint(branches)
     for b in branches:
         # print('41', branches[b])
+        # print('54', branches[b][0][split_att])
         new_root = Node()
-        root.children.append(new_root)
+        new_root.label = split_att + ':' + str(branches[b][0][split_att])
+        root.children[new_root.label] = new_root
         ID3_helper(branches[b], new_root)
     return root
 
