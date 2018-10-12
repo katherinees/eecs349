@@ -1,5 +1,6 @@
 from node import Node
 import math
+import pprint
 
 def ID3(examples, default):
     '''
@@ -12,31 +13,95 @@ def ID3(examples, default):
         tree = Node()
         tree.leaf = True
         tree.value = default
-        print('examples is empty')
+        # print('examples is empty')
         return tree
     else:
         root = Node()
         return ID3_helper(examples, root)
 
-
 def ID3_helper(examples, root):
-    print('all same class?', all_same_class(examples))
+    # print('all same class?', all_same_class(examples))
     if all_same_class(examples):
         root.leaf = True
         root.value = examples[0]['Class']
         return root
-    print('only trivial splits possible?', only_trivial_splits(examples))
+    # print('only trivial splits possible?', only_trivial_splits(examples))
     if only_trivial_splits(examples):
         root.leaf = True
         root.value = find_mode_class(examples)
         return root
-    print('then it\'s time to get s p l i t y')
+    # print('then it\'s time to get s p l i t t y')
+    split_att = pick_split(examples)
+    # print('we\'ll split on', split_att)
+    root.label = str(split_att)
+    branches = partition(split_att, examples)
+    # pprint.pprint(branches)
+    for b in branches:
+        # print('41', branches[b])
+        new_root = Node()
+        root.children.append(new_root)
+        ID3_helper(branches[b], new_root)
     return root
 
+def partition(attribute, examples):
+    partitions = {}
+    for e in examples:
+        if str(e[attribute]) not in partitions:
+            partitions[str(e[attribute])] = [e]
+        else:
+            partitions[str(e[attribute])].append(e)
+    return partitions
+
+def entropy(vals):
+    # takes array of ints
+    ans = 0
+    total = float(sum(vals))
+    for v in vals:
+        v = float(v)/total
+        if v != 0:
+            ans += v*math.log(v, 2)
+    ans *= -1
+    return ans
+
+def gain(attribute, examples):
+    av = {}
+    num_examples = len(examples)
+    running_sum = 0
+    for e in examples:
+        if str(e[attribute]) not in av:
+            av[str(e[attribute])] = dict(has_att = 1, classes={})
+        else:
+            av[str(e[attribute])]['has_att'] += 1
+    for ex in examples:
+        c = str(ex['Class'])
+        cur_att_val = str(ex[attribute])
+        if c not in av[cur_att_val]['classes']:
+            av[cur_att_val]['classes'][c] = 1
+        else:
+            av[cur_att_val]['classes'][c] += 1
+        # print('58', av[cur_att_val])
+    for v in av:
+        p = float(av[v]['has_att'])/float(num_examples)
+        # print('65', v, p)
+        h_array = []
+        for cl in av[v]['classes']:
+            h_array.append(av[v]['classes'][cl])
+            # print(v, cl, av[v]['classes'][cl])
+        h = entropy(h_array)
+        running_sum += p*h
+    return(running_sum)
+
 def pick_split(examples):
+    # best split is on att w lowest gain
     attributes = list(examples[0].keys())
     attributes.remove('Class')
+    # print(attributes)
     info_gain = {}
+    for a in attributes:
+        info_gain[a] = gain(a, examples)
+    best_att = min(info_gain, key=info_gain.get)
+    # print('85', best_att)
+    return best_att
     # if max info gain is 0, prefer non trivial split
 
 def find_mode_class(examples):
@@ -91,7 +156,13 @@ def test(node, examples):
 
 
 def evaluate(node, example):
-  '''
-  Takes in a tree and one example.  Returns the Class value that the tree
-  assigns to the example.
-  '''
+    '''
+    Takes in a tree and one example.  Returns the Class value that the tree
+    assigns to the example.
+    '''
+
+def eval_helper(node, example):
+    if node.leaf == True:
+        return node.value
+    else:
+        print(node.label)

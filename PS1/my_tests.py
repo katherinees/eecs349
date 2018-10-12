@@ -1,7 +1,26 @@
 import ID3, parse, random, unit_tests
+import pprint
+# data = [dict(a=1, b=0, Class='Dem'), dict(a=0, b=0, Class='Rep'), dict(a=1, b=1, Class='Rep')]
+# tree = ID3.ID3(data, 0)
+# tree.get_info()
 
-data = [dict(a=1, b=0, Class=0), dict(a=1, b=0, Class=1), dict(a=1, b=1, Class=1)]
+data = [dict(a=0, b=1, c=0, Class=1), dict(a=1, b=1, c=1, Class=1), dict(a=1, b=1, c=0, Class=0), dict(a=1, b=0, c=1, Class=0)]
+data.append(dict(a=0, b=1, c=1, Class=1))
+x = ID3.gain('b', data)
+# print(x) # expect 0.64902249
+y = ID3.gain('a', data)
+# print(y) # expect 0.55097750
+
+# ID3.pick_split(data)
+
 tree = ID3.ID3(data, 0)
 tree.get_info()
-
-# unit_tests.testID3AndEvaluate()
+print('\n')
+# tree.children[0].get_info()
+# tree.get_info()
+tree.children[1].get_info()
+tree.children[0].get_info()
+# tree.children[1].children[0].get_info()
+# tree.children[1].children[0].children[0].get_info()
+# pprint.pprint(ID3.partition('a', data))
+ID3.eval_helper(tree, dict(a=0, b=1, c=0))
