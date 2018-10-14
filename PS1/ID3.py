@@ -1,6 +1,5 @@
 from node import Node
 import math
-import pprint
 
 def ID3(examples, default):
     '''

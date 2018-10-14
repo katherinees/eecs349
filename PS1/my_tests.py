@@ -25,3 +25,5 @@ print('\n')
 # tree.children[1].children[0].children[0].get_info()
 # pprint.pprint(ID3.partition('a', data))
 print('h', ID3.test(tree, [dict(a=0, b=1, c=1, Class=1), dict(a=0, b=1, c=1, Class=0)]))
+
+unit_tests.testPruning()
