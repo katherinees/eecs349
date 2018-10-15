@@ -163,6 +163,48 @@ def prune(node, examples):
     Takes in a trained tree and a validation set of examples.  Prunes nodes in order
     to improve accuracy on the validation data; the precise pruning strategy is up to you.
     '''
+    '''
+    call on root node, for each child, if I prune does that help? if I prune them
+    all should I prune myself?
+    '''
+    best_percent = test(node, examples)
+    # print(best_percent)
+    for e in examples:
+        # print(e)
+        res_arr = prune_eval(node, e)
+        if res_arr[0] != e['Class']:
+            remember = res_arr[0]
+            res_arr[1].value = e['Class']
+            try_percent = test(node, examples)
+            if try_percent < best_percent:
+                # print('gotcha bitch')
+                res_arr[1].value = remember
+            else:
+                best_percent = try_percent
+    # print(test(node, examples))
+
+def prune_eval(node, example):
+    if node.leaf == True:
+        return [node.value, node]
+    else:
+        poss_child = list(node.children.keys())
+        split_att = poss_child[0].split(':')[0]
+        if split_att in example:
+            find_key = split_att + ':' + str(example[split_att])
+            if find_key in poss_child:
+                return prune_eval(node.children[find_key], example)
+            else:
+                high_freq = {}
+                for c in node.children:
+                    high_freq[node.children[c].label] = node.children[c].freq
+                good_enough = max(high_freq, key=high_freq.get)
+                return prune_eval(node.children[good_enough], example)
+        else:
+            high_freq = {}
+            for c in node.children:
+                high_freq[node.children[c].label] = node.children[c].freq
+            good_enough = max(high_freq, key=high_freq.get)
+            return prune_eval(node.children[good_enough], example)
 
 def test(node, examples):
     '''
