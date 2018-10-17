@@ -1,5 +1,5 @@
 from node import Node
-import math
+import math, pprint
 
 def ID3(examples, default):
     '''
@@ -167,25 +167,46 @@ def prune(node, examples):
     call on root node, for each child, if I prune does that help? if I prune them
     all should I prune myself?
     '''
+    # best_percent = test(node, examples)
+    # print(best_percent)
+
     best_percent = test(node, examples)
+    all_nodes = put_nodes_in_dict(node, {})
+    parent_dict = put_children_in_dict(node, {})
     # print(best_percent)
     for e in examples:
         # print(e)
         res_arr = prune_eval(node, e)
         if res_arr[0] != e['Class']:
-            remember = res_arr[0]
-            res_arr[1].value = e['Class']
+            print('fuck', res_arr)
+            pprint.pprint(all_nodes)
+            remember = all_nodes.pop(res_arr[1])
+            parent_dict[res_arr[1]]['parent'].children.pop(res_arr[1])
             try_percent = test(node, examples)
             if try_percent < best_percent:
-                # print('gotcha bitch')
-                res_arr[1].value = remember
+                parent_dict[res_arr[1]]['parent'].children[res_arr[1]] = res_arr[2]
+                all_nodes[res_arr[1]] = res_arr[2]
             else:
                 best_percent = try_percent
+            # res_arr[1].value = e['Class']
+            # try_percent = test(node, examples)
+            # if try_percent < best_percent:
+            #     # print('gotcha bitch')
+            #     res_arr[1].value = remember
+            # else:
+            #     best_percent = try_percent
     # print(test(node, examples))
+def prune_helper(node, examples):
+    best_percent = test(node, examples)
+    for c in node.children:
+        if node.children[c].leaf == True:
+            remember = node.children.pop(c)
+            try_percent = test()
+
 
 def prune_eval(node, example):
     if node.leaf == True:
-        return [node.value, node]
+        return [node.value, node.label, node]
     else:
         poss_child = list(node.children.keys())
         split_att = poss_child[0].split(':')[0]
@@ -205,6 +226,22 @@ def prune_eval(node, example):
                 high_freq[node.children[c].label] = node.children[c].freq
             good_enough = max(high_freq, key=high_freq.get)
             return prune_eval(node.children[good_enough], example)
+
+def put_nodes_in_dict(node, d):
+    d[node.label] = {}
+    d[node.label]['node'] = node
+    d[node.label]['children'] = list(node.children.keys())
+    for c in node.children:
+        put_nodes_in_dict(node.children[c], d)
+    return d
+
+def put_children_in_dict(node, d):
+    for c in node.children:
+        d[c] = {}
+        d[c]['parent'] = node
+        d[c]['p label'] = node.label
+        put_children_in_dict(node.children[c], d)
+    return d
 
 def test(node, examples):
     '''
@@ -228,6 +265,9 @@ def evaluate(node, example):
         return node.value
     else:
         poss_child = list(node.children.keys())
+        # print('holy shit', poss_child)
+        if poss_child == []:
+            return node.value
         split_att = poss_child[0].split(':')[0]
         if split_att in example:
             find_key = split_att + ':' + str(example[split_att])

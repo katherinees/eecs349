@@ -13,11 +13,27 @@ y = ID3.gain('a', data)
 
 # ID3.pick_split(data)
 
+# tree = ID3.ID3(data, 0)
+# tree.get_info()
+# print('\n')
+# x = ID3.prune(tree, [dict(a=0, b=1, c=0, Class=0), dict(a=0, b=1, c=0, Class=1), dict(a=0, b=1, c=0, Class=1)])
+# tree.children['a:0'].get_info()
+
+data = [dict(a=1, b=1, c=1, Class=0), dict(a=1, b=0, c=0, Class=0), dict(a=0, b=1, c=0, Class=1), dict(a=0, b=0, c=0, Class=1), dict(a=0, b=0, c=1, Class=0)]
 tree = ID3.ID3(data, 0)
-tree.get_info()
-print('\n')
-x = ID3.prune(tree, [dict(a=0, b=1, c=0, Class=0), dict(a=0, b=1, c=0, Class=1), dict(a=0, b=1, c=0, Class=1)])
-tree.children['a:0'].get_info()
+validationData = [dict(a=0, b=0, c=1, Class=1)]
+ID3.prune(tree, validationData)
+
+# remember = tree.children.pop('a:0')
+tree.children['a:0'].children['c:0'].get_info()
+d = ID3.put_children_in_dict(tree, {})
+pprint.pprint(d)
+k = ID3.put_nodes_in_dict(tree, {})
+pprint.pprint(k)
+
+unit_tests.testPruning()
+# tree.children['a:0'] = remember
+# tree.children['a:0'].get_info()
 # x[1].get_info()
 # tree2 = copy.deepcopy(tree)
 # tree2.label = 'no'
