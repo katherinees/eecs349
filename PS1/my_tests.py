@@ -14,10 +14,14 @@ y = ID3.gain('a', data)
 # ID3.pick_split(data)
 
 tree = ID3.ID3(data, 0)
-tree.get_info()
-print('\n')
+# tree.get_info()
+# print('\n')
 x = ID3.prune(tree, [dict(a=0, b=1, c=0, Class=0), dict(a=0, b=1, c=0, Class=1), dict(a=0, b=1, c=0, Class=1)])
-tree.children['a:0'].get_info()
+# tree.children['a:0'].get_info()
+
+unit_tests.testID3AndEvaluate()
+unit_tests.testPruning()
+unit_tests.testID3AndTest()
 # x[1].get_info()
 # tree2 = copy.deepcopy(tree)
 # tree2.label = 'no'
@@ -34,4 +38,4 @@ tree.children['a:0'].get_info()
 # pprint.pprint(ID3.partition('a', data))
 # print('h', ID3.test(tree, [dict(a=0, b=1, c=1, Class=1), dict(a=0, b=1, c=1, Class=0)]))
 
-unit_tests.testPruningOnHouseData('house_votes_84.data')
+# unit_tests.testPruningOnHouseData('house_votes_84.data')
