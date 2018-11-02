@@ -1,0 +1,31 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 ACaslonPro-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf2 \expnd0\expndtw0\kerning0
+Katherine Steiner\
+\
+\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
+\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+Based on the histograms, the most useful attribute for classifying wine is density. Good quality wines tend to have lower densities than bad wines; given a wine with a low density, it is more likely that it is a good wine than bad. For the other attributes, the histograms show less of a different in distribution for good and bad wine.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+Using ZeroR, we get an accuracy of 62% when run on the training set. ZeroR is a helpful baseline because it always returns the most common class from the training set, so any other classifier (that makes sense and is implemented correctly) should have at least as good an accuracy as ZeroR\'92s accuracy.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+According to the Weka decision tree, the most informative attribute is alcohol percentage, since that is the first attribute the tree splits on. This does not match the attribute from (1). It correctly classified 1812 (95.9%) instances and incorrectly classified 78 (4.1%) instances.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
+10 fold cross validation is when we split the examples into 10 groups and for each group, we test on one and train on the other nine. Using 10 fold cross validation, the tree correctly classified 86.0% of instances. Cross fold validation is important because it gives a better idea of how accurate the tree actually is, since it prevents the model from overfitting.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
+The command-line for the model I\'92m submitting is: \uc0\u8232 weka.classifiers.trees.RandomForest -P 100 -I 175 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1\u8232 Using 10 fold cross validation, I get 91.1% accuracy.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
+I choose Random Forests because it gave the best 10 fold cross validation out of the different models I tried. According to its documentation, it can handle nominal and numeric data, empty and missing attributes. So Random Forests seems like a model that would generalize well to unseen examples as in the test set. I tried varying some of the parameters, and found that increasing the number of iterations from 100 to 175 increased the accuracy percentage from 10 fold cross validation from 90.6% to 91.1%.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
+Decision stump is a type of decision tree with only one level, i.e. only one split. Since the car data set\'92s classes are more evenly spread than the wine data set, the decision stump does much better at classifying the wine set than the car set. In fact, decision stump on the car set has the same accuracy as ZeroR since it always classifies instances as unacceptable\'97its 10 fold cross validation accuracy is 70.5%. On the other hand, decision stump does a bit better than ZeroR on the wine set, and its 10 fold cross validation accuracy is 80.8%. LMT is a decision tree that using logistic regression, and its 10 fold cross validation accuracy on the wine data set is 85.8% and 95.1% on the car set. For both models I used the default settings.\uc0\u8232 \u8232 wine_acc(decision stump) + car_acc(LMT) - wine_acc(LMT) - car_acc(decision stump)\u8232 = 80.8 + 95.1 - 85.8 - 70.5 = 19.6.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
+For f1, since we have pluses and minus, we\'92ll consider one and three nearest neighbors, since linear and polynomial regression don\'92t really make sense in context. By inspection, one nearest neighbor gets LOOCV 80% accuracy, while 3NN gets 0%, so f1\'92s best learning method is 1NN.\uc0\u8232 \u8232 For f2, since we have numbers, we\'92ll consider linear and polynomial regression, since 1NN and 3NN are used less often for numerical data. If we look at a scatter plot of the data, we see that the data looks like a straight line. So f2\'92s best learning method is linear regression. \u8232 \u8232 For f3, we\'92ll again consider linear and polynomial regression. If we look at a scatter plot of the data, we see that the data isn\'92t quite in a smooth line, but curves upwards slightly, like a quadratic or other higher ordered polynomial might. So f3\'92s best learning method is polynomial regression. \u8232 \u8232 For f4, since we have pluses and minuses again, we\'92ll consider 1NN and 3NN. By inspection, we see that 1NN gets 40% LOOCV accuracy and 3NN gets 80% accuracy. So f4\'92s best learning method is three nearest neighbor. \
+}
