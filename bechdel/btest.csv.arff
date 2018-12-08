@@ -1,0 +1,1479 @@
+@relation btest
+
+@attribute title {Exodus,'Les yeux sans visage','Story of Ruth, The','Zazie dans le metro','Apartment, The','One, Two, Three','One Hundred and One Dalmatians','A Woman Is a Woman','A Raisin in the Sun','Parent Trap, The','Innocents, The','Blue Hawaii','King Kong vs. Godzilla','Trial of Joan of Arc, The',Lolita,'War of the Buttons','Miracle Worker, The','Advise &amp; Consent','Move Over, Darling','Great Escape, The',Sanjuro,'Silence, The','From Russia with Love','Summer Magic','Suzanne&#39;s Career',Atragon,'Khaneh siah ast (The House is Black)','Tom Jones','Birds, The','Servant, The','Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb','Hush...Hush, Sweet Charlotte','Mary Poppins','Ghidorah, the Three-Headed Monster',Marnie,'Dead Ringer','Viva Las Vegas','Red Desert','Inside Daisy Clover','Juliet of the Spirits','For a Few Dollars More','Flight of the Phoenix, The','Mne dvadtsat let (I am twenty)','Death Rides a Horse','Cathy Come Home','Trouble with Angels, The',Blow-Up,'Black Girl','Plague of the Zombies, The','La caza',Django,'Fahrenheit 451','Bonnie and Clyde','Dirty Dozen, The','Uchu daikaiju Girara',Playtime,'Belle de Jour','Young Girls of Rochefort, The',Bedazzled,Berserk,Head,'Yellow Submarine','Party, The','Women in Love','Honeymoon Killers, The','Godzilla&#39;s Revenge (Godzilla, Minira, Gabara: All Monsters Attack)','Claire&#39;s Knee','Boys in the Band, The',Dodes&#39;ka-den,'Donkey Skin','Le Cercle Rouge','Bedknobs and Broomsticks','Lust for a Vampire',Klute,'THX 1138','Mon oncle Antoine','Vampyros Lesbos','Last Tango in Paris','Mattei Affair (Il caso Mattei), The',Blacula,Avanti!,Sleuth,'Duscreet Charm of the Bourgeoisie, The','L&#39;aventure, c&#39;est l&#39;aventure',Frenzy,'Butterflies Are Free',Cabaret,'Don&#39;t look now','El ataque de los muertos sin ojos [Return of the Evil Dead]','Lady Snowblood','Don Juan (Or If Don Juan Were a Woman)','Jesus Christ Superstar',Papillon,'Godzilla vs. Megalon','Crazies, The','Foxy Brown',Emmanuelle,'Celine and Julie Go Boating','Odessa File, The','Black Christmas',Mame,'Ali: Fear Eats the Soul','Female Trouble','Love and Death','Dialogues of Exiles','Story of O, The','Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles','Katie Tippel','Assault on Precinct 13',Network,'Bugsy Malone','Omen, The','Desert of the Tartars, The','In the Realm of the Senses',Suspiria,'Desperate Living','Sluzhebnyy roman','Annie Hall','Ringing Bell (Chirin no Suzu)','Quel maledetto treno blindato','A Woman Called Moses','Hound of the Baskervilles, The','Days of Heaven','Mad Max','Angels&#39; Brigade','Rock &#39;n&#39; Roll High School','Life of Brian','Black Hole, The',Hair,'My Brilliant Career','Bell Jar, The','Friday the 13th','Heaven&#39;s Gate','Final Countdown, The',Maniac,'Mirror Crack&#39;d, The','Ms. 45',Polyester,'Christiane F. - Wir Kinder vom Bahnhof Zoo','Das Boot','...E tu vivrai nel terrore! L&#39;aldila (The Beyond)','Umrao Jaan','Howling, The','Mommy Dearest','Southern Comfort','Prowler, The','Forbidden World',Smithereens,'First Blood','Friday the 13th Part III',TRON,Annie,'Star Trek: The Wrath of Khan','Finye (The Wind)','Ladies and Gentlemen, the Fabulous Stains','State of Things, The','E.T.: The Extra-Terrestrial','Ballad of Narayama, The','Go for It','El Norte','Educating Rita',Silkwood,'Jaws 3-D','Johnny Dangerously','Night of the Comet','Friday the 13th Part IV: The Final Chapter','A Private Function','Muppets Take Manhattan, The','Bostonians, The','Purple Rain','Trip To Bountiful, The','Girls Just Want to Have Fun','Red Sonja','Quiet Earth, The','Color Purple, The','Dim Sum: A Little Bit of Heart',Clue,'Purple Rose of Cairo','Legend of Billie Jean, The',Phenomena,'Breakfast Club, The','Desperately Seeking Susan','Ferris Bueller&#39;s Day Off','Parent Trap II, The',Aliens,'Howard The Duck','Pretty in Pink','An American Tail','Project A-ko','Big Trouble in Little China','Star Trek IV:  The Voyage Home',Pirates,'Ruthless People','Short Circuit','Stand By Me','Peking Opera Blues','Swimming to Cambodia','I&#39;ve Heard the Mermaids Singing',Dragnet,'Wonderful Wizard of Oz, The','Whales Of August, The','Fatal Attraction','Light of Day','Witches of Eastwick, The','Black Widow','Broadcast News','Outrageous Fortune',Ngati,'Full Metal Jacket',Spaceballs,'High Tide','Creepshow 2','El bosque animado','Prince of Darkness','Last Emperor, The','Adventures in Babysitting',Willow,'Maniac Cop','Hell Comes to Frogtown','Distant Voices, Still Lives',Heathers,'Die Hard','A Fish Called Wanda','Dangerous Liaisons','Mystic Pizza','Rock &#39;n&#39; Roll Mom','Grave of the Fireflies','Oranges Are Not The Only Fruit','Back to the Future Part II','Honey, I Shrunk the Kids','Delinquents, The','Crimes and Misdemeanors','Born on the Fourth of July','Friday the 13th Part VIII: Jason Takes Manhattan',Loverboy,'Get Smart, Again!','When Harry Met Sally','Mystery Train','Leningrad Cowboys Go America',She-Devil,'Henry V','A Nightmare on Elm Street 5: The Dream Child','Life Is Sweet',Goodfellas,'Godfather: Part III, The','Pretty Woman','Happily Ever After','Child&#39;s Play 2','A Tale of Springtime','Long Walk Home, The','I Hired a Contract Killer','Die Hard 2','Where the Heart Is',Metropolitan,'Toy Soldiers','An American Tail: Fievel Goes West','Critters 3','Don&#39;t Tell Mom the Babysitter&#39;s Dead',Impromptu,'Life Stinks','Princess and the Goblin, The','&#39;Merci la vie&#39;','Terminator 2: Judgement Day','Dragon Ball Z: Cooler&#39;s Revenge','Silence of the Lambs, The','Madonna: Truth or Dare','Linguini Incident, The','Thelma &amp; Louise','Night on Earth','Neon City','Raise the Red Lantern','City Slickers','Alien 3','Un Coeur en Hiver','Buffy the Vampire Slayer','Death Becomes Her',Dracula,'Twin Peaks: Fire Walk With Me',Baraka,'Malcolm X','A League of Their Own','Bikini Carwash Company, The','Dead Alive','Straight Talk','Single White Female','Reservoir Dogs','El Mariachi',Ladybugs,'Doragon b&ocirc;ru Z: Atsumare! Gok&ucirc; W&acirc;rudo','Passion Fish','Tom and Jerry: The Movie','Dragon Inn','Sister Act 2: Back in the Habit',Indien,'Firm, The','Manhattan Murder Mystery','Demolition Man','What&#39;s Love Got to Do with It',Naked,'Addams Family Values','Heroic Trio, The','Batman: Mask of the Phantasm','Poetic Justice','Death Train','Short Cuts','Professional, The','Reality Bites','Street Fighter','Client, The','Blue Sky','Serial Mom',Wrony,'Natural Born Killers','Muriel&#39;s Wedding',Crooklyn,'Death and the Maiden','Kan du vissla Johanna?','Secret of Roan Inish, The','New Nightmare','Eat Drink Man Woman','Beverly Hills Cop III',Amateur,Uncovered,'Cold Comfort Farm','City of Lost Children, The','Tank Girl',Pocahontas,'Dead Presidents','How to Make an American Quilt','Mimi wo sumaseba (Whisper of the Heart)','Dilwale Dulhania Le Jayenge',Maborosi,'Home for the holidays','Dangerous Minds','Apollo 13','Butterfly Kiss',Outbreak,'Pride and Prejudice',Congo,'Judge Dredd',Grim,'English Patient, The','Sabrina the Teenage Witch','Kids Return',Fire,'Marvin&#39;s Room','Stealing Beauty','Sonic the Hedgehog: The Movie',Scream,'Hard Eight','Star Trek: First Contact','Love and Other Catastrophes','Big Night','Female Perversions','James and the Giant Peach','Secrets &amp; Lies','Broken Arrow','Entertaining Angels: The Dorothy Day Story',Michael,'Event Horizon','I Know What You Did Last Summer','Spice World','Peacemaker, The','Devil&#39;s Advocate, The','Winter Guest, The','George of the Jungle','Well, The','Night Flier, The','Sticky Fingers of Time, The','Scream 2',Selena,'Lost World: Jurassic Park, The','Jackie Brown','Dantes Peak','Cats Don&#39;t Dance','Tower of Terror','House of Yes, The','Alien: Resurrection','Eve&#39;s Bayou',Ayneh,Cinderella,'Sliding Doors','Last Days of Disco, The',Stepmom,'Dancing at Lughnasa','Safe Men','Lick the Star',Madeline,Celebrity,'Show Me Love','Prince of Egypt, The',Rushmore,'Black Cat, White Cat','Faculty, The','City of Angels',Elizabeth,'Saving Private Ryan','Deep Impact','Glasblasarns barn','Hope Floats','Dreamlife of Angels, The','Rugrats Movie, The','Love &amp; Pop',Pleasantville,'Your Friends and Neighbors','Wild Things','Lion King 2: Simba&#39;s Pride, The','Avengers, The','Trance (The Eternal)',Pecker,'Black and White','Ring 2 (Ringu 2)',Virus,Redball,'Aimee &amp; Jaguar','Tea with Mussolini','Talented Mr. Ripley, The','Girl, Interrupted','Blast from the Past','New Waterford Girl','Anna and the King','Why Not Me?','Straight Story, The','A Walk on the Moon','Storm of the Century',Ring,Juha,'East Is East','Todo sobre mi madre (All About My Mother)','Brokedown Palace',Kikujiro,Election,'Muppets From Space','Big Kahuna, The','Family guy','Holy Smoke','Double Platinum','Cruel Intentions','Screwed in Tallinn','Los sin nombre','What&#39;s Cooking?',Snatch.,'What Lies Beneath','Billy Elliot',Songcatcher,Greenfingers,'Kao (Face)','Love &amp; Basketball','O Brother, Where Art Thou?','Italian for Beginners','Pitch Black','Alvin and the Chipmunks Meet the Wolfman','Tomie: Replay',Supernova,Spiral,'Red Planet',Unbreakable,'Romeo Must Die','A Good Baby','Dancer in the Dark','Is It Fall Yet',Life-Size,'Hanging Up','Patriot, The','How the Grinch Stole Christmas','Riding in Cars with Boys',Heist,'Don&#39;t Say A Word','Jason X','Cowboy Bebop: The Movie','Y tu mama tambien','Others, The','Tomie: Re-birth','Score, The','Escanaba in da Moonlight','Someone Like You...','Tremors 3: Back to Perfection',Arachnid,'Behind Enemy Lines','Piano Teacher, The',Manic,'Gosford Park',Hitched,'Nowhere in Africa',Evolution,'Bridget Jones&#39;s Diary','Not Another Teen Movie','La fille de Keltoum',Zoolander,'Belphegor, Phantom of the Louvre (Belphegor - Le fantome du Louvre)','Rat Race','Royal Tenenbaums, The','Jay and Silent Bob Strike Back','Wet Hot American Summer','Scary Movie 2','Charlotte Gray','Volcano High','Resident Evil',Gerry,'Transporter, The','Spy Kids 2: Island of Lost Dreams',demonlover,'Ju-on: The Grudge','Cube2: Hypercube','Road to Perdition','Powerpuff Girls, The','Funny Ha Ha','Ring, The','Far from Heaven','Hable con ella [Talk to Her]',Adaptation,'Hours, The','Sweet Sixteen','Tomie: Saishuu-sho - kindan no kajitsu','Maid in Manhattan',Naqoyqatsi,'Rules of Attraction, The','Ying xiong (Hero)','Ice Age','Wilbur Wants to Kill Himself',Teknolust,'Whale Rider','Rose Red','Calendar Girls','Core, The',Underworld,'Sunset Story',Basic,'Interstella 5555: The 5tory of the 5ecret 5tar 5ystem','Cheetah Girls , The','Swimming Pool','Distant Lights (Lichter)','Matrix Reloaded, The','Girls Will Be Girls','Peter Pan','Station Agent, The','Memories of Murder','Coffee and Cigarettes','Down With Love','High Roller: The Stu Ungar Story',Elephant,'How to Lose a Guy in 10 Days','Mystic River','Goodbye Lenin!',Gothika,'League of Extraordinary Gentlemen, The','Stupeur et Tremblements','Dies irae','Wrong Turn','Legally Blonde 2: Red, White &amp; Blonde','My Boss&#39;s Daughter','Girl with a Pearl Earring','Spy Kids 3-D: Game Over','Pirates of the Caribbean: The Curse of the Black Pearl',Undead,'House of 1000 Corpses','An Unexpected Love','Freddy vs. Jason','Librarian: Quest for the Spear, The','13 Going on 30','Saving Face','Holy Girl, The','Kill Bill: Vol. 2',Blessed,Appleseed,'Ghost Cat','Bring It on Again','Bratz the Video: Starrin&#39; &amp; Stylin&#39;','Garden State','North and South','I Heart Huckabees','Scooby Doo 2: Monsters Unleashed','Raising Helen','My Summer of Love',Spanglish,'A Dirty Shame',Sideways,Kinsey,D.E.B.S.,'Being Julia','Barbie as the Princess and the Pauper','Resident Evil: Apocalypse','Incredibles, The','Crimes of Fashion','Connie and Carla','AVP: Alien vs. Predator','Harry Potter and the Prisoner of  Azkaban','Puppet Master vs Demonic Toys','Edukators, The',Veer-Zaara,'Without a Paddle','Charlie and the Chocolate Factory','King Kong','Ring Two, The',Swimmers,'Hide and Seek','New World, The','Muppets&#39; Wizard of Oz, The','Exorcism of Emily Rose, The',Cry_Wolf,'Vampire Bats','Sweet Land',Mortuary,'Saw II','Strangers with Candy','Keeping Mum',Fingersmith,'Bad Reputation','Wedding Crashers','In Her Shoes','Fr&aacute;giles (Fragile)','Wild Things: Diamonds in the Rough',MirrorMask,'Skeleton Key, The','Match Point','Star Wars: Revelations',Madagascar,'Sophie Scholl - Die letzten Tage','Last Order: Final Fantasy VII','Beauty Shop','Hard Candy','Le couperet','Nina&#39;s Heavenly Delights','Zombie Diaries, The','Page Turner, The',Kidulthood,'Little Children','Fountain, The','Red Road','Pursuit of Happyness, The','Good Shepherd, The','Saw III','Bleach: Memories of Nobody',Click,Altered,'When a Stranger Calls','Arthur and the Invisibles','El laberinto del fauno (Pans Labyrinth)','Das Leben Der Anderen','Perfume: The Story of a Murderer','To Have and to Hold','Lonely Hearts','I Do','Tales from the Grudge','Glory Road','Pel&iacute;culas para no dormir: La habitaci&oacute;n del ni&ntilde;o','&quot;Masters of Horror&quot; The V Word','Times and Winds','Little Miss Sunshine','Marie Antoinette','Il caimano (The Caiman)','Avenue Montaigne','A Few Days in September',Quinceanera,'On the Trail of Igor Rizzi','Stranger Than Fiction',Sherrybaby,'Akeelah and the Bee','Monmon the Water Spider','&quot;Masters of Horror&quot; Sounds Like',Slither,'Architect, The',Volver,'Monster House','Loving Annabelle','Silent Hill','Toki wo kakeru sh&amp;#333;jo (The Girl Who Leapt Through Time)',Aquamarine,'Snakes on a Plane','Miss Potter','Barbie in the 12 Dancing Princesses','Hello Sister, Goodbye Life','Take the Lead','University of Illinois vs. a Mummy, The','Suburban Mayhem',Babel,'Bridge to Terabithia','Evangelion: 1.0: You Are (Not) Alone','Diary of the Dead',Beowulf,'&quot;Masters of Horror&quot; The Washingtonians',Viva,'Racing Daylight','&quot;Masters of Horror&quot; We All Scream for Ice Cream','World Unseen, The','Yobi, the Five-Tailed Fox (Cheon-nyeon-yeo-woo-yeo-woo-bi)','Sydney White','Paranormal Activity','No Reservations','Becoming Jane','Planet Terror','Itty Bitty Titty Committee','St. Trinian&#39;s','Across the Universe','Smiley Face','Fat Like Me','Dark Mirror','La vie en rose','Love Songs','Death Proof',Vexille,[Rec],'Se upp f&ouml;r d&aring;rarna','Golden Compass, The','Secret, The','We Are the Strange','There Will Be Blood','We Own the Night','Bad Mother&#39;s Handbook, The','Barbie Fairytopia: Magic of the Rainbow','Ninas Mal','American Zombie','Bratz: Fashion Pixiez','4 Months, 3 Weeks and 2 Days','Dan in Real Life','Bring It On: In It to Win It','Then She Found Me',Disturbia,'Sword of the Stranger','So, You&#39;ve Downloaded a Demon','Welcome to the Quiet Room','My Blueberry Nights','Orphanage, The','Shotgun Stories','Babysitters, The','La belle personne','Revolutionary Road','Waltz with Bashir',Possession,'Seven Pounds',Fanboys,'Welcome Home, Roscoe Jenkins','Grizzly Park',Twilight,Quarantine,'Vicky Cristina Barcelona','Boy in the Striped Pajamas, The','All about women',Skin,Hunger,'Chaser, The','Aanrijding in Moscou','House Bunny, The','American Violet','Dead at 17',Helen,'Dark Knight, The','High School Musical 3: Senior Year','Ghost in the Shell 2.0',Fashion,'Dim Sum Funeral','Easy Virtue','Synecdoche, New York','X-Files: I Want to Believe, The','Were the World Mine','Family That Preys, The','Angus, Thongs and Perfect Snogging',Deadgirl,'Women, The','Kung Fu Panda','Ai no mukidashi','Pirates II: Stagnetti&#39;s Revenge','Lorna&#39;s Silence','Forgetting Sarah Marshall',Transsiberian,'Rachel Getting Married','Zombie Strippers!',Doomsday,'While She Was Out','Speed Racer',Happy-Go-Lucky,Keith,'Dr. Horrible&#39;s Sing-Along Blog','Clash of the Santas','Sleep Dealer','Camp Rock','Die Welle',Rambo,'French Film',Outpost,'Gamers: Dorkness Rising, The','Vantage Point','27 Dresses','Loss of a Teardrop Diamond, The','Burning Plain, The','Nothing But the Truth',Cracks,'Precious: Based on the Novel Push by Sapphire','House of the Devil, The',Whiteout,'Last House on the Left, The','12 Men of Christmas','Spring Breakdown',Alice,'Wonder Woman',Push,'Grey Gardens','Coco avant Chanel',Tournament,Drool,'Girl with the Dragon Tattoo, The','An Education','Albino Farm','Final Destination, The',Antichrist,Adventureland,'17 Again',Ondine,Lebanon,'According to Greta',Infestation,'El traspatio (Backyard)','It&#39;s Complicated','Life During Wartime','Scheherazade Tell Me a Story',Carriers,'My Last Five Girlfriends','In the Loop','Il richiamo','Hannah Free','Fish Tank','Joneses, The','Opie Gets Laid','Georgia O&#39;Keeffe','Kaiji: The Ultimate Gambler','Horde, The','He&#39;s Just Not That Into You','Modern Family','Nothing Personal','London River','Maiden Heist, The','Confessions of a Shopaholic','Year of the Carnivore','Wild About Harry','Last Station, The','Butter bei die Fische','I Come with the Rain','Futurama: Into the Wild Green Yonder','Bad Lieutenant: Port of Call - New Orleans, The','My Queen Karo','Good Guy, The','Fruit Fly','Secret of Kells, The',Watchmen,'Blood: The Last Vampire','Julie &amp; Julia','Nowhere Boy','David&#39;s Birthday',Orphan,9,'Whip It','Bright Star','Valhalla Rising','About Elly','Astro Boy','Princess and the Frog, The','Professor Layton and the Eternal Diva','Hole, The',Devil,'Revenge of the Bridesmaids','Los ojos de Julia (Julia&#39;s Eyes)','Essential Killing','Amazing Bulk, The','When in Rome','Leading Ladies','Space Dogs','Time Traveller (Toki o Kakeru Shojo)','Heavy, The','Tomorrow, When the War Began','Una hora mas en Canarias','Prince of Persia: The Sands of Time',Insidious,'Just Wright','Going the Distance',Bedevilled,'R U There','Nanny McPhee and the Big Bang','Tinker Bell and the Great Fairy Rescue','Fair Game','127 Hours','Ward, The','Certified Copy','Bill Cunningham New York','Superman/Batman: Apocalypse',Faster,'Red: Werewolf Hunter','You Will Meet a Tall Dark Stranger','Les emotifs anonymes','Experiment, The','Kids Are All Right, The','El dios de madera',Transfer,'Feeding Frenzy','Housemaid, The','Hairdresser, The','Remember Me','I Will Follow','Hunter Prey','Frankie and Alice','A Bag of Hammers','Stonehenge Apocalypse','Welcome to the Rileys','Women on the 6th Floor, The','Tucker and Dale vs Evil','Mongolian Death Worm','Cairo 678','Une vie de chat','Other Guys, The','Tourist, The',Conviction,'Debt, The',Catfish,'Viva Riva!','Ramona and Beezus','Extraordinary Adventures of Adele Blanc-Sec, The','Boy Wonder','Romantics, The','Pink Saris','Another Year','Basilicata Coast to Coast','Chasing Legends',Arrietty,'Percy Jackson &amp; the Olympians: The Lightning Thief','Eat Me!','Despicable Me','Barney&#39;s Version',YellowBrickRoad,Jucy,Predators,'Runaways, The',Potiche,'Resident Evil: Afterlife',Trigger,'Titanic II','Band Baaja Barat','My Babysitter&#39;s a Vampire','Black Swan','Toy Story 3',Enthiran,'Attack the Block','Loneliest Planet, The','Phase 7','Your Sister&#39;s Sister','Black Butterflies','Jamie and Jessie Are Not Together',Restless,'Midnight in Paris','Craiglist Killer, The','Jumping the Broom','Soul Surfer','From Prada to Nada',Samsara,'Alvin and the Chipmunks: Chipwrecked','She Monkeys','Au cul du loup','Jiro Dreams of Sushi','Apollo 18',Drive,'Caller, The',Thespians,'Kiss Me',Ruggine,'Eagle, The','October Baby','Jin ling shi san chai','Little Birds',Hell,'A Little Bit of Heaven',Cloudburst,'Innkeepers, The',Bridesmaids,Pariah,'Damsels in Distress','Roommate, The','Turn Me On, Dammit!','Darkest Hour, The','Fright Night','L&#39;amour dure trois ans','Skin I Live In, The','Conan the Barbarian','Sunset Limited, The','&Aacute; annan veg','A Separation','Alyce Kills','Exit Humanity','Killer Elite','Without Men','Year Dolly Parton Was My Mom, The','K-ON! Movie','Divide, The','Awakening, The','Future, The','Life Without Principle','Take Shelter','Moth Diaries, The','Apartment 143','Paranormal Activity 3','Amber Lake','Smurfs, The','Woman, The','Mildred Pierce','No One Killed Jessica','Silent House','Black Power Mixtape 1967-1975, The','Monte Carlo','Cabin in the Woods, The','Atlas Shrugged: Part I','Rid of Me','Aliens vs. Avatars',Flypaper,'Help, The',Hugo,Butter,'Last Call at the Oasis','Little Engine That Could, The','Kill List','Kung Fu Panda 2','Jack and Jill','Lie, The','Drengen der ikke kunne svomme',Gosick,Quartet,'Dredd 3D','Resident Evil: Retribution',Arachnoquake,'Factory, The','Parental Guidance','Cloud Atlas',Populaire,Lincoln,'Lizzie Bennet Diaries, The','American Warships','Hannah Arendt','In The Dark Half',Barbara,'Safety Not Guaranteed','Paradies: Liebe','Think Like a Man','This Is 40','Bad Parents',Elementary,'Alien Tornado','Door, The','Magic of Belle Isle, The','Perks of Being a Wallflower, The','Much Ado About Nothing','Foreign Letters','Jack and Diane','What to Expect When You&#39;re Expecting','Die Wand','Jayne Mansfield&#39;s Car','People Like Us','Ill Manors',Cybergeddon,'English Vinglish','Cheesecake Casserole','Call Girl',Violine,'Seasoning House, The',Bindlestiffs,'Out in the Dark','Mine Games','Premium Rush',Gayby,'Five-Year Engagement, The','Ahi va el diablo',Sparkle,'Moonrise Kingdom','Future Weather',Entrance,'White Alligator',Sightseers,'Step Up Revolution','Batman: The Dark Knight Returns, part 1','Bourne Legacy, The','For a Good Time, Call...','Neighboring Sounds','Why Stop Now?','Vow, The',Excision,'Tango libre','Girls Und Panzer','If I Were You','Ruroni Kenshin: Meiji kenkaku roman tan','Key and the Frame, The','I Belong',Smiley,'Dark Shadows',Byzantium,'Wreck-It Ralph','Call Me Kuchu','Das Leben ist nichts fur Feiglinge',Morgana,'Rock of Ages',Goodbye,'Underworld: Awakening','One for the Money','Lucky One, The','What Maisie Knew','Guilt Trip, The',Vamps,'Saving Mr. Banks',Ida,'Only Lovers Left Alive',Prisoners,'Baggage Claim',Wadjda,'Kyss meg for faen i helvete',Turbo,'Wolverine, The','An Easter Bunny Puppy','Odd Thomas','Best Friends Forever','Punk Singer, The','Ass Backwards','Yip Man: Jung gik yat jin','Lost In Living','Machine, The','Flores Raras','Barbie &amp; Her Sisters in a Pony Tale',Coherence,'La jaula de oro',Ang&eacute;lique,'In Fear','Dallas Buyers Club','A Talking Cat!?!','Europa Report','Nymphomaniac: Volume 1','About Time','Words and Pictures','Smurfs 2, The','Way Way Back, The','Iron Man 3','In a World...',Parker,'Secret Life of Walter Mitty, The','Hemlock Grove','Hobbit: The Desolation of Smaug, The','How I Live Now','Congress, The','Don Jon',Maron,'Zoran, il mio nipote scemo',Plush,'Upstream Color','300 Worte Deutsch','Saige Paints the Sky','Safe Haven','Vi ar bast!','L&#39;ecume des jours',Gravity,'Escape from Planet Earth','Railway Man, The',G.B.F.,+1,'Enough Said','Hit Girl, The','American Hustle',Riddick,'Crystal Fairy &amp; the Magical Cactus and 2012',Gabrielle,Mama,Horns,'Future Shift','Hansel &amp; Gretel: Witch Hunters','Short Term 12','Orphan Black','Oz the Great and Powerful','Dead Man Down','Bounty Killer','Only God Forgives','Cloudy with a Chance of Meatballs 2',V/H/S/2,'Knights of Badassdom','Touchy Feely',Mobius,'Perfect Mothers','Soshite chichi ni naru (Like Father, Like Son)',Gam-si-ja-deul,'August: Osage County','Patema Inverted','All Cheerleaders Die',Snowpiercer,'Vivian Maier Mystery, The','Tale of The Princess Kaguya, The','rastres de s&aacute;ndal','Qu&#39;est-ce qu&#39;on a fait au Bon Dieu?','Alles Inklusive','Expendables 3, The','Atlas Shrugged: Who Is John Galt?','Under the Skin',Belle,'Skeleton Twins, The',Outcast,Treehouse,Dohee-ya,Cake,'Verden venter','Taking of Deborah Logan, The','My Father Must Die','Book of Life, The',Electricity,'Ask Me Anything',Innocence,'Single Moms Club, The','Batman: Assault on Arkham','Babadook, The','Into the Storm','A Long Way Down','Hoje Eu Quero Voltar Sozinho','La cr&egrave;me de la cr&egrave;me','Fault in Our Stars, The',Non-Stop,'Begin Again','Quiet Hour, The','Anatomy of a Love Seen','Eat with Me','Wish I Was Here','Still the Water',Mercenaries,Respire,'Near Death Experience','Primero De Enero',Phoenix,'I Call It Love','God&#39;s Not Dead','Camp Takota','Quiet Roar, The','Other Woman, The','Lego Movie, The','That Awkward Moment','Wir sind die Neuen','Tinker Bell and the Legend of the NeverBeast','Disappearance of Eleanor Rigby: Her, The','Before I Go to Sleep','Der kleine Drache Kokosnuss','Miss Meadows','Da Sweet Blood of Jesus','Jane the Virgin','Justice League: WAR','Frozen in Time','Like Sunday, Like Rain',Unbroken,'White Bird in a Blizzard','Dolphin Tale 2','Rio 2','Two Faces of January, The','Grace of Monaco','Flowers in the Attic','East Side Sushi','Disappearance of Eleanor Rigby: Them, The','Wyrmwood: Road of the Dead','Beyond the Lights','Love, Rosie',Hits,'Into the Woods','A Girl Walks Home Alone at Night','Que Horas Ela Volta?',Intruders,'Boi Neon','Wedding Ringer, The','Harter Brocken','Steve Jobs','Victor Frankenstein','Wave (B&oslash;lgen), The','Angry Indian Goddesses','Fathers &amp; Daughters','Star Wars: The Force Awakens','Love Live! The School Idol Movie',Feeheld,'Battledream Chronicle','Miss You Already','Second Best Exotic Marigold Hotel, The','Invisible Sister','VVitch: A New-England Folktale, The','Final Girls, The','brothers of the wind','Liza, the fox fairy',Sisters,Unexpected,Legend,Advantageous,'Queen of Earth','Overnight, The','Magic Mike XXL','Il racconto dei racconti','Fifty Shades of Grey',Anguish,Carol,Room,Max,'Far From the Madding Crowd','Halal Love',Maryland,Stitcher,Captive,'Insidious: Chapter 3','Un peu, beaucoup, aveuglement!','Reason I Shop Online, The','Phoenix Project, The','45 Years','Trust Fund','Full Out','You&#39;re My Boss',Life,Sicario,'Hotel Transylvania 2',Ghosthunters,'Blackcoat&#39;s Daughter, The','Septembers of Shiraz','Jem and the Holograms','Shaun the Sheep Movie','Hitman: Agent 47',Meadowland,'Miss Sloane','Queen of Katwe','Captain America: Civil War','Mother&#39;s Day','Teenage Mutant Ninja Turtles: Out of the Shadows','Fantastic Beasts and Where to Find Them',Ballerina,'Dernieres nouvelles du cosmos','Everybody Wants Some','20th Century Women','Hunt for the Wilderpeople','Choice, The','Raising the Bar','My Little Pony: Equestria Girls - Legend of Everfree','Other People','Spa Night','Boss, The','Love Witch, The',Trolls,'Nice Guys, The','A Dark Song',Arrival,'Hounds of Love','Legend of Tarzan, The','Be Somebody','War on Everyone',Nerve,'Final Fantasy XV','Crouching Tiger, Hidden Dragon: Sword of Destiny','10 Cloverfield Lane','Infiltrator, The','Kung Fu Panda 3',Hush,Divines,'Shallows, The','Belko Experiment, The','Fundamentals of Caring, The','Rogue One','Girl with All the Gifts, The',Cam-Girl,Tallulah,'Jane Got a Gun','Dear Eleanor',Christine,'Divergent Series: Allegiant, The','Middle School: The Worst Years of My Life',Prevenge,Julieta,'Gr&uuml;&szlig;e aus Fukushima (Greetings from Fukushima)','10 Days In A Madhouse','How to Be Single','Finding Dory','Let Me Go','La La Land',Spidarlings,'Void, The','A United Kingdom',Split,'Their Finest',Catfight,'Psych: The Movie',Wilson,'Paddington 2',Gifted,'T2 Trainspotting','Before I Fall','Beatriz at Dinner','It Comes at Night','Incredible Jessica James, The','Annabelle: Creation','xXx: Return of Xander Cage','What Happened to Monday','Ingrid Goes West','On Body and Soul','Blade Runner 2049','Good Time','Wall, The','Home Again','Breadwinner, The','Pokemon the Movie: I Choose You!','Ghost in the Shell',Coco,'Dance Academy: The Movie','Fate of the Furious, The','Wonder Wheel',Ver&oacute;nica,'Cherry Pop','Mary and The Witch&#39;s Flower','A man of integrity','La llamada','Megan Leavy','Post, The',Ava,'Monster High: Electrified',Okja,Dunkirk,'Logan Lucky','Death Note','Band Aid','Jumanji: Welcome to the Jungle','Wish Upon','Glass Castle, The','Hitman&#39;s Bodyguard, The','Death Race 2050',Revelator,'You Get Me','Fifty Shades Darker','For Here or To Go?',Pilgrimage,Canaries,'Batman vs. Two-Face','God&#39;s Own Country','I Don&#39;t Feel at Home in This World Anymore','Discovery, The',Kidnap,Bright,Unlocked,'Everything, Everything','My Cousin Rachel','Ritual, The','To the bone','Amityville: The Awakening','I Feel Pretty','Life of the Party',Tag,'Game Night','Guernsey Literary and Potato Peel Pie Society, The',Tully,'Pass Over','Set It Up','Truth or Dare','Incredibles 2','Au poste!','A Simple Favor',Blockers,'Black Panther','Cloverfield Paradox, The','Tomb Raider','Kissing Booth, The','Ocean&#39;s 8',Kaala}
+@attribute imdbid {tt0053804,tt0053459,tt0054343,tt0054494,tt0053604,tt0055256,tt0055254,tt0055572,tt0055353,tt0055277,tt0055018,tt0054692,tt0056142,tt0059616,tt0056193,tt0054949,tt0056241,tt0055728,tt0057329,tt0057115,tt0056443,tt0057611,tt0057076,tt0057542,tt0056910,tt0057215,tt0336693,tt0057590,tt0056869,tt0057490,tt0057012,tt0058213,tt0058331,tt0058544,tt0058329,tt0057997,tt0058725,tt0058003,tt0059314,tt0059229,tt0059578,tt0059183,tt0058361,tt0064208,tt0059020,tt0061122,tt0060176,tt0060758,tt0060841,tt0060223,tt0060315,tt0060390,tt0061418,tt0061578,tt0062411,tt0062136,tt0061395,tt0062873,tt0061391,tt0061398,tt0063049,tt0063823,tt0063415,tt0066579,tt0064437,tt0064373,tt0065772,tt0065488,tt0065649,tt0066207,tt0065531,tt0066817,tt0067367,tt0067309,tt0066434,tt0067439,tt0066380,tt0070849,tt0068346,tt0068284,tt0068240,tt0069281,tt0068361,tt0066798,tt0068611,tt0068326,tt0068327,tt0069995,tt0068232,tt0158714,tt0069990,tt0070239,tt0070511,tt0070122,tt0069895,tt0071517,tt0071464,tt0071381,tt0071935,tt0071222,tt0071803,tt0071141,tt0072979,tt0073312,tt0071427,tt0073115,tt0073198,tt0073233,tt0074156,tt0074958,tt0074256,tt0075005,tt0074400,tt0074102,tt0076786,tt0075936,tt0076727,tt0075686,tt0306646,tt0076584,tt0078509,tt0076161,tt0077405,tt0079501,tt0078778,tt0079813,tt0079470,tt0078869,tt0079261,tt0079596,tt0078843,tt0080761,tt0080855,tt0080736,tt0081114,tt0081163,tt0082776,tt0082926,tt0082176,tt0082096,tt0082307,tt0083248,tt0082533,tt0082766,tt0083111,tt0082951,tt0083959,tt0084698,tt0083944,tt0083972,tt0084827,tt0083564,tt0084726,tt0083942,tt0082639,tt0084725,tt0083866,tt0084390,tt0085601,tt0085482,tt0085478,tt0086312,tt0085750,tt0087507,tt0087799,tt0087298,tt0089838,tt0087755,tt0086992,tt0087957,tt0090203,tt0089208,tt0089893,tt0089869,tt0088939,tt0087150,tt0088930,tt0089853,tt0089470,tt0087909,tt0088847,tt0089017,tt0091042,tt0091721,tt0090605,tt0091225,tt0091790,tt0090633,tt0091794,tt0090728,tt0092007,tt0091757,tt0091877,tt0091949,tt0092005,tt0090952,tt0094089,tt0093239,tt0092925,tt0098675,tt0094315,tt0093010,tt0093415,tt0094332,tt0090738,tt0092699,tt0093690,tt0093615,tt0093058,tt0094012,tt0095305,tt0092796,tt0092693,tt0093777,tt0093389,tt0092513,tt0096446,tt0095583,tt0093171,tt0095037,tt0097493,tt0095016,tt0095159,tt0094947,tt0095690,tt0096001,tt0095327,tt0098032,tt0096874,tt0097523,tt0097182,tt0097123,tt0096969,tt0097388,tt0097790,tt0097423,tt0098635,tt0097940,tt0097728,tt0098309,tt0097499,tt0097981,tt0100024,tt0099685,tt0099674,tt0100405,tt0099733,tt0099253,tt0097106,tt0100046,tt0099818,tt0099423,tt0100924,tt0100142,tt0103112,tt0101329,tt0101627,tt0101757,tt0102103,tt0102303,tt0107875,tt0102436,tt0103064,tt1125254,tt0102926,tt0102370,tt0102313,tt0103074,tt0102536,tt0104981,tt0101640,tt0101587,tt0103644,tt0105682,tt0103893,tt0104070,tt0103874,tt0105665,tt0103767,tt0104797,tt0104694,tt0103812,tt0103873,tt0105481,tt0105414,tt0105236,tt0104815,tt0104670,tt1517470,tt0105107,tt0105616,tt0105859,tt0108147,tt0107214,tt0106918,tt0107507,tt0106697,tt0108551,tt0107653,tt0106220,tt0105619,tt0106364,tt0107840,tt0106689,tt0108122,tt0110413,tt0110950,tt0111301,tt0109446,tt0109306,tt0111127,tt0111751,tt0110632,tt0110598,tt0109504,tt0109579,tt0110236,tt0111112,tt0111686,tt0111797,tt0109254,tt0109093,tt0111549,tt0112701,tt0112682,tt0114614,tt0114148,tt0112819,tt0113347,tt0113824,tt0112870,tt0113725,tt0113321,tt0112792,tt0112384,tt0112604,tt0114069,tt0112130,tt0112715,tt0113492,tt0113221,tt0116209,tt0117534,tt0116767,tt0116308,tt0116999,tt0117737,tt0237765,tt0117571,tt0119256,tt0117731,tt0116931,tt0115678,tt0116293,tt0116683,tt0117589,tt0115759,tt0116212,tt0117038,tt0119081,tt0119345,tt0120185,tt0119874,tt0118971,tt0120521,tt0119190,tt0120493,tt0119784,tt0127302,tt0120082,tt0120094,tt0119567,tt0119396,tt0118928,tt0118829,tt0131620,tt0119324,tt0118583,tt0119080,tt0117056,tt0128996,tt0120148,tt0120728,tt0120686,tt0120643,tt0120813,tt0197626,tt0123987,tt0120533,tt0150662,tt0120794,tt0128445,tt0118843,tt0133751,tt0120632,tt0127536,tt0120815,tt0120647,tt0119204,tt0119313,tt0120449,tt0134067,tt0168972,tt0120789,tt0119517,tt0120890,tt0120131,tt0118661,tt0158011,tt0126604,tt0165643,tt0218553,tt0120458,tt0163178,tt0130444,tt0120857,tt0134119,tt0172493,tt0124298,tt0213121,tt0166485,tt0162556,tt0166896,tt0120613,tt0135659,tt0289424,tt0158692,tt0166175,tt0185125,tt0120620,tt0199683,tt0126886,tt0158811,tt0189584,tt0182576,tt0144715,tt0177721,tt0139134,tt0311926,tt0222368,tt0197096,tt0208092,tt0161081,tt0249462,tt0210299,tt0203540,tt0256127,tt0199725,tt0190590,tt0243862,tt0134847,tt0252227,tt0279474,tt0134983,tt0244870,tt0199753,tt0217869,tt0165929,tt0155723,tt0168629,tt0250440,tt0200809,tt0162983,tt0187393,tt0198021,tt0170016,tt0200027,tt0252503,tt0260866,tt0211443,tt0275277,tt0245574,tt0230600,tt0348225,tt0227445,tt0180679,tt0244970,tt0259685,tt0271972,tt0159273,tt0254686,tt0252684,tt0280707,tt0272127,tt0161860,tt0251075,tt0243155,tt0277371,tt0312687,tt0196229,tt0214529,tt0250687,tt0265666,tt0261392,tt0243655,tt0257106,tt0245046,tt0301429,tt0120804,tt0302674,tt0293662,tt0287717,tt0284034,tt0364385,tt0285492,tt0257044,tt0289408,tt0327753,tt0298130,tt0297884,tt0287467,tt0268126,tt0274558,tt0313670,tt0348226,tt0252076,tt0145937,tt0292644,tt0299977,tt0268380,tt0329767,tt0270688,tt0298228,tt0259153,tt0337909,tt0298814,tt0320691,tt0368310,tt0264395,tt0368667,tt0800318,tt0324133,tt0351238,tt0234215,tt0339071,tt0316396,tt0340377,tt0353969,tt0379217,tt0309530,tt0338467,tt0363589,tt0251127,tt0327056,tt0301357,tt0348836,tt0311429,tt0318725,tt0406709,tt0295700,tt0333780,tt0270980,tt0335119,tt0338459,tt0325980,tt0366920,tt0339840,tt0251736,tt0329679,tt0329101,tt0412915,tt0337563,tt0384504,tt0300270,tt0378194,tt0390450,tt0401233,tt0371835,tt0334965,tt1469259,tt0333766,tt0417349,tt0356721,tt0331632,tt0350028,tt0382189,tt0371246,tt0365125,tt0375063,tt0362269,tt0367631,tt0340012,tt0426955,tt0318627,tt0317705,tt0414923,tt0345074,tt0370263,tt0304141,tt0431340,tt0408777,tt0420332,tt0364751,tt0367594,tt0360717,tt0377109,tt0384573,tt0382077,tt0402399,tt0422778,tt0404032,tt0384286,tt0473105,tt0414387,tt0428038,tt0415167,tt0432348,tt0369994,tt0444653,tt0423651,tt0478976,tt0396269,tt0398712,tt0388125,tt0422272,tt0448179,tt0366780,tt0397101,tt0416320,tt0457489,tt0351283,tt0426578,tt0489134,tt0388500,tt0424136,tt0422015,tt0435706,tt0876294,tt0487503,tt0435680,tt0404203,tt0414993,tt0471030,tt0454921,tt0343737,tt0489270,tt1105263,tt0389860,tt0457275,tt0455857,tt0344854,tt0457430,tt0405094,tt0396171,tt0876154,tt0441774,tt0478724,tt0877368,tt0385726,tt0430164,tt0817401,tt0855729,tt0449059,tt0422720,tt0429727,tt0444112,tt0446442,tt0451176,tt0832958,tt0420223,tt0423169,tt0437800,tt0768132,tt0817400,tt0439815,tt0466665,tt0441909,tt0385880,tt0323120,tt0384537,tt0808506,tt0429591,tt0417148,tt0482546,tt0859594,tt0476013,tt0446046,tt1273816,tt0450506,tt0449467,tt0398808,tt0923811,tt0848557,tt0442933,tt0854548,tt0393956,tt0840363,tt0817402,tt1048174,tt1077274,tt0815244,tt1179904,tt0481141,tt0416508,tt1077258,tt0496328,tt0964587,tt0445922,tt0780608,tt0889600,tt0486651,tt0450188,tt0996605,tt1028528,tt0970472,tt1038988,tt0959342,tt0385752,tt0446463,tt0923985,tt0469494,tt0498399,tt0909010,tt1007920,tt0806940,tt0765430,tt2330312,tt1032846,tt0480242,tt0972785,tt0455805,tt0486822,tt1121794,tt0348062,tt0997174,tt0765120,tt0464141,tt0952682,tt0796302,tt1263778,tt0959337,tt1185616,tt0368563,tt0814314,tt0489049,tt0494652,tt0915460,tt1099212,tt1082868,tt0497465,tt0914798,tt1037146,tt0964586,tt0986233,tt1190539,tt0948530,tt0852713,tt1152397,tt1153103,tt1288589,tt0468569,tt0962726,tt1260502,tt0964516,tt1216477,tt0808244,tt0383028,tt0443701,tt0476991,tt1142798,tt0963743,tt0896534,tt0430770,tt0441773,tt1128075,tt1266097,tt1186369,tt0800039,tt0800241,tt1084950,tt0960890,tt0483607,tt0887971,tt0811080,tt1045670,tt0435679,tt1227926,tt1286742,tt0804529,tt1055366,tt1063669,tt0462499,tt0986230,tt0892899,tt0447166,tt0443274,tt0988595,tt0896031,tt1068641,tt1073241,tt1183665,tt0929632,tt1172994,tt0365929,tt0844708,tt1446201,tt0814331,tt1461312,tt1186373,tt0465580,tt0758751,tt1035736,tt0471041,tt1268962,tt1132620,tt1174732,tt1050001,tt1144884,tt0870984,tt1091722,tt0974661,tt1235796,tt1483831,tt1059925,tt1020543,tt1257579,tt1230414,tt0808526,tt1473149,tt0806203,tt1050002,tt1226774,tt1463167,tt1315214,tt1232776,tt1285309,tt0446043,tt1320286,tt1309449,tt1183276,tt1001508,tt1442437,tt1320352,tt1227787,tt1107860,tt1093908,tt1372306,tt0435711,tt0824758,tt1362534,tt1024744,tt1054487,tt1095217,tt1272041,tt1247662,tt1326221,tt0485601,tt0409459,tt0806027,tt1135503,tt1266029,tt1273204,tt1148204,tt0472033,tt1172233,tt0810784,tt0862467,tt1360860,tt0375568,tt0780521,tt1488591,tt1085779,tt1314655,tt1666642,tt1512685,tt1561768,tt1788453,tt1185416,tt1462053,tt1272051,tt1614408,tt0473364,tt1456941,tt1161411,tt0473075,tt1591095,tt1407061,tt1322312,tt1646959,tt1443518,tt1415283,tt1216515,tt0977855,tt1542344,tt1369706,tt1020773,tt1621444,tt1673430,tt1433108,tt1626201,tt1182350,tt1565958,tt0997152,tt0842926,tt1511354,tt1270120,tt1706365,tt1314652,tt1585255,tt1403981,tt1624426,tt1270291,tt1221208,tt1509787,tt1488598,tt1183923,tt1805297,tt1465522,tt1504443,tt1764141,tt1673702,tt1386588,tt1243957,tt1244754,tt1226753,tt1584016,tt1723120,tt0493949,tt1179025,tt1456060,tt1403988,tt1721685,tt1431181,tt1529233,tt1996211,tt1568921,tt0814255,tt1412541,tt1323594,tt1423894,tt1398428,tt1336999,tt1424381,tt1017451,tt1521848,tt1220634,tt1624408,tt1640571,tt1610452,tt1673423,tt0947798,tt0435761,tt1305797,tt1478964,tt1695405,tt1568816,tt1742336,tt0906778,tt1718807,tt1498569,tt1605783,tt1772373,tt1640484,tt1596346,tt0893412,tt0770802,tt1615918,tt1827358,tt1669794,tt1772925,tt1772240,tt0780504,tt1525890,tt1604225,tt1859522,tt1833781,tt1034389,tt1720182,tt1410063,tt1623745,tt1643222,tt1440161,tt1466054,tt1594562,tt1478338,tt1233334,tt1667307,tt1265990,tt1650407,tt1093357,tt1438176,tt1638328,tt1189073,tt0816462,tt1510938,tt2009643,tt1832382,tt1680051,tt1781812,tt1448755,tt1547090,tt1316624,tt1909796,tt1535616,tt1687901,tt1235170,tt1371585,tt1675192,tt1407065,tt1757742,tt1778304,tt1737090,tt0472181,tt1714208,tt1492030,tt1734110,tt1767382,tt1592527,tt1067774,tt1259521,tt0480239,tt1376233,tt1854506,tt1541160,tt1454029,tt0970179,tt1349451,tt2043900,tt1764666,tt1788391,tt1302011,tt0810913,tt1531930,tt1961281,tt1872328,tt1441951,tt1343727,tt1855325,tt2151543,tt1132285,tt1047540,tt1371111,tt2070776,tt0443272,tt2392261,tt2175927,tt1674773,tt1764645,tt2178941,tt1862079,tt1403214,tt1621045,tt1758830,tt2081178,tt2191671,tt1942798,tt1194577,tt1839654,tt1659337,tt2094064,tt1492841,tt0850677,tt1586265,tt1745686,tt1781840,tt1716777,tt1760967,tt2189240,tt2181931,tt1733114,tt1977739,tt2249628,tt1555093,tt2091243,tt2318625,tt1928337,tt1547234,tt2106739,tt1195478,tt2107648,tt1876451,tt1748122,tt1701215,tt1918806,tt2435166,tt2023690,tt1800741,tt2313197,tt1194173,tt1996264,tt2190367,tt1853643,tt1606389,tt1984153,tt2370034,tt2294076,tt1587309,tt1979319,tt2601160,tt2377396,tt2025667,tt1077368,tt1531901,tt1772341,tt2088714,tt2147550,tt2318360,tt1336608,tt1926992,tt1496025,tt1598828,tt1327194,tt1932767,tt1694020,tt1545106,tt2140373,tt2718492,tt1714915,tt1392214,tt1171222,tt2258858,tt2829458,tt1860353,tt1430132,tt2599226,tt1767354,tt2224073,tt1785612,tt1509788,tt2495118,tt2628260,tt2317225,tt2217458,tt3321254,tt2866360,tt2042583,tt2776074,tt2165859,tt0790636,tt2511190,tt2051879,tt1937390,tt2194499,tt2380331,tt2017020,tt1727388,tt1300854,tt2294677,tt1904996,tt0359950,tt2309295,tt1170358,tt1894476,tt1821641,tt2229499,tt2520512,tt3078718,tt2226519,tt2084989,tt2288044,tt2818348,tt1702439,tt2364975,tt2027140,tt1454468,tt0765446,tt2058107,tt2429074,tt2395385,tt2390361,tt2651924,tt1800241,tt1411250,tt2332579,tt3106846,tt2023587,tt1528071,tt2991316,tt1428538,tt2370248,tt2234222,tt1623205,tt2101341,tt2369396,tt1602613,tt1985966,tt2450186,tt1545660,tt2364949,tt2106550,tt2103267,tt2331143,tt2969656,tt1322269,tt2981768,tt2527186,tt1706620,tt3252208,tt2576852,tt3521332,tt2800240,tt3469518,tt2333784,tt2800038,tt1441395,tt2404181,tt1571249,tt1552224,tt1791681,tt3661798,tt3442006,tt4800178,tt3387648,tt3368814,tt2262227,tt2936470,tt2505294,tt1724965,tt2465140,tt3139086,tt1823664,tt2321549,tt2106361,tt0458413,tt1702014,tt2536428,tt2582846,tt2024469,tt1980929,tt2645188,tt3546114,tt2274604,tt2870708,tt3230162,tt3598222,tt3365778,tt3800012,tt3263732,tt2764784,tt4211680,tt2528814,tt3097084,tt2835536,tt2203939,tt1490017,tt1800246,tt3777462,tt3120408,tt3720788,tt1726592,tt3726220,tt3128900,tt3104930,tt3566726,tt3060952,tt4150316,tt3104818,tt1809398,tt2238050,tt2978462,tt2357291,tt1976000,tt2095649,tt3074694,tt2340650,tt3729920,tt2535470,tt3125324,tt1638002,tt3145220,tt2180411,tt2326554,tt3742378,tt4009278,tt4899406,tt0884732,tt3981858,tt2080374,tt1976009,tt3616916,tt3368222,tt2582502,tt2488496,tt3837248,tt1658801,tt4714032,tt2245003,tt2555736,tt4420110,tt4263482,tt2118624,tt3532278,tt2210769,tt1850457,tt4145304,tt3569230,tt3090670,tt3993894,tt3844362,tt2268016,tt3278330,tt2322441,tt3620762,tt1661199,tt2402927,tt3170832,tt3369806,tt2935476,tt5105218,tt4085084,tt4858280,tt3268668,tt3195644,tt4466936,tt4780834,tt3430042,tt3544082,tt3969208,tt3977462,tt4489160,tt2948840,tt3397884,tt2510894,tt3711622,tt3286052,tt3661298,tt3614530,tt2872750,tt2679042,tt3529656,tt4540710,tt4341582,tt3498820,tt4824302,tt3949660,tt3183660,tt2261287,tt5786040,tt2937696,tt4385888,tt4698684,tt3797868,tt5274066,tt5474644,tt4158876,tt5254640,tt2702724,tt3908142,tt1679335,tt3799694,tt4805316,tt2543164,tt3896738,tt0918940,tt5512872,tt3708886,tt3531824,tt5595168,tt2652118,tt1179933,tt1355631,tt2267968,tt5022702,tt4730986,tt4052882,tt1082807,tt2452386,tt3748528,tt4547056,tt2290819,tt1639084,tt2140037,tt2927212,tt4666726,tt3410834,tt4981636,tt5154288,tt4326444,tt4667788,tt3453052,tt1292566,tt2277860,tt5153952,tt3783958,tt2262129,tt4255304,tt3387266,tt4972582,tt1661275,tt5294198,tt6868216,tt1781058,tt4468740,tt4481414,tt2763304,tt1691916,tt5929750,tt4695012,tt5990342,tt5140878,tt1293847,tt1536537,tt5962210,tt5607714,tt1856101,tt4846232,tt4218696,tt5719700,tt3901826,tt6595896,tt1219827,tt2380307,tt5834660,tt4630562,tt5825380,tt5862312,tt0451279,tt4807950,tt6336356,tt6776462,tt5176252,tt4899370,tt6294822,tt6194530,tt6536944,tt3967856,tt5013056,tt5439796,tt1241317,tt5816374,tt2283362,tt5322012,tt2378507,tt1959563,tt5493706,tt5296086,tt5539054,tt4465564,tt4157510,tt3531202,tt4082644,tt6142314,tt5635086,tt5710514,tt5155780,tt1458169,tt5519340,tt1734493,tt5001718,tt4411596,tt5638642,tt5541240,tt1935897,tt6791096,tt5619332,tt2854926,tt2704998,tt1289403,tt5610554,tt7768846,tt5304992,tt6772950,tt3606756,tt7156222,tt7040874,tt2531344,tt1825683,tt2548396,tt1365519,tt3799232,tt5164214,tt6929642}
+@attribute year numeric
+@attribute class {P,F}
+@attribute Country {USA,France,UK,Japan,Sweden,Iran,Italy,'Soviet Union',Senegal,Spain,Canada,'West Germany',Chile,Belgium,Netherlands,Australia,India,Mali,'New Zealand','Hong Kong',Finland,China,Mexico,Austria,Poland,Taiwan,Germany,Ireland,'Federal Republic of Yugoslavia','South Korea',Denmark,Argentina,Romania,Turkey,'South Africa',Israel,Egypt,Russia,'The Democratic Republic Of Congo',Norway,Iceland,Hungary,Brazil,'Saudi Arabia',Switzerland,'Dominican Republic',Lebanon,Martinique,Philippines,'Czech Republic',N/A}
+@attribute 'Fem Wordcount' numeric
+@attribute Production {'United Artists','Criterion Collection',Fox,'MGM Home Entertainment','Buena Vista','Rialto Pictures','Sony Pictures Home Entertainment','Buena Vista Distribution Company','Paramount Pictures',Toho,MGM,'Comet Films','WARNER BROTHERS PICTURES','20th Century Fox','Walt Disney Productions',N/A,'Woodfall Film Productions','Universal Pictures','Sony Pictures','MCA Universal Home Video','Warner Bros. Pictures','Janus Films','Warner Bros.','20th Century Fox Film Corporation','Live Home Video','Sony Pictures Entertainment','Trans Lux Inc.','Warner Brothers/Seven Arts','Continental Distributing','Miramax Zoe',Miramax-Zoe,'Twentieth Century Fox','Columbia Pictures','Independent Pictures','Media Home Entertainment','Hollywood Classics','Koch Lorber Films','Buena Vista Pictures',EMI,'Warner Home Video','Floralva Exclusivas','HBO Video','Cinéma Du Parc','Twentieth Century Fox Home Entertainment','Blue Underground','Toho Company Ltd.','Universal Studios','Toho Company','New Yorker Films','Continental Home Video','Phaedra Cinema','Turtle Releasing','MGM/United Artists','France 3 Cinéma',Surrogate,'International Classics Inc.','Severin Films','Atlantic Releasing Corporation',s,'Arista Films','New World Pictures','Westchester Films','AVCO Embassy Pictures',MGM/UA,Analysis,'Anchor Bay Entertainment','Rochelle Films','New Line Cinema','Maran Film','Rolling Thunder',Fangoria,FilmBuff,'Orion Pictures','Paramount Home Video','Cissé/Sisé Filimu','Pacific Arts','Toei Company','Lionsgate Films','Columbia Pictures Corporation','Island Alive','Rank Organisation','Nelson Entertainment','New World Video','Orion Classics','Orion Pictures Corporation','TriStar Pictures','Walt Disney Television','20th Century Fox Film Corporat','Cannon Film Distributors','Gordons Films','Cinecom Pictures','New Line Home Entertainment','Lightyear Entertainment','TAFT Entertainment Pictures','Touchstone Pictures','Pacific Film','Trans World Entertainment','Film Four International','Shinchosha Company',Disney,'Worldvision Home Video','Orion Home Video','Republic Pictures Home Video',Miramax,'GT Media','FUNimation Entertainment','Miramax Films','Academy Entertainment',Trimark,'China Film Co-Production Corporation','Magidson Films','Krazy Karwash Kompany Inc','Trimark Pictures','Hollywood Pictures','Tai Seng','Fine Line Features','Samuel Goldwyn Films','Turner Home Entertainment','Sony Pictures Classics','Buena Vista Distribution Compa','Optimum Releasing','Yash Raj Films','TV Man Union',Passport,A-Pix,'Hallmark Entertainment','Fox Searchlight Pictures','ADV Films','Paulist Productions',Dreamworks,'Cowboy Booking International','Strand Releasing','Lions Gate Films','Celluoid Dreams',Gramercy,'Columbia Tri-Star','October Films','Mercure Distribution','US Manga Corps','Walt Disney Television Animation','Kadokawa Shoten Publishing Company',Universal,Zeitgeist,'Wellspring Media Inc.',AFDF,'DreamWorks SKG','NCM Fathom','Lions Gate','IDP Distribution','Gramercy Pictures/ USA Films','Universal Studios Home Video','Daiei Studios','MTV Original Films For Television','Disney-ABC Domestic Television','Destination Films','IFC Films','Purple Rose Films','LionsGate Entertainment','MK2 Diffusion','USA Films','Zeitgeist Films','Dreamworks Pictures','Bac Films','Dimension Films','Columbia Tristar Pictures',FilmFour,'Palm Pictures','Lions Gate Releasing','Ghost Logic','Goodbye Cruel Releasing','ThinkFilm Inc',ThinkFilm,'Sony Screen Gems','Focus Features','Houston Lady Productions',WB,'The Cinema Guild','20th Century Fox Distribution','Exhibition On Screen','Excel Entertainment','Lions Gate Films Inc.','Grand Productions','Electric Entertainment','Storm Pictures','Geneon Entertainment','Fox Searchlight','Image Entertainment','Yash Raj Films Pvt. Ltd.','Dreamworks Distribution LLC','Quasiworld Entertainment','Rogue Pictures','Libero LLC','Echo Bridge Entertainment','Mars Distribution','Regent Releasing/Magnolia Pictures','Cinedigm Entertainment','Tartan Films','Revolver Entertainment','Tartan USA','Neon Alley','Sony Pictures Releasing','Screen Gems',Picturehouse,'Samuel Goldwyn/Roadside','Alliance Atlantis Vivafilm','Kino International','Lionsgate Releasing','Magnolia Pictures','Wolfe Releasing','Tokikake Film Partners','Cooper Beech Productions','Fortissimo Films','Paramount Classics','Eleven Arts','The Weinstein Company','Cult Epics',Vanguard,'Regent Releasing/here! Films','Éditions Montparnasse','The Weinstein Co./Dimension','Pocket Releasing','NeoClassics Films',Sony,'First Look Media','A & E','IFC First Take','The Bigger Picture','Odeon Sky Filmworks','eOne Entertainment Distribution','Paramount Vantage',Sony/Columbia,'Cabin Fever Entertainment','Sony Pictures International',iHQ,'MGA Entertainment','Shochiku Company','Accidental Films','International Film Circuit','Peace Arch Entertainment','Yari Film Group','The Weinstein Co.','ScatterScream Productions','Summit Entertainment','Elysian Films','Sony Pictures/Columbia','New Wave Films','Warner Bros. Pictures/Legendary','Walt Disney Pictures','Manga Entertainment','UTV Communications','HBO Films','Sydney Kimmel Entertainment',Lionsgate,'Nickelodeon Movies','Dark Sky Films','Picturehouse Entertainment','Omega Project','First Look','Triumph Films','Lili Claire Communications','Maya Releasing','Walt Disney Home Entertainment','Constantin Film','Slingshot Productions',Paladin,'Lifetime Television','Laguna Productions',HBO,'Music Box Films','Sony Classics','Sony Classic Pictures','Icon Productions','ArtMattan Productions','Willing Pilowsky Productions',IFC,'Ripe Fruit Films','Roadside Attractions','Warner Bros. Pictures/New Line Cinema','Olive Films','Cinema Libre','Walt Disney Studios','34 Seconds Productions','LeBrocquy Fraser Prods.','Fox Home Entertainment','First Look Pictures','Caviar Films','TLA Releasing',GKIDS,'Sony/Columbia Pictures','Weinstein Company','Ellemme Group','Apparition Films','Cinema Guild','Hole LLC.','Von Zerneck Sertner Films','Universal Pictures International France','HanWay Films','Wolfe Video','Centre of National Film','Heavy Productions','Freestyle Releasing','Vertice Cine',FilmDistrict,'Arc Entertainment','Artificial Eye Film Co. Ltd','CBS Films','Tribecca Films',Sagrera,'Constantin Film Verleih','Code Black Entertainment','MPI Media Group','STARZ MEDIA LLC.','Samuel Goldwyn Films/Destination Films','Magnet Releasing','Black Chrome Productions','Gébéka Films','Universal Pictures/Rogue','Shout Factory','Lightning Entertainment','Benaroya Pictures','Eagle Pictures','Gripped Films','Bloody Disgusting/The Collective',KCDC,Apparition,'Sony Pictures/Screen Gems','E1 Entertainment','Metrodome Distribution','Fresh TV',Ficus,Collective,'Tribeca Films',TriStar/FilmDistrict,'Oscilloscope Pictures',Unknown,'Bankside Films','Maven Films','IDP/Samuel goldwyn Films','Wrekin Hill Entertainment','Millenium Entertainment','Screen Gems/SONY PICTURES','EuropaCorp. Distribution','Bloody Disgusting','Open Road Films','Maya Entertainment','Mongrel Media','Section 23','Cohen Media Group','Indomina Releasing',Cinetic,'Sony Pictures Columbia','Bloody Disgusting Films','Rocky Mountain Pictures','DreamWorks Studios','Paramount Studios',IDP/ATO,'Kidtoon Films','Paramount Studios/Dreamworks','Screen Media Ventures','Active Entertainment','The Asylum','Adopt Films','Film District','Bad Parents LLC','MTI Home Video','FilmArt Kft.','Film Movement','Anchor Bay Films','Eros Entertainment','Axis Pacific Filmworks','Garagefilm International','Well Go USA',Slamdance,'Breaking Glass Pictures','Phase 4 Films','First Pond Entertainment','IFC Midnight','Artemis Productions','Paragraph Pictures','Motlys AS','Fever Productions',Cinedigm,'Riva Filmproduktion',Motlys,'DreamWorks Animation','FUN FAMILY FEATURES. LLC','RLJ/Image Entertainment','Gravitas Ventures','Xlrator Media','Anchor Bay/Freestyle Releasing','Drafthouse Films','Relativity Media','Millennium Entertainment','Independent Pictures/Metrodome Dist.','Vertical Entertainment','Universal Classics','Entertainment One',Radius-TWC,'Paramount Pictures/MGM','Entertainment One Films','Grindstone Entertainment','Exclusive Media','Zip Cinema','AZ Films','Lionsgate Pictures','Atlas Distribution',A24,'Eone Films','Uncorkd Entertainment','Cinelou Films','Abramorama Entertainment','Eat With Me Productions',Kumie,'Rajshri Media','Pure Flix Entertainment',Idyll,'DisneyToon Studios','Clarius Entertainment','Monterey Media','Magnolia Pictutures','Front Street Pictures','Samuel Douek/Hola Mexico Film Festival','Film Arcade','Honora Productions','Vice Films','Oscilloscope Laboratories','Eclectic Pictures','Voltage Pictures','Embargo Films','Disney Channel','A24 Films','Stage 6 Films','Epic Pictures','The Film Arcade','Film Presence','The Orchard','Sundance Selects','Anguish Film','Element Pictures','Scope Pictures','Transatlantic Films','Carmel Creek Productions','See-Saw Films','Lucky Birds Media','A24 and DIRECTV','Millennium Films','Meadowland Production',EuropaCorp,'Piki Films','DHX Media','Gettin Rad Productions','Nonetheless Productions','Samson Films','21 Laps Entertainment','Gunpowder & Sky','Studio 71','Saban Films','Keep Your Head','Square Enix Company',Netflix,'Bad Robot Productions','Broad Green Pictures','Intrepid Pictures','Easy Tiger','Ombra Films','BH Tilt','Nine Nights','Borderline Films','James Patterson Entertainment','Western Edge Pictures','El Deseo','Walt Disney Pictures/PIXAR','Liongate Films','SGL Entertainment','Harbinger Pictures','EuropaCorp / STXfilms',USA,NEON,'Amazon Studios and Roadside Attractions',Disney/Pixar,'Amazon Studios','Bleecker Street','Fingerprint Releasing / Bleecker Street','Vertigo Entertainment','Revelator Films','RLJ Entertainment','DC Entertainment','Film Science','Aviron Pictures','Lionsgate Premiere',STXfilms,'Warner Brothers','40 Acres & A Mule Filmworks','Marvel Studios','Wunderbar Studios'}
+@attribute Rated {APPROVED,'NOT RATED',G,PG,N/A,R,TV-Y7,PASSED,UNRATED,GP,NC-17,PG-13,TV-14,Unrated,TV-PG,TV-G,TV-MA,TV-Y}
+@attribute Genre {Action,Drama,Comedy,Animation,Horror,Crime,Biography,Adventure,Documentary,Western,Fantasy,Mystery,Thriller,Musical,Family,Sci-Fi,Short,N/A,Adult,Romance}
+@attribute 'Writers F' numeric
+@attribute 'Writers M' numeric
+@attribute Director {M,F}
+@attribute imdbRating numeric
+
+@data
+Exodus,tt0053804,1960,P,USA,0,'United Artists',APPROVED,Action,0,2,M,6.8
+'Les yeux sans visage',tt0053459,1960,P,France,2,'Criterion Collection','NOT RATED',Drama,0,5,M,7.8
+'Story of Ruth, The',tt0054343,1960,P,USA,1,Fox,'NOT RATED',Drama,0,0,M,6.8
+'Zazie dans le metro',tt0054494,1960,P,France,4,'Criterion Collection','NOT RATED',Comedy,0,2,M,7.1
+'Apartment, The',tt0053604,1960,P,USA,0,'United Artists','NOT RATED',Comedy,0,1,M,8.3
+'One, Two, Three',tt0055256,1961,P,USA,1,'MGM Home Entertainment','NOT RATED',Comedy,0,1,M,8
+'One Hundred and One Dalmatians',tt0055254,1961,P,USA,1,'Buena Vista',G,Animation,0,0,M,7.2
+'A Woman Is a Woman',tt0055572,1961,F,France,4,'Rialto Pictures','NOT RATED',Comedy,0,0,M,7.6
+'A Raisin in the Sun',tt0055353,1961,P,USA,0,'Sony Pictures Home Entertainment',APPROVED,Drama,0,0,M,8.1
+'Parent Trap, The',tt0055277,1961,P,USA,0,'Buena Vista Distribution Company',G,Comedy,0,1,M,7.1
+'Innocents, The',tt0055018,1961,P,UK,0,Fox,'NOT RATED',Horror,0,3,M,7.9
+'Blue Hawaii',tt0054692,1961,P,USA,0,'Paramount Pictures',PG,Comedy,0,1,M,6.1
+'King Kong vs. Godzilla',tt0056142,1962,P,Japan,0,Toho,APPROVED,Action,0,2,M,5.9
+'Trial of Joan of Arc, The',tt0059616,1962,F,France,0,'Criterion Collection',N/A,Drama,0,1,M,7.6
+Lolita,tt0056193,1962,P,UK,0,MGM,'NOT RATED',Crime,0,0,M,7.6
+'War of the Buttons',tt0054949,1962,F,France,0,'Comet Films',N/A,Comedy,0,1,M,7.5
+'Miracle Worker, The',tt0056241,1962,P,USA,0,'MGM Home Entertainment','NOT RATED',Biography,0,2,M,8.1
+'Advise &amp; Consent',tt0055728,1962,P,USA,0,'WARNER BROTHERS PICTURES','NOT RATED',Drama,0,1,M,7.8
+'Move Over, Darling',tt0057329,1963,P,USA,2,'20th Century Fox',APPROVED,Comedy,2,4,M,7
+'Great Escape, The',tt0057115,1963,F,USA,0,'United Artists',APPROVED,Adventure,0,2,M,8.2
+Sanjuro,tt0056443,1963,P,Japan,0,'Criterion Collection','NOT RATED',Action,1,0,F,8.2
+'Silence, The',tt0057611,1963,P,Sweden,0,'Criterion Collection',R,Drama,0,0,M,8
+'From Russia with Love',tt0057076,1963,P,UK,0,'United Artists',PG,Action,1,1,M,7.5
+'Summer Magic',tt0057542,1963,P,USA,1,'Walt Disney Productions',APPROVED,Comedy,1,0,M,7.1
+'Suzanne&#39;s Career',tt0056910,1963,P,France,1,'Criterion Collection','NOT RATED',Drama,0,0,M,7.2
+Atragon,tt0057215,1963,F,Japan,0,N/A,TV-Y7,Adventure,0,0,M,6.1
+'Khaneh siah ast (The House is Black)',tt0336693,1963,F,Iran,0,N/A,N/A,Documentary,0,0,M,8
+'Tom Jones',tt0057590,1963,P,UK,0,'Woodfall Film Productions','NOT RATED',Adventure,0,2,M,6.7
+'Birds, The',tt0056869,1963,P,USA,0,'Universal Pictures',PASSED,Drama,1,1,M,7.7
+'Servant, The',tt0057490,1963,P,UK,0,'Rialto Pictures',UNRATED,Drama,0,1,M,7.9
+'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb',tt0057012,1964,F,USA,0,'Sony Pictures',PG,Comedy,0,4,M,8.4
+'Hush...Hush, Sweet Charlotte',tt0058213,1964,P,USA,0,Fox,APPROVED,Crime,0,3,M,7.7
+'Mary Poppins',tt0058331,1964,P,USA,0,'Walt Disney Productions',G,Comedy,0,0,M,7.8
+'Ghidorah, the Three-Headed Monster',tt0058544,1964,P,Japan,0,N/A,'NOT RATED',Action,0,0,M,6.7
+Marnie,tt0058329,1964,P,USA,2,'MCA Universal Home Video',PG,Crime,0,2,M,7.2
+'Dead Ringer',tt0057997,1964,P,USA,5,'Warner Bros. Pictures',UNRATED,Crime,0,2,M,7.4
+'Viva Las Vegas',tt0058725,1964,F,USA,0,MGM,APPROVED,Comedy,0,0,M,6.4
+'Red Desert',tt0058003,1964,P,Italy,2,'Janus Films','NOT RATED',Drama,0,0,M,7.7
+'Inside Daisy Clover',tt0059314,1965,P,USA,0,'Warner Bros.',APPROVED,Drama,0,2,M,6.3
+'Juliet of the Spirits',tt0059229,1965,P,Italy,2,'Criterion Collection','NOT RATED',Comedy,0,0,M,7.7
+'For a Few Dollars More',tt0059578,1965,F,Italy,0,'MGM Home Entertainment',R,Western,0,3,M,8.3
+'Flight of the Phoenix, The',tt0059183,1965,F,USA,0,'20th Century Fox Film Corporation','NOT RATED',Adventure,0,2,M,7.6
+'Mne dvadtsat let (I am twenty)',tt0058361,1965,P,'Soviet Union',0,N/A,N/A,Drama,0,0,M,8
+'Death Rides a Horse',tt0064208,1966,F,Italy,0,'Live Home Video',R,Western,0,1,M,7.2
+'Cathy Come Home',tt0059020,1966,P,UK,2,?,N/A,Drama,0,1,M,8
+'Trouble with Angels, The',tt0061122,1966,P,USA,2,'Sony Pictures Entertainment',PG,Comedy,1,0,M,7.5
+Blow-Up,tt0060176,1966,F,UK,0,MGM,'NOT RATED',Drama,0,2,M,7.6
+'Black Girl',tt0060758,1966,P,Senegal,1,N/A,'NOT RATED',Drama,0,0,M,7.5
+'Plague of the Zombies, The',tt0060841,1966,P,UK,0,'Warner Bros.',APPROVED,Horror,0,1,M,6.7
+'La caza',tt0060223,1966,F,Spain,0,'Trans Lux Inc.',N/A,Drama,0,1,M,7.7
+Django,tt0060315,1966,F,Italy,0,'Rialto Pictures','NOT RATED',Action,0,5,M,7.3
+'Fahrenheit 451',tt0060390,1966,P,UK,0,'Universal Pictures','NOT RATED',Drama,0,1,M,7.3
+'Bonnie and Clyde',tt0061418,1967,P,USA,0,'Warner Brothers/Seven Arts',R,Action,0,2,M,7.9
+'Dirty Dozen, The',tt0061578,1967,F,UK,0,MGM,'NOT RATED',Action,0,1,M,7.8
+'Uchu daikaiju Girara',tt0062411,1967,P,Japan,0,'Criterion Collection',PG,Horror,0,0,M,4.9
+Playtime,tt0062136,1967,P,France,0,'Continental Distributing','NOT RATED',Comedy,0,0,M,8
+'Belle de Jour',tt0061395,1967,P,France,1,'Miramax Zoe',R,Drama,0,2,M,7.8
+'Young Girls of Rochefort, The',tt0062873,1967,P,France,1,Miramax-Zoe,G,Comedy,0,0,M,7.7
+Bedazzled,tt0061391,1967,P,UK,1,'Twentieth Century Fox',APPROVED,Comedy,0,2,M,7
+Berserk,tt0061398,1967,P,UK,1,'Sony Pictures Entertainment','NOT RATED',Horror,0,0,M,5.1
+Head,tt0063049,1968,F,USA,0,'Columbia Pictures',G,Comedy,0,1,M,6.6
+'Yellow Submarine',tt0063823,1968,F,UK,0,'Independent Pictures',G,Animation,0,5,M,7.4
+'Party, The',tt0063415,1968,P,USA,0,'United Artists',PG,Comedy,0,3,M,7.6
+'Women in Love',tt0066579,1969,P,UK,1,N/A,R,Drama,0,1,M,7.5
+'Honeymoon Killers, The',tt0064437,1969,P,USA,3,'Live Home Video',R,Crime,0,1,M,7.1
+'Godzilla&#39;s Revenge (Godzilla, Minira, Gabara: All Monsters Attack)',tt0064373,1969,F,Japan,0,'Sony Pictures Entertainment',G,Action,0,0,M,3.9
+'Claire&#39;s Knee',tt0065772,1970,P,France,1,'Media Home Entertainment',GP,Comedy,0,0,M,7.8
+'Boys in the Band, The',tt0065488,1970,F,USA,0,'Hollywood Classics',R,Drama,0,0,M,7.7
+Dodes&#39;ka-den,tt0065649,1970,P,Japan,0,N/A,'NOT RATED',Drama,1,0,F,7.5
+'Donkey Skin',tt0066207,1970,P,France,2,'Koch Lorber Films','NOT RATED',Drama,0,1,M,7.1
+'Le Cercle Rouge',tt0065531,1970,F,France,0,'Rialto Pictures','NOT RATED',Crime,0,0,M,8.1
+'Bedknobs and Broomsticks',tt0066817,1971,P,USA,0,'Buena Vista Pictures',G,Animation,1,1,M,7.1
+'Lust for a Vampire',tt0067367,1971,P,UK,0,EMI,R,Horror,0,0,M,5.8
+Klute,tt0067309,1971,P,USA,0,'Warner Home Video',R,Crime,0,2,M,7.2
+'THX 1138',tt0066434,1971,F,USA,1,'Warner Bros. Pictures',R,Drama,0,3,M,6.8
+'Mon oncle Antoine',tt0067439,1971,P,Canada,0,'Criterion Collection','NOT RATED',Drama,0,0,M,7.7
+'Vampyros Lesbos',tt0066380,1971,P,'West Germany',2,'Floralva Exclusivas',UNRATED,Drama,1,2,M,5.5
+'Last Tango in Paris',tt0070849,1972,P,France,1,'United Artists',NC-17,Drama,0,1,M,7.1
+'Mattei Affair (Il caso Mattei), The',tt0068346,1972,F,Italy,0,N/A,R,Biography,0,0,M,7.8
+Blacula,tt0068284,1972,P,USA,0,'HBO Video',PG,Fantasy,0,1,M,5.6
+Avanti!,tt0068240,1972,P,Italy,0,'United Artists',R,Comedy,0,2,M,7.2
+Sleuth,tt0069281,1972,F,UK,1,'20th Century Fox Film Corporation',PG,Mystery,0,2,M,8
+'Duscreet Charm of the Bourgeoisie, The',tt0068361,1972,P,France,0,'20th Century Fox',PG,Comedy,0,1,M,8
+'L&#39;aventure, c&#39;est l&#39;aventure',tt0066798,1972,F,France,0,'Cinéma Du Parc',R,Adventure,0,2,M,7
+Frenzy,tt0068611,1972,P,UK,1,'Universal Pictures',R,Thriller,0,2,M,7.5
+'Butterflies Are Free',tt0068326,1972,P,USA,2,'Sony Pictures Entertainment',PG,Comedy,0,2,M,7.2
+Cabaret,tt0068327,1972,P,USA,0,'Twentieth Century Fox Home Entertainment',PG,Drama,0,4,M,7.8
+'Don&#39;t look now',tt0069995,1973,P,UK,1,'Paramount Pictures',R,Drama,1,2,M,7.3
+'El ataque de los muertos sin ojos [Return of the Evil Dead]',tt0068232,1973,P,Spain,0,'Blue Underground','NOT RATED',Horror,0,0,M,6
+'Lady Snowblood',tt0158714,1973,P,Japan,1,'Toho Company Ltd.','NOT RATED',Action,0,0,M,7.7
+'Don Juan (Or If Don Juan Were a Woman)',tt0069990,1973,P,France,5,'Criterion Collection',R,Drama,0,3,M,5
+'Jesus Christ Superstar',tt0070239,1973,F,USA,0,'Universal Studios',G,Drama,0,0,M,7.3
+Papillon,tt0070511,1973,F,France,0,'Twentieth Century Fox Home Entertainment',R,Biography,0,2,M,8
+'Godzilla vs. Megalon',tt0070122,1973,F,Japan,0,'Toho Company','NOT RATED',Action,0,0,M,4.6
+'Crazies, The',tt0069895,1973,P,USA,0,'Blue Underground',R,Action,0,2,M,6.1
+'Foxy Brown',tt0071517,1974,P,USA,2,'MGM Home Entertainment',R,Action,0,1,M,6.5
+Emmanuelle,tt0071464,1974,P,France,1,'Columbia Pictures',UNRATED,Drama,0,0,M,5.3
+'Celine and Julie Go Boating',tt0071381,1974,P,France,1,N/A,UNRATED,Comedy,2,3,M,7.8
+'Odessa File, The',tt0071935,1974,P,UK,0,'Sony Pictures Home Entertainment',PG,Drama,0,3,M,7
+'Black Christmas',tt0071222,1974,P,Canada,0,'Warner Bros. Pictures',R,Horror,0,1,M,7.2
+Mame,tt0071803,1974,P,USA,0,'Warner Bros. Pictures',PG,Musical,0,7,M,6
+'Ali: Fear Eats the Soul',tt0071141,1974,P,'West Germany',2,'New Yorker Films','NOT RATED',Drama,0,0,M,8.1
+'Female Trouble',tt0072979,1974,P,USA,1,'Continental Home Video',NC-17,Comedy,0,1,M,7.3
+'Love and Death',tt0073312,1975,P,USA,0,'United Artists',PG,Comedy,0,0,M,7.8
+'Dialogues of Exiles',tt0071427,1975,P,Chile,0,N/A,N/A,Comedy,0,0,M,7.2
+'Story of O, The',tt0073115,1975,P,France,2,'Phaedra Cinema',NC-17,Drama,1,1,M,5.4
+'Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles',tt0073198,1975,P,Belgium,5,'Criterion Collection','NOT RATED',Drama,0,0,M,8
+'Katie Tippel',tt0073233,1975,P,Netherlands,3,N/A,R,Drama,0,0,M,6.7
+'Assault on Precinct 13',tt0074156,1976,P,USA,0,'Turtle Releasing',R,Action,0,1,M,7.4
+Network,tt0074958,1976,P,USA,0,'MGM/United Artists',R,Drama,0,0,F,8.1
+'Bugsy Malone',tt0074256,1976,P,UK,0,'Paramount Pictures',G,Comedy,0,1,M,6.9
+'Omen, The',tt0075005,1976,P,UK,0,'20th Century Fox',R,Horror,0,1,M,7.6
+'Desert of the Tartars, The',tt0074400,1976,F,Italy,0,'France 3 Cinéma',PG,Drama,0,0,M,7.6
+'In the Realm of the Senses',tt0074102,1976,P,Japan,2,Surrogate,NC-17,Biography,0,0,M,6.6
+Suspiria,tt0076786,1977,P,Italy,0,'International Classics Inc.',R,Horror,0,1,M,7.5
+'Desperate Living',tt0075936,1977,P,USA,3,'WARNER BROTHERS PICTURES',N/A,Comedy,0,1,M,7.2
+'Sluzhebnyy roman',tt0076727,1977,P,'Soviet Union',1,N/A,N/A,Comedy,0,0,M,8.4
+'Annie Hall',tt0075686,1977,P,USA,0,'United Artists',PG,Comedy,0,1,M,8
+'Ringing Bell (Chirin no Suzu)',tt0306646,1978,F,Japan,1,N/A,N/A,Animation,0,0,M,7.3
+'Quel maledetto treno blindato',tt0076584,1978,F,Italy,0,'Severin Films',R,Action,1,3,M,6.6
+'A Woman Called Moses',tt0078509,1978,P,USA,0,?,N/A,Biography,0,0,M,7.4
+'Hound of the Baskervilles, The',tt0076161,1978,P,UK,0,'Atlantic Releasing Corporation','NOT RATED',Comedy,0,3,M,4.6
+'Days of Heaven',tt0077405,1978,P,USA,1,'Paramount Pictures',PG,Drama,0,1,M,7.9
+'Mad Max',tt0079501,1979,P,Australia,0,s,R,Action,0,4,M,7
+'Angels&#39; Brigade',tt0078778,1979,P,USA,2,'Arista Films',PG,Action,0,1,M,1.9
+'Rock &#39;n&#39; Roll High School',tt0079813,1979,P,USA,0,'New World Pictures',PG,Comedy,0,4,M,6.8
+'Life of Brian',tt0079470,1979,P,UK,0,'Warner Bros. Pictures',R,Comedy,0,6,M,8.1
+'Black Hole, The',tt0078869,1979,F,USA,0,'Walt Disney Productions',PG,Action,0,1,M,5.9
+Hair,tt0079261,1979,P,'West Germany',1,'United Artists',PG,Comedy,0,2,M,7.6
+'My Brilliant Career',tt0079596,1979,P,Australia,3,'Westchester Films',G,Biography,1,1,F,7.3
+'Bell Jar, The',tt0078843,1979,P,USA,2,'AVCO Embassy Pictures',R,Biography,1,0,M,5.7
+'Friday the 13th',tt0080761,1980,P,USA,0,'Paramount Pictures',R,Horror,0,1,M,6.5
+'Heaven&#39;s Gate',tt0080855,1980,F,USA,0,MGM/UA,R,Adventure,0,1,M,6.8
+'Final Countdown, The',tt0080736,1980,F,USA,0,'Live Home Video',PG,Action,0,6,M,6.7
+Maniac,tt0081114,1980,P,USA,2,Analysis,R,Drama,0,2,M,6.5
+'Mirror Crack&#39;d, The',tt0081163,1980,P,UK,1,'Anchor Bay Entertainment',PG,Crime,0,1,M,6.2
+'Ms. 45',tt0082776,1981,P,USA,1,'Rochelle Films',R,Crime,0,1,M,6.8
+Polyester,tt0082926,1981,P,USA,7,'New Line Cinema',R,Comedy,0,1,M,7
+'Christiane F. - Wir Kinder vom Bahnhof Zoo',tt0082176,1981,P,'West Germany',2,'Maran Film',R,Biography,0,1,M,7.6
+'Das Boot',tt0082096,1981,F,'West Germany',0,'Columbia Pictures',R,Adventure,0,0,M,8.4
+'...E tu vivrai nel terrore! L&#39;aldila (The Beyond)',tt0082307,1981,P,Italy,2,'Rolling Thunder',R,Horror,0,0,M,6.9
+'Umrao Jaan',tt0083248,1981,P,India,0,N/A,N/A,Drama,0,0,M,7.9
+'Howling, The',tt0082533,1981,P,USA,0,'MGM Home Entertainment',R,Horror,0,2,M,6.6
+'Mommy Dearest',tt0082766,1981,P,USA,2,'Paramount Pictures',R,Biography,1,3,M,6.7
+'Southern Comfort',tt0083111,1981,F,USA,0,'20th Century Fox Film Corporation',R,Action,0,3,M,7.2
+'Prowler, The',tt0082951,1981,P,USA,0,Fangoria,R,Horror,1,4,M,6.1
+'Forbidden World',tt0083959,1982,P,USA,0,'New World Pictures',R,Horror,0,0,M,5.3
+Smithereens,tt0084698,1982,P,USA,0,FilmBuff,R,Drama,1,1,F,6.7
+'First Blood',tt0083944,1982,F,USA,0,'Orion Pictures',R,Action,0,3,M,7.7
+'Friday the 13th Part III',tt0083972,1982,P,USA,0,'Paramount Home Video',R,Horror,0,2,M,5.7
+TRON,tt0084827,1982,F,USA,0,'Buena Vista Pictures',PG,Action,0,2,M,6.8
+Annie,tt0083564,1982,P,USA,2,'Columbia Pictures',PG,Comedy,0,1,M,6.5
+'Star Trek: The Wrath of Khan',tt0084726,1982,P,USA,0,'Paramount Pictures',PG,Action,0,2,M,7.7
+'Finye (The Wind)',tt0083942,1982,P,Mali,1,'Cissé/Sisé Filimu',N/A,Drama,0,0,M,6.7
+'Ladies and Gentlemen, the Fabulous Stains',tt0082639,1982,P,USA,3,'Paramount Pictures',R,Comedy,1,0,M,6.9
+'State of Things, The',tt0084725,1982,P,Netherlands,0,'Pacific Arts',N/A,Drama,0,2,M,7.1
+'E.T.: The Extra-Terrestrial',tt0083866,1982,P,USA,0,'Universal Pictures',PG,Family,1,0,M,7.9
+'Ballad of Narayama, The',tt0084390,1983,P,Japan,3,'Toei Company','NOT RATED',Drama,0,0,M,7.9
+'Go for It',tt0085601,1983,F,Italy,0,'Lionsgate Films',N/A,Action,0,1,M,7.2
+'El Norte',tt0085482,1983,P,UK,0,'Criterion Collection',R,Drama,1,1,M,7.7
+'Educating Rita',tt0085478,1983,P,UK,3,'Columbia Pictures Corporation',PG,Comedy,0,0,M,7.2
+Silkwood,tt0086312,1983,P,USA,1,'20th Century Fox',R,Biography,2,0,M,7.2
+'Jaws 3-D',tt0085750,1983,P,USA,0,'MCA Universal Home Video',PG,Adventure,0,3,M,3.6
+'Johnny Dangerously',tt0087507,1984,P,USA,1,'Twentieth Century Fox Home Entertainment',PG-13,Comedy,0,1,F,6.5
+'Night of the Comet',tt0087799,1984,P,USA,0,'Paramount Pictures',PG-13,Comedy,0,0,M,6.4
+'Friday the 13th Part IV: The Final Chapter',tt0087298,1984,P,USA,0,'Paramount Home Video',R,Horror,0,3,M,6
+'A Private Function',tt0089838,1984,P,UK,0,'Island Alive',R,Comedy,0,3,M,6.6
+'Muppets Take Manhattan, The',tt0087755,1984,P,USA,0,'Sony Pictures Home Entertainment',G,Adventure,0,3,M,6.9
+'Bostonians, The',tt0086992,1984,P,UK,2,'Rank Organisation','NOT RATED',Drama,1,1,M,6.3
+'Purple Rain',tt0087957,1984,P,USA,0,'Warner Home Video',R,Drama,0,2,M,6.5
+'Trip To Bountiful, The',tt0090203,1985,P,USA,2,'Nelson Entertainment',PG,Drama,0,0,M,7.6
+'Girls Just Want to Have Fun',tt0089208,1985,P,USA,1,'New World Video',PG,Comedy,1,0,M,6
+'Red Sonja',tt0089893,1985,P,USA,1,MGM/UA,PG-13,Action,0,2,M,5
+'Quiet Earth, The',tt0089869,1985,F,'New Zealand',0,'Anchor Bay Entertainment',R,Drama,0,3,M,6.8
+'Color Purple, The',tt0088939,1985,P,USA,3,'Warner Home Video',PG-13,Drama,1,0,M,7.8
+'Dim Sum: A Little Bit of Heart',tt0087150,1985,P,USA,3,'Orion Classics',PG,Comedy,0,0,M,6.6
+Clue,tt0088930,1985,P,USA,0,'Paramount Pictures',PG,Comedy,0,3,M,7.3
+'Purple Rose of Cairo',tt0089853,1985,P,USA,0,'Orion Pictures Corporation',PG,Comedy,0,0,M,7.7
+'Legend of Billie Jean, The',tt0089470,1985,P,USA,2,'TriStar Pictures',PG-13,Action,0,2,M,6.6
+Phenomena,tt0087909,1985,P,Italy,2,'Media Home Entertainment',R,Horror,0,4,M,6.9
+'Breakfast Club, The',tt0088847,1985,P,USA,0,'Universal Pictures',R,Comedy,0,1,M,7.9
+'Desperately Seeking Susan',tt0089017,1985,P,USA,1,'MGM Home Entertainment',PG-13,Comedy,0,0,F,5.9
+'Ferris Bueller&#39;s Day Off',tt0091042,1986,P,USA,0,'Paramount Pictures',PG-13,Comedy,0,1,M,7.8
+'Parent Trap II, The',tt0091721,1986,P,USA,0,'Walt Disney Television','NOT RATED',Family,0,0,M,6.3
+Aliens,tt0090605,1986,P,USA,0,'20th Century Fox Film Corporat',R,Action,0,5,M,8.4
+'Howard The Duck',tt0091225,1986,P,USA,0,'Universal Pictures',PG,Action,1,1,M,4.6
+'Pretty in Pink',tt0091790,1986,P,USA,2,'Paramount Pictures',PG-13,Comedy,0,1,M,6.8
+'An American Tail',tt0090633,1986,P,USA,0,'Universal Pictures',G,Animation,0,3,M,6.9
+'Project A-ko',tt0091794,1986,P,Japan,1,N/A,UNRATED,Animation,0,0,M,7.1
+'Big Trouble in Little China',tt0090728,1986,P,USA,0,'Twentieth Century Fox',PG-13,Action,0,2,M,7.3
+'Star Trek IV:  The Voyage Home',tt0092007,1986,P,USA,0,'Paramount Pictures',PG,Adventure,0,4,M,7.3
+Pirates,tt0091757,1986,F,France,0,'Cannon Film Distributors',PG-13,Adventure,0,2,M,6.1
+'Ruthless People',tt0091877,1986,P,USA,1,'Buena Vista Pictures',R,Comedy,0,1,M,6.9
+'Short Circuit',tt0091949,1986,P,USA,0,'Twentieth Century Fox Home Entertainment',PG,Comedy,0,1,M,6.6
+'Stand By Me',tt0092005,1986,F,USA,0,'MCA Universal Home Video',R,Adventure,0,2,M,8.1
+'Peking Opera Blues',tt0090952,1986,P,'Hong Kong',0,'Gordons Films',TV-14,Comedy,0,1,M,7.4
+'Swimming to Cambodia',tt0094089,1987,F,USA,0,'Cinecom Pictures',R,Comedy,0,0,M,7.7
+'I&#39;ve Heard the Mermaids Singing',tt0093239,1987,P,Canada,1,'New Line Home Entertainment',R,Comedy,1,0,F,6.9
+Dragnet,tt0092925,1987,P,USA,0,'MCA Universal Home Video',PG-13,Comedy,0,1,M,5.9
+'Wonderful Wizard of Oz, The',tt0098675,1987,P,Canada,2,'Lightyear Entertainment',N/A,Animation,0,0,M,7.7
+'Whales Of August, The',tt0094315,1987,P,USA,0,'Nelson Entertainment','NOT RATED',Drama,0,2,F,7.5
+'Fatal Attraction',tt0093010,1987,P,USA,0,'Paramount Pictures',R,Drama,0,2,M,6.9
+'Light of Day',tt0093415,1987,P,USA,0,'TAFT Entertainment Pictures',PG-13,Drama,0,1,M,5.5
+'Witches of Eastwick, The',tt0094332,1987,P,USA,1,'Warner Home Video',R,Comedy,0,2,M,6.5
+'Black Widow',tt0090738,1987,P,USA,1,'Twentieth Century Fox Home Entertainment',R,Crime,0,1,M,6.3
+'Broadcast News',tt0092699,1987,P,USA,0,'Twentieth Century Fox Home Entertainment',R,Comedy,0,1,M,7.2
+'Outrageous Fortune',tt0093690,1987,P,USA,1,'Touchstone Pictures',R,Comedy,1,0,M,6.1
+Ngati,tt0093615,1987,P,'New Zealand',0,'Pacific Film',N/A,Drama,0,0,M,7.5
+'Full Metal Jacket',tt0093058,1987,F,UK,0,'Warner Bros.',R,Drama,0,2,M,8.3
+Spaceballs,tt0094012,1987,P,USA,0,MGM,PG,Adventure,0,1,M,7.1
+'High Tide',tt0095305,1987,P,Australia,4,'New Line Home Entertainment',PG-13,Drama,1,0,F,7.2
+'Creepshow 2',tt0092796,1987,P,USA,0,'New World Video',R,Comedy,0,2,M,6.1
+'El bosque animado',tt0092693,1987,P,Spain,0,N/A,N/A,Comedy,0,1,M,7.5
+'Prince of Darkness',tt0093777,1987,P,USA,0,'MCA Universal Home Video',R,Horror,0,1,M,6.7
+'Last Emperor, The',tt0093389,1987,P,UK,0,'Columbia Pictures',PG-13,Biography,0,2,M,7.8
+'Adventures in Babysitting',tt0092513,1987,P,USA,2,'Touchstone Pictures',PG-13,Adventure,0,1,M,6.9
+Willow,tt0096446,1988,P,USA,0,'MGM Home Entertainment',PG,Action,0,1,M,7.3
+'Maniac Cop',tt0095583,1988,P,USA,0,'Trans World Entertainment',R,Action,0,1,M,6
+'Hell Comes to Frogtown',tt0093171,1988,P,USA,1,'New World Pictures',R,Action,0,3,M,5.5
+'Distant Voices, Still Lives',tt0095037,1988,P,UK,0,'Film Four International',PG-13,Drama,0,0,M,7.5
+Heathers,tt0097493,1988,P,USA,1,'New World Video',R,Comedy,0,1,M,7.3
+'Die Hard',tt0095016,1988,P,USA,1,'20th Century Fox',R,Action,0,2,M,8.2
+'A Fish Called Wanda',tt0095159,1988,P,UK,0,MGM,R,Comedy,0,3,M,7.6
+'Dangerous Liaisons',tt0094947,1988,P,USA,2,'Warner Home Video',R,Drama,0,2,M,7.6
+'Mystic Pizza',tt0095690,1988,P,USA,0,'MGM Home Entertainment',R,Comedy,2,2,M,6.2
+'Rock &#39;n&#39; Roll Mom',tt0096001,1988,P,USA,0,?,Unrated,Adventure,0,0,M,5.9
+'Grave of the Fireflies',tt0095327,1988,F,Japan,0,'Shinchosha Company','NOT RATED',Animation,0,0,M,8.5
+'Oranges Are Not The Only Fruit',tt0098032,1989,P,UK,2,?,N/A,Drama,0,0,M,7.7
+'Back to the Future Part II',tt0096874,1989,P,USA,0,'Universal Pictures',PG,Adventure,0,2,M,7.8
+'Honey, I Shrunk the Kids',tt0097523,1989,P,USA,1,Disney,PG,Adventure,0,1,M,6.3
+'Delinquents, The',tt0097182,1989,P,Australia,0,N/A,N/A,Drama,0,1,M,5.6
+'Crimes and Misdemeanors',tt0097123,1989,P,USA,2,'Orion Pictures Corporation',PG-13,Comedy,0,0,M,8
+'Born on the Fourth of July',tt0096969,1989,P,USA,0,'Universal Pictures',R,Biography,0,1,M,7.2
+'Friday the 13th Part VIII: Jason Takes Manhattan',tt0097388,1989,P,USA,0,'Paramount Home Video',R,Adventure,0,1,M,4.6
+Loverboy,tt0097790,1989,P,USA,0,'Sony Pictures Home Entertainment',PG-13,Comedy,1,0,M,6
+'Get Smart, Again!',tt0097423,1989,P,USA,0,'Worldvision Home Video','NOT RATED',Comedy,0,3,M,6.4
+'When Harry Met Sally',tt0098635,1989,P,USA,0,'Columbia Pictures',R,Comedy,1,0,M,7.6
+'Mystery Train',tt0097940,1989,P,USA,0,'Orion Home Video',R,Comedy,0,0,M,7.6
+'Leningrad Cowboys Go America',tt0097728,1989,F,Finland,0,'Criterion Collection',PG-13,Comedy,0,0,M,7
+She-Devil,tt0098309,1989,P,USA,1,'20th Century Fox',PG-13,Comedy,0,1,F,5.5
+'Henry V',tt0097499,1989,P,UK,0,'MGM Home Entertainment',PG-13,Action,0,2,M,7.6
+'A Nightmare on Elm Street 5: The Dream Child',tt0097981,1989,P,USA,1,'New Line Cinema',R,Fantasy,2,2,M,5.1
+'Life Is Sweet',tt0100024,1990,P,UK,1,'Republic Pictures Home Video',R,Comedy,0,1,M,7.5
+Goodfellas,tt0099685,1990,P,USA,1,'Warner Bros.',R,Crime,0,3,M,8.7
+'Godfather: Part III, The',tt0099674,1990,P,USA,0,'Paramount Pictures',R,Crime,0,2,M,7.6
+'Pretty Woman',tt0100405,1990,P,USA,0,'Buena Vista',R,Comedy,0,0,M,7
+'Happily Ever After',tt0099733,1990,P,USA,3,N/A,G,Family,1,0,M,5.1
+'Child&#39;s Play 2',tt0099253,1990,P,USA,1,'MCA Universal Home Video',R,Horror,0,0,M,5.8
+'A Tale of Springtime',tt0097106,1990,P,France,2,'Orion Classics',PG,Comedy,0,0,M,7.4
+'Long Walk Home, The',tt0100046,1990,P,USA,1,Miramax,PG,Drama,0,1,M,7.3
+'I Hired a Contract Killer',tt0099818,1990,F,Finland,0,N/A,'NOT RATED',Comedy,0,1,M,7.3
+'Die Hard 2',tt0099423,1990,P,USA,0,'20th Century Fox',R,Action,0,2,M,7.1
+'Where the Heart Is',tt0100924,1990,P,USA,0,'Touchstone Pictures',R,Comedy,0,1,M,6.1
+Metropolitan,tt0100142,1990,P,USA,0,'Rialto Pictures',PG-13,Comedy,0,0,M,7.5
+'Toy Soldiers',tt0103112,1991,F,USA,0,'Sony Pictures Home Entertainment',R,Action,0,3,M,6.5
+'An American Tail: Fievel Goes West',tt0101329,1991,P,USA,0,'Universal Pictures',G,Animation,0,2,M,6.5
+'Critters 3',tt0101627,1991,P,USA,0,'WARNER BROTHERS PICTURES',PG-13,Comedy,0,1,M,4.3
+'Don&#39;t Tell Mom the Babysitter&#39;s Dead',tt0101757,1991,P,USA,0,N/A,PG-13,Comedy,1,1,M,6.1
+Impromptu,tt0102103,1991,P,UK,1,'MGM Home Entertainment',PG-13,Biography,1,0,M,7
+'Life Stinks',tt0102303,1991,F,USA,0,MGM,PG-13,Comedy,0,4,M,5.8
+'Princess and the Goblin, The',tt0107875,1991,P,UK,2,'GT Media',G,Animation,0,1,M,6.9
+'&#39;Merci la vie&#39;',tt0102436,1991,P,France,1,N/A,N/A,Drama,0,0,M,6.8
+'Terminator 2: Judgement Day',tt0103064,1991,P,USA,1,'TriStar Pictures',R,Action,0,2,M,8.5
+'Dragon Ball Z: Cooler&#39;s Revenge',tt1125254,1991,F,Japan,0,'FUNimation Entertainment',TV-PG,Animation,1,1,M,7.3
+'Silence of the Lambs, The',tt0102926,1991,P,USA,0,'Orion Pictures Corporation',R,Crime,0,1,M,8.6
+'Madonna: Truth or Dare',tt0102370,1991,P,USA,1,'Miramax Films',R,Documentary,0,0,M,6.2
+'Linguini Incident, The',tt0102313,1991,P,USA,0,'Academy Entertainment',R,Comedy,0,1,M,6.4
+'Thelma &amp; Louise',tt0103074,1991,P,USA,0,MGM,R,Adventure,1,0,M,7.4
+'Night on Earth',tt0102536,1991,P,France,0,'Criterion Collection',R,Comedy,0,0,M,7.8
+'Neon City',tt0104981,1991,P,USA,0,Trimark,R,Action,0,0,M,5.3
+'Raise the Red Lantern',tt0101640,1991,P,China,2,'China Film Co-Production Corporation',PG,Drama,0,0,M,8.2
+'City Slickers',tt0101587,1991,P,USA,0,'Columbia Pictures',PG-13,Comedy,0,0,M,6.7
+'Alien 3',tt0103644,1992,F,USA,3,'Twentieth Century Fox Home Entertainment',R,Action,0,5,M,6.4
+'Un Coeur en Hiver',tt0105682,1992,P,France,2,'Koch Lorber Films',N/A,Drama,0,0,M,7.7
+'Buffy the Vampire Slayer',tt0103893,1992,P,USA,3,'20th Century Fox',PG-13,Action,0,0,M,5.6
+'Death Becomes Her',tt0104070,1992,P,USA,3,N/A,PG-13,Comedy,0,2,M,6.5
+Dracula,tt0103874,1992,P,USA,0,'Columbia Pictures',R,Horror,0,1,M,7.5
+'Twin Peaks: Fire Walk With Me',tt0105665,1992,P,USA,0,'New Line Cinema',R,Drama,0,4,M,7.2
+Baraka,tt0103767,1992,F,USA,0,'Magidson Films','NOT RATED',Documentary,1,2,M,8.6
+'Malcolm X',tt0104797,1992,P,USA,0,'Warner Bros.',PG-13,Biography,0,2,M,7.7
+'A League of Their Own',tt0104694,1992,P,USA,0,'Columbia Pictures',PG,Comedy,1,0,M,7.2
+'Bikini Carwash Company, The',tt0103812,1992,P,USA,1,'Krazy Karwash Kompany Inc',R,Comedy,0,1,M,4.7
+'Dead Alive',tt0103873,1992,P,'New Zealand',3,'Trimark Pictures',R,Comedy,0,3,M,7.5
+'Straight Talk',tt0105481,1992,P,USA,3,'Hollywood Pictures',PG,Comedy,1,2,M,5.7
+'Single White Female',tt0105414,1992,P,USA,1,'Columbia Pictures',R,Drama,0,1,M,6.3
+'Reservoir Dogs',tt0105236,1992,F,USA,0,'Miramax Films',R,Crime,0,3,M,8.3
+'El Mariachi',tt0104815,1992,F,Mexico,0,'Sony Pictures Home Entertainment',R,Action,0,1,M,6.9
+Ladybugs,tt0104670,1992,P,USA,1,'Paramount Home Video',PG-13,Comedy,0,1,F,5.3
+'Doragon b&ocirc;ru Z: Atsumare! Gok&ucirc; W&acirc;rudo',tt1517470,1992,F,Japan,0,N/A,N/A,Animation,1,0,M,7.2
+'Passion Fish',tt0105107,1992,P,USA,4,'Sony Pictures Home Entertainment',R,Drama,0,1,M,7.5
+'Tom and Jerry: The Movie',tt0105616,1992,P,USA,2,'Miramax Films',G,Animation,0,1,M,5.3
+'Dragon Inn',tt0105859,1992,P,'Hong Kong',0,'Tai Seng',N/A,Action,0,0,M,7.3
+'Sister Act 2: Back in the Habit',tt0108147,1993,P,USA,0,'Buena Vista',PG,Comedy,0,2,M,5.5
+Indien,tt0107214,1993,F,Austria,0,N/A,N/A,Comedy,0,3,M,7.9
+'Firm, The',tt0106918,1993,P,USA,0,'Paramount Pictures',R,Drama,0,4,F,6.8
+'Manhattan Murder Mystery',tt0107507,1993,P,USA,1,'TriStar Pictures',PG,Comedy,0,1,M,7.4
+'Demolition Man',tt0106697,1993,F,USA,0,'Warner Home Video',R,Action,0,5,M,6.6
+'What&#39;s Love Got to Do with It',tt0108551,1993,P,USA,2,'Touchstone Pictures',R,Biography,1,0,M,7.3
+Naked,tt0107653,1993,P,UK,1,'New Line Cinema','NOT RATED',Comedy,0,1,M,7.9
+'Addams Family Values',tt0106220,1993,P,USA,0,'Paramount Home Video',PG-13,Comedy,0,2,M,6.7
+'Heroic Trio, The',tt0105619,1993,P,'Hong Kong',0,'Tai Seng',R,Action,0,1,M,6.6
+'Batman: Mask of the Phantasm',tt0106364,1993,F,USA,0,'WARNER BROTHERS PICTURES',PG,Animation,0,5,M,7.9
+'Poetic Justice',tt0107840,1993,P,USA,0,'Columbia Pictures Corporation',R,Drama,0,1,M,6
+'Death Train',tt0106689,1993,P,UK,0,'New Line Cinema',R,Action,0,1,M,5.3
+'Short Cuts',tt0108122,1993,P,USA,0,'Fine Line Features',R,Comedy,0,3,M,7.7
+'Professional, The',tt0110413,1994,P,France,3,'Columbia Pictures',R,Crime,0,0,M,8.6
+'Reality Bites',tt0110950,1994,P,USA,1,'MCA Universal Home Video',PG-13,Comedy,1,0,M,6.6
+'Street Fighter',tt0111301,1994,P,Japan,0,'MCA Universal Home Video',PG-13,Action,0,1,M,3.9
+'Client, The',tt0109446,1994,P,USA,0,'Warner Home Video',PG-13,Crime,0,2,M,6.7
+'Blue Sky',tt0109306,1994,P,USA,1,'Orion Home Video',PG-13,Drama,0,1,M,6.4
+'Serial Mom',tt0111127,1994,P,USA,2,'HBO Video',R,Comedy,0,1,M,6.7
+Wrony,tt0111751,1994,P,Poland,5,N/A,N/A,Drama,0,0,M,7.4
+'Natural Born Killers',tt0110632,1994,P,USA,0,'Warner Bros. Pictures',R,Crime,0,4,M,7.3
+'Muriel&#39;s Wedding',tt0110598,1994,P,Australia,2,Miramax,R,Comedy,0,0,M,7.2
+Crooklyn,tt0109504,1994,P,USA,1,'MCA Universal Home Video',PG-13,Comedy,0,0,M,6.9
+'Death and the Maiden',tt0109579,1994,F,UK,2,'Fine Line Features',R,Drama,2,3,M,7.3
+'Kan du vissla Johanna?',tt0110236,1994,F,Sweden,0,N/A,N/A,Family,0,0,M,6.6
+'Secret of Roan Inish, The',tt0111112,1994,P,USA,2,'Samuel Goldwyn Films',PG,Drama,0,1,M,7.5
+'New Nightmare',tt0111686,1994,P,USA,0,'Turner Home Entertainment',R,Fantasy,0,0,M,6.5
+'Eat Drink Man Woman',tt0111797,1994,P,Taiwan,1,'Samuel Goldwyn Films','NOT RATED',Comedy,0,1,M,7.8
+'Beverly Hills Cop III',tt0109254,1994,F,USA,0,'Paramount Home Video',R,Action,0,2,M,5.5
+Amateur,tt0109093,1994,P,USA,3,'Sony Pictures Home Entertainment',R,Comedy,0,0,M,7
+Uncovered,tt0111549,1994,P,UK,2,N/A,N/A,Thriller,0,3,M,5.9
+'Cold Comfort Farm',tt0112701,1995,P,UK,2,'Universal Pictures',PG,Comedy,1,1,M,7.3
+'City of Lost Children, The',tt0112682,1995,P,France,0,'Sony Pictures Classics',R,Fantasy,0,1,M,7.6
+'Tank Girl',tt0114614,1995,P,USA,2,'MGM Home Entertainment',R,Action,1,2,F,5.3
+Pocahontas,tt0114148,1995,P,USA,1,'Buena Vista Distribution Compa',G,Animation,0,15,M,6.7
+'Dead Presidents',tt0112819,1995,P,USA,0,'Hollywood Pictures',R,Action,0,4,M,6.9
+'How to Make an American Quilt',tt0113347,1995,P,USA,1,'MCA Universal Home Video',PG-13,Comedy,2,0,F,6.2
+'Mimi wo sumaseba (Whisper of the Heart)',tt0113824,1995,P,Japan,2,'Optimum Releasing',G,Animation,1,1,M,8
+'Dilwale Dulhania Le Jayenge',tt0112870,1995,P,India,0,'Yash Raj Films','NOT RATED',Comedy,0,3,M,8.2
+Maborosi,tt0113725,1995,P,Japan,2,'TV Man Union',N/A,Drama,0,0,M,7.6
+'Home for the holidays',tt0113321,1995,P,USA,6,Passport,PG-13,Comedy,0,1,M,6.6
+'Dangerous Minds',tt0112792,1995,P,USA,1,Disney,R,Biography,0,1,M,6.5
+'Apollo 13',tt0112384,1995,P,USA,0,'Universal Pictures',PG,Adventure,0,2,M,7.6
+'Butterfly Kiss',tt0112604,1995,P,UK,3,N/A,'NOT RATED',Comedy,0,3,M,6.4
+Outbreak,tt0114069,1995,P,USA,0,'Warner Home Video',R,Action,0,1,M,6.6
+'Pride and Prejudice',tt0112130,1995,P,UK,2,?,TV-PG,Drama,0,0,M,8.9
+Congo,tt0112715,1995,F,USA,0,'Paramount Home Video',PG-13,Action,0,2,M,5.1
+'Judge Dredd',tt0113492,1995,P,USA,0,'Hollywood Pictures',R,Action,0,6,M,5.5
+Grim,tt0113221,1995,P,UK,0,A-Pix,R,Horror,0,1,M,2
+'English Patient, The',tt0116209,1996,P,USA,0,'Miramax Films',R,Drama,0,2,M,7.4
+'Sabrina the Teenage Witch',tt0117534,1996,P,USA,4,'Hallmark Entertainment',PG,Comedy,2,1,M,6.3
+'Kids Return',tt0116767,1996,P,Japan,0,N/A,N/A,Crime,0,0,M,7.6
+Fire,tt0116308,1996,P,Canada,1,N/A,UNRATED,Drama,0,0,M,7.3
+'Marvin&#39;s Room',tt0116999,1996,P,USA,2,'Miramax Films',PG-13,Drama,0,2,M,6.7
+'Stealing Beauty',tt0117737,1996,P,Italy,3,'Fox Searchlight Pictures',R,Drama,1,0,M,6.6
+'Sonic the Hedgehog: The Movie',tt0237765,1996,F,Japan,0,'ADV Films','NOT RATED',Animation,1,1,M,6.6
+Scream,tt0117571,1996,P,USA,5,'Miramax Films',R,Horror,0,1,M,7.2
+'Hard Eight',tt0119256,1996,F,USA,0,MGM,R,Crime,0,1,M,7.3
+'Star Trek: First Contact',tt0117731,1996,P,USA,0,'Paramount Pictures',PG-13,Action,0,2,M,7.6
+'Love and Other Catastrophes',tt0116931,1996,P,Australia,0,'Twentieth Century Fox',R,Comedy,1,1,M,6.3
+'Big Night',tt0115678,1996,P,USA,0,'Samuel Goldwyn Films',R,Drama,0,2,F,7.3
+'Female Perversions',tt0116293,1996,P,Germany,2,Trimark,R,Drama,2,0,F,5.5
+'James and the Giant Peach',tt0116683,1996,P,UK,0,'Buena Vista Pictures',PG,Animation,0,2,M,6.7
+'Secrets &amp; Lies',tt0117589,1996,P,France,5,'Twentieth Century Fox Home Entertainment',R,Drama,0,1,M,8
+'Broken Arrow',tt0115759,1996,F,USA,0,'Twentieth Century Fox Home Entertainment',R,Action,0,1,M,6
+'Entertaining Angels: The Dorothy Day Story',tt0116212,1996,P,USA,3,'Paulist Productions',PG-13,Biography,0,1,M,6.3
+Michael,tt0117038,1996,P,USA,1,'WARNER BROTHERS PICTURES',PG,Comedy,1,2,F,5.7
+'Event Horizon',tt0119081,1997,P,UK,0,'Paramount Home Video',R,Horror,0,1,M,6.7
+'I Know What You Did Last Summer',tt0119345,1997,P,USA,0,'Sony Pictures Home Entertainment',R,Horror,0,1,M,5.7
+'Spice World',tt0120185,1997,P,UK,0,'Sony Pictures Entertainment',PG,Comedy,1,1,M,3.4
+'Peacemaker, The',tt0119874,1997,P,USA,1,Dreamworks,R,Action,1,2,M,5.9
+'Devil&#39;s Advocate, The',tt0118971,1997,P,USA,0,'Warner Home Video',R,Drama,0,3,F,7.5
+'Winter Guest, The',tt0120521,1997,P,UK,3,'Fine Line Features',R,Drama,0,1,M,7.1
+'George of the Jungle',tt0119190,1997,P,USA,0,Disney,PG,Action,3,1,M,5.4
+'Well, The',tt0120493,1997,P,Australia,2,'Cowboy Booking International',N/A,Drama,2,0,F,6.1
+'Night Flier, The',tt0119784,1997,P,USA,0,'New Line Home Entertainment',R,Fantasy,0,3,M,6
+'Sticky Fingers of Time, The',tt0127302,1997,P,USA,2,'Strand Releasing',N/A,Sci-Fi,0,0,M,6.2
+'Scream 2',tt0120082,1997,P,USA,0,'Miramax Films',R,Horror,0,2,M,6.1
+Selena,tt0120094,1997,P,USA,0,'Warner Home Video',PG,Biography,0,1,M,6.7
+'Lost World: Jurassic Park, The',tt0119567,1997,P,USA,0,'Universal Pictures',PG-13,Action,0,2,M,6.5
+'Jackie Brown',tt0119396,1997,P,USA,3,'Miramax Films',R,Crime,0,1,M,7.5
+'Dantes Peak',tt0118928,1997,P,USA,0,'Universal Pictures',PG-13,Action,1,0,M,5.9
+'Cats Don&#39;t Dance',tt0118829,1997,P,USA,0,'Warner Bros. Pictures',G,Animation,1,5,M,6.9
+'Tower of Terror',tt0131620,1997,P,USA,0,'Walt Disney Television',UNRATED,Horror,0,0,M,6.2
+'House of Yes, The',tt0119324,1997,P,USA,3,Miramax,R,Comedy,1,1,M,6.7
+'Alien: Resurrection',tt0118583,1997,P,USA,2,'Twentieth Century Fox Home Entertainment',R,Action,0,1,M,6.2
+'Eve&#39;s Bayou',tt0119080,1997,P,USA,4,'Lions Gate Films',R,Drama,0,0,M,7.3
+Ayneh,tt0117056,1997,P,Iran,2,'Celluoid Dreams',N/A,Drama,0,0,M,7.6
+Cinderella,tt0128996,1997,P,USA,0,N/A,G,Musical,0,2,M,6.5
+'Sliding Doors',tt0120148,1998,P,UK,3,Miramax,PG-13,Comedy,0,1,M,6.8
+'Last Days of Disco, The',tt0120728,1998,P,USA,0,Gramercy,R,Comedy,0,0,M,6.6
+Stepmom,tt0120686,1998,P,USA,2,'TriStar Pictures',PG-13,Comedy,2,3,M,6.7
+'Dancing at Lughnasa',tt0120643,1998,P,Ireland,0,'Sony Pictures Classics',PG,Drama,0,3,M,6.3
+'Safe Men',tt0120813,1998,F,USA,0,'Universal Pictures',R,Comedy,0,1,M,6
+'Lick the Star',tt0197626,1998,P,USA,0,N/A,N/A,Drama,2,0,F,6
+Madeline,tt0123987,1998,P,France,3,'Columbia Tri-Star',PG,Comedy,3,2,F,6
+Celebrity,tt0120533,1998,P,USA,1,'Miramax Films',R,Comedy,0,0,M,6.3
+'Show Me Love',tt0150662,1998,P,Sweden,0,'Strand Releasing','NOT RATED',Comedy,0,1,M,7.6
+'Prince of Egypt, The',tt0120794,1998,P,USA,0,Dreamworks,PG,Animation,0,2,F,7.1
+Rushmore,tt0128445,1998,P,USA,0,'Touchstone Pictures',R,Comedy,0,1,M,7.7
+'Black Cat, White Cat',tt0118843,1998,P,'Federal Republic of Yugoslavia',0,'October Films',R,Comedy,0,0,M,8.1
+'Faculty, The',tt0133751,1998,P,USA,0,Miramax,R,Horror,0,3,M,6.5
+'City of Angels',tt0120632,1998,P,USA,0,N/A,PG-13,Drama,1,2,M,6.7
+Elizabeth,tt0127536,1998,P,UK,1,Gramercy,R,Biography,0,1,M,7.5
+'Saving Private Ryan',tt0120815,1998,F,USA,0,'Paramount Pictures',R,Drama,0,1,M,8.6
+'Deep Impact',tt0120647,1998,P,USA,0,'Paramount Pictures',PG-13,Action,0,2,M,6.2
+'Glasblasarns barn',tt0119204,1998,P,Sweden,0,N/A,N/A,Drama,1,1,M,6.2
+'Hope Floats',tt0119313,1998,P,USA,7,'Twentieth Century Fox Home Entertainment',PG-13,Drama,0,1,M,5.9
+'Dreamlife of Angels, The',tt0120449,1998,P,France,2,'Mercure Distribution',R,Drama,0,3,M,7.5
+'Rugrats Movie, The',tt0134067,1998,P,USA,0,'Paramount Pictures',G,Animation,0,2,M,5.9
+'Love &amp; Pop',tt0168972,1998,P,Japan,0,'US Manga Corps',N/A,Drama,0,0,M,7.3
+Pleasantville,tt0120789,1998,P,USA,0,'New Line Cinema',PG-13,Comedy,0,1,M,7.5
+'Your Friends and Neighbors',tt0119517,1998,P,USA,0,Gramercy,R,Comedy,0,1,M,6.4
+'Wild Things',tt0120890,1998,P,USA,0,'Sony Pictures Home Entertainment',R,Crime,0,1,M,6.5
+'Lion King 2: Simba&#39;s Pride, The',tt0120131,1998,P,USA,1,'Walt Disney Television Animation',G,Animation,3,4,M,6.5
+'Avengers, The',tt0118661,1998,P,USA,0,'Warner Bros. Pictures',PG-13,Action,1,0,M,3.7
+'Trance (The Eternal)',tt0158011,1998,P,USA,0,Trimark,R,Horror,0,1,M,4.3
+Pecker,tt0126604,1998,P,USA,0,'Fine Line Features',R,Comedy,0,1,M,6.4
+'Black and White',tt0165643,1999,P,USA,0,'Sony Pictures Home Entertainment',R,Crime,0,1,M,5
+'Ring 2 (Ringu 2)',tt0218553,1999,P,Japan,1,'Kadokawa Shoten Publishing Company','NOT RATED',Horror,0,0,M,6
+Virus,tt0120458,1999,P,USA,0,Universal,R,Action,0,1,M,4.9
+Redball,tt0163178,1999,P,Australia,0,N/A,'NOT RATED',Thriller,0,1,M,5.4
+'Aimee &amp; Jaguar',tt0130444,1999,P,Germany,2,Zeitgeist,'NOT RATED',Biography,1,1,M,7.3
+'Tea with Mussolini',tt0120857,1999,P,Italy,1,MGM/UA,PG,Drama,0,2,M,6.9
+'Talented Mr. Ripley, The',tt0134119,1999,P,USA,0,'Paramount Pictures',R,Crime,1,1,M,7.4
+'Girl, Interrupted',tt0172493,1999,P,USA,1,'Sony Pictures',R,Biography,2,1,M,7.4
+'Blast from the Past',tt0124298,1999,P,USA,0,'New Line Home Entertainment',PG-13,Comedy,0,1,M,6.6
+'New Waterford Girl',tt0213121,1999,P,Canada,2,'Wellspring Media Inc.',N/A,Comedy,0,0,M,7
+'Anna and the King',tt0166485,1999,P,USA,0,'20th Century Fox',PG-13,Drama,1,2,M,6.7
+'Why Not Me?',tt0162556,1999,P,Spain,0,N/A,N/A,Comedy,0,0,M,6.7
+'Straight Story, The',tt0166896,1999,P,France,0,'Buena Vista Pictures',G,Biography,1,1,M,8
+'A Walk on the Moon',tt0120613,1999,P,USA,1,Miramax,R,Drama,1,0,M,6.6
+'Storm of the Century',tt0135659,1999,P,Canada,0,?,PG-13,Drama,0,0,M,7.4
+Ring,tt0289424,1999,P,'South Korea',1,AFDF,N/A,Horror,0,0,M,6.3
+Juha,tt0158692,1999,F,Finland,3,N/A,UNRATED,Comedy,0,0,M,7
+'East Is East',tt0166175,1999,P,UK,0,'Miramax Films',R,Comedy,0,0,M,6.9
+'Todo sobre mi madre (All About My Mother)',tt0185125,1999,P,Spain,1,'Sony Pictures Classics',R,Drama,0,1,M,7.9
+'Brokedown Palace',tt0120620,1999,P,USA,1,'Twentieth Century Fox Home Entertainment',PG-13,Drama,0,3,M,6.4
+Kikujiro,tt0199683,1999,F,Japan,1,N/A,PG-13,Drama,0,0,M,7.8
+Election,tt0126886,1999,P,USA,0,'Paramount Pictures',R,Comedy,0,1,M,7.3
+'Muppets From Space',tt0158811,1999,P,USA,0,'Columbia Pictures',G,Adventure,0,2,M,6.3
+'Big Kahuna, The',tt0189584,1999,F,USA,0,'Lions Gate Films',R,Drama,0,2,M,6.6
+'Family guy',tt0182576,1999,P,USA,0,?,TV-14,Animation,0,2,M,8.2
+'Holy Smoke',tt0144715,1999,P,USA,1,'Miramax Films',R,Drama,2,0,F,5.9
+'Double Platinum',tt0177721,1999,P,USA,3,'Sony Pictures Home Entertainment',PG,Musical,1,0,M,5.9
+'Cruel Intentions',tt0139134,1999,P,USA,1,'Columbia Pictures',R,Drama,0,1,M,6.8
+'Screwed in Tallinn',tt0311926,1999,P,Sweden,0,N/A,N/A,Comedy,0,5,M,8
+'Los sin nombre',tt0222368,1999,P,Spain,3,N/A,R,Drama,0,0,M,5.9
+'What&#39;s Cooking?',tt0197096,2000,P,UK,0,'Trimark Pictures',PG-13,Comedy,0,1,M,7.1
+Snatch.,tt0208092,2000,F,UK,0,'Columbia Pictures',R,Comedy,0,0,M,8.3
+'What Lies Beneath',tt0161081,2000,P,USA,4,'DreamWorks SKG',PG-13,Drama,1,2,M,6.6
+'Billy Elliot',tt0249462,2000,P,UK,0,'NCM Fathom',R,Drama,0,1,M,7.7
+Songcatcher,tt0210299,2000,P,USA,2,'Lions Gate',PG-13,Drama,1,0,F,7.2
+Greenfingers,tt0203540,2000,P,UK,0,'IDP Distribution',R,Comedy,0,1,M,6.9
+'Kao (Face)',tt0256127,2000,P,Japan,0,N/A,N/A,Comedy,0,0,M,6.9
+'Love &amp; Basketball',tt0199725,2000,P,USA,0,'New Line Cinema',PG-13,Drama,1,0,F,7.2
+'O Brother, Where Art Thou?',tt0190590,2000,F,UK,0,'Buena Vista',PG-13,Adventure,0,2,M,7.8
+'Italian for Beginners',tt0243862,2000,P,Denmark,0,'Miramax Films',R,Comedy,1,0,M,7.1
+'Pitch Black',tt0134847,2000,P,USA,0,'Gramercy Pictures/ USA Films',R,Horror,0,1,M,7.1
+'Alvin and the Chipmunks Meet the Wolfman',tt0252227,2000,P,USA,0,'Universal Studios Home Video',G,Animation,0,1,M,6.8
+'Tomie: Replay',tt0279474,2000,P,Japan,2,'Daiei Studios',N/A,Horror,0,0,M,5.5
+Supernova,tt0134983,2000,P,USA,0,MGM/UA,PG-13,Horror,0,3,M,4.8
+Spiral,tt0244870,2000,P,Japan,0,N/A,N/A,Drama,0,0,M,6.2
+'Red Planet',tt0199753,2000,F,USA,0,'Warner Bros.',PG-13,Action,0,1,M,5.7
+Unbreakable,tt0217869,2000,F,USA,0,'Touchstone Pictures',PG-13,Drama,0,0,M,7.3
+'Romeo Must Die',tt0165929,2000,F,USA,1,'Warner Home Video',R,Action,0,3,M,6.1
+'A Good Baby',tt0155723,2000,P,USA,0,N/A,'NOT RATED',Drama,1,1,F,6.9
+'Dancer in the Dark',tt0168629,2000,P,Denmark,2,'Fine Line Features',R,Crime,0,0,M,8
+'Is It Fall Yet',tt0250440,2000,P,USA,1,'MTV Original Films For Television',TV-14,Animation,0,1,F,8.2
+Life-Size,tt0200809,2000,P,USA,4,'Disney-ABC Domestic Television',TV-G,Comedy,2,1,M,5.6
+'Hanging Up',tt0162983,2000,P,Germany,0,'Sony Pictures Home Entertainment',PG-13,Comedy,1,0,M,4.8
+'Patriot, The',tt0187393,2000,P,USA,0,'Columbia Pictures',R,Action,0,1,M,7.2
+'Where the Heart Is',tt0198021,2000,P,USA,2,'Twentieth Century Fox Home Entertainment',PG-13,Comedy,0,0,M,6.8
+'How the Grinch Stole Christmas',tt0170016,2000,P,USA,0,'Universal Pictures',PG,Comedy,0,2,M,6.1
+'Riding in Cars with Boys',tt0200027,2001,P,USA,1,'Columbia Pictures',PG-13,Biography,1,1,M,6.5
+Heist,tt0252503,2001,P,Canada,0,'Warner Bros. Pictures',R,Action,0,1,M,6.5
+'Don&#39;t Say A Word',tt0260866,2001,P,USA,2,'20th Century Fox',R,Drama,0,3,M,6.3
+'Jason X',tt0211443,2001,P,USA,0,'New Line Cinema',R,Action,0,2,M,4.4
+'Cowboy Bebop: The Movie',tt0275277,2001,P,Japan,0,'Destination Films',R,Animation,0,0,M,7.9
+'Y tu mama tambien',tt0245574,2001,F,Mexico,1,'IFC Films',R,Adventure,0,2,M,7.7
+'Others, The',tt0230600,2001,P,USA,3,'Miramax Films',PG-13,Horror,0,1,M,7.6
+'Tomie: Re-birth',tt0348225,2001,P,Japan,1,N/A,N/A,Horror,0,0,M,5.6
+'Score, The',tt0227445,2001,F,USA,0,'Paramount Pictures',R,Crime,0,2,M,6.8
+'Escanaba in da Moonlight',tt0180679,2001,F,USA,0,'Purple Rose Films',PG-13,Comedy,0,0,M,6.5
+'Someone Like You...',tt0244970,2001,P,USA,2,'20th Century Fox',PG-13,Comedy,2,0,M,6.1
+'Tremors 3: Back to Perfection',tt0259685,2001,P,USA,0,'Universal Studios Home Video',PG,Action,1,2,M,5.4
+Arachnid,tt0271972,2001,P,Spain,1,'LionsGate Entertainment',R,Action,0,1,M,3.9
+'Behind Enemy Lines',tt0159273,2001,F,USA,0,'20th Century Fox',PG-13,Action,0,2,M,6.4
+'Piano Teacher, The',tt0254686,2001,P,Austria,0,'MK2 Diffusion',R,Drama,0,1,M,7.5
+Manic,tt0252684,2001,P,USA,0,N/A,R,Drama,0,1,F,7.4
+'Gosford Park',tt0280707,2001,P,UK,0,'USA Films',R,Comedy,0,2,M,7.3
+Hitched,tt0272127,2001,P,USA,2,'USA Films',N/A,Thriller,0,1,M,5.4
+'Nowhere in Africa',tt0161860,2001,P,Germany,0,'Zeitgeist Films',R,Biography,1,0,F,7.6
+Evolution,tt0251075,2001,P,USA,0,'Dreamworks Pictures',PG-13,Comedy,0,2,M,6.1
+'Bridget Jones&#39;s Diary',tt0243155,2001,P,UK,3,'Miramax Films',R,Comedy,2,2,F,6.7
+'Not Another Teen Movie',tt0277371,2001,P,USA,0,'Columbia Pictures',R,Comedy,0,3,M,5.7
+'La fille de Keltoum',tt0312687,2001,P,France,5,N/A,N/A,Drama,0,0,M,7.3
+Zoolander,tt0196229,2001,P,Germany,0,'Paramount Pictures',PG-13,Comedy,0,7,M,6.6
+'Belphegor, Phantom of the Louvre (Belphegor - Le fantome du Louvre)',tt0214529,2001,P,France,0,'Bac Films',TV-14,Mystery,0,1,M,4.4
+'Rat Race',tt0250687,2001,P,USA,0,'Paramount Pictures',PG-13,Adventure,0,1,M,6.4
+'Royal Tenenbaums, The',tt0265666,2001,P,USA,0,'Buena Vista Distribution Compa',R,Comedy,0,1,M,7.6
+'Jay and Silent Bob Strike Back',tt0261392,2001,P,USA,0,'Dimension Films',R,Comedy,0,2,M,6.9
+'Wet Hot American Summer',tt0243655,2001,P,USA,0,'USA Films',R,Comedy,0,2,M,6.7
+'Scary Movie 2',tt0257106,2001,P,USA,0,'Dimension Films',R,Comedy,1,8,M,5.3
+'Charlotte Gray',tt0245046,2001,P,UK,2,'Warner Bros. Pictures',PG-13,Drama,0,2,F,6.4
+'Volcano High',tt0301429,2001,P,'South Korea',0,N/A,PG-13,Action,0,0,M,6
+'Resident Evil',tt0120804,2002,P,UK,0,'Columbia Tristar Pictures',R,Action,0,1,M,6.7
+Gerry,tt0302674,2002,F,USA,0,FilmFour,R,Adventure,1,1,M,6.2
+'Transporter, The',tt0293662,2002,F,France,0,Fox,PG-13,Action,0,1,M,6.8
+'Spy Kids 2: Island of Lost Dreams',tt0287717,2002,P,USA,0,'Dimension Films',PG,Action,0,1,M,5.1
+demonlover,tt0284034,2002,P,France,0,'Palm Pictures',R,Thriller,0,0,M,5.9
+'Ju-on: The Grudge',tt0364385,2002,P,Japan,0,'Lions Gate Releasing',R,Horror,0,0,M,6.7
+'Cube2: Hypercube',tt0285492,2002,P,Canada,0,'Ghost Logic',R,Sci-Fi,1,2,M,5.6
+'Road to Perdition',tt0257044,2002,F,USA,0,'DreamWorks SKG',R,Crime,0,3,M,7.7
+'Powerpuff Girls, The',tt0289408,2002,P,USA,0,'Warner Bros. Pictures',PG,Animation,5,7,M,6.5
+'Funny Ha Ha',tt0327753,2002,P,USA,3,'Goodbye Cruel Releasing',N/A,Comedy,0,1,M,6.4
+'Ring, The',tt0298130,2002,P,USA,0,'DreamWorks SKG',PG-13,Horror,0,0,M,7.1
+'Far from Heaven',tt0297884,2002,P,USA,0,'USA Films',PG-13,Drama,0,1,M,7.4
+'Hable con ella [Talk to Her]',tt0287467,2002,P,Spain,1,'Sony Pictures Classics',R,Drama,0,1,M,8
+Adaptation,tt0268126,2002,P,USA,0,'Columbia Pictures',R,Comedy,2,1,M,7.7
+'Hours, The',tt0274558,2002,P,USA,1,'Miramax Films',PG-13,Drama,0,2,M,7.6
+'Sweet Sixteen',tt0313670,2002,F,UK,1,'Lions Gate Films',R,Crime,0,1,M,7.5
+'Tomie: Saishuu-sho - kindan no kajitsu',tt0348226,2002,P,Japan,2,N/A,N/A,Horror,0,0,M,5.9
+'Maid in Manhattan',tt0252076,2002,P,USA,3,'Columbia Pictures',PG-13,Comedy,0,2,M,5.2
+Naqoyqatsi,tt0145937,2002,F,USA,0,'Miramax Films',PG,Documentary,0,0,M,6.6
+'Rules of Attraction, The',tt0292644,2002,P,Germany,0,'Lions Gate Films',R,Comedy,0,1,M,6.7
+'Ying xiong (Hero)',tt0299977,2002,P,China,0,N/A,PG-13,Action,0,0,M,7.9
+'Ice Age',tt0268380,2002,F,USA,0,'20th Century Fox',PG,Animation,0,6,M,7.5
+'Wilbur Wants to Kill Himself',tt0329767,2002,P,Denmark,0,'ThinkFilm Inc',R,Comedy,0,0,M,6.9
+Teknolust,tt0270688,2002,P,USA,1,ThinkFilm,R,Comedy,0,0,M,5.3
+'Whale Rider',tt0298228,2002,P,'New Zealand',2,'Palm Pictures',PG-13,Drama,0,0,M,7.6
+'Rose Red',tt0259153,2002,P,USA,0,?,PG-13,Horror,0,0,M,6.8
+'Calendar Girls',tt0337909,2003,P,UK,1,'Buena Vista Pictures',PG-13,Comedy,1,0,M,6.9
+'Core, The',tt0298814,2003,P,USA,0,'Paramount Pictures',PG-13,Action,0,2,M,5.5
+Underworld,tt0320691,2003,P,USA,0,'Sony Screen Gems',R,Action,0,3,M,7
+'Sunset Story',tt0368310,2003,P,USA,0,N/A,N/A,Documentary,0,0,F,7.7
+Basic,tt0264395,2003,P,Germany,0,'Sony Pictures Entertainment',R,Action,0,1,M,6.5
+'Interstella 5555: The 5tory of the 5ecret 5tar 5ystem',tt0368667,2003,F,Japan,0,N/A,'NOT RATED',Animation,0,1,M,7.9
+'Cheetah Girls , The',tt0800318,2003,P,USA,1,N/A,TV-G,Comedy,2,0,M,5
+'Swimming Pool',tt0324133,2003,P,France,3,'Focus Features',R,Crime,0,0,M,6.8
+'Distant Lights (Lichter)',tt0351238,2003,P,Germany,0,N/A,N/A,Drama,0,1,M,7.8
+'Matrix Reloaded, The',tt0234215,2003,P,USA,0,'Warner Bros. Pictures',R,Action,4,0,F,7.2
+'Girls Will Be Girls',tt0339071,2003,P,USA,0,'IFC Films',R,Comedy,0,1,M,6.9
+'Peter Pan',tt0316396,2003,P,UK,0,'Universal Pictures',PG,Adventure,0,1,M,6.9
+'Station Agent, The',tt0340377,2003,P,USA,2,'Miramax Films',R,Comedy,0,0,M,7.7
+'Memories of Murder',tt0353969,2003,P,'South Korea',1,'Houston Lady Productions','NOT RATED',Action,0,0,M,8.1
+'Coffee and Cigarettes',tt0379217,2003,P,USA,0,MGM,R,Comedy,0,0,M,7.1
+'Down With Love',tt0309530,2003,P,USA,0,'20th Century Fox',PG-13,Comedy,1,1,F,6.3
+'High Roller: The Stu Ungar Story',tt0338467,2003,P,USA,0,'WARNER BROTHERS PICTURES',R,Biography,0,0,M,6.1
+Elephant,tt0363589,2003,P,USA,0,'Fine Line Features',R,Crime,0,0,M,7.2
+'How to Lose a Guy in 10 Days',tt0251127,2003,P,USA,1,'Paramount Pictures',PG-13,Comedy,1,1,M,6.4
+'Mystic River',tt0327056,2003,P,USA,0,WB,R,Crime,0,2,M,8
+'Goodbye Lenin!',tt0301357,2003,P,Germany,4,'Sony Pictures Classics',R,Comedy,0,1,M,7.7
+Gothika,tt0348836,2003,P,USA,3,'Warner Bros. Pictures',R,Horror,0,1,M,5.8
+'League of Extraordinary Gentlemen, The',tt0311429,2003,F,USA,0,'20th Century Fox',PG-13,Action,0,3,M,5.8
+'Stupeur et Tremblements',tt0318725,2003,P,France,4,'The Cinema Guild',UNRATED,Comedy,0,0,M,7.1
+'Dies irae',tt0406709,2003,F,France,0,N/A,N/A,Comedy,0,0,M,8.3
+'Wrong Turn',tt0295700,2003,P,USA,0,'20th Century Fox Distribution',R,Horror,0,1,M,6.1
+'Legally Blonde 2: Red, White &amp; Blonde',tt0333780,2003,P,USA,0,MGM/UA,PG-13,Comedy,4,1,M,4.7
+'My Boss&#39;s Daughter',tt0270980,2003,P,USA,2,'Miramax Films',PG-13,Comedy,0,1,M,4.7
+'Girl with a Pearl Earring',tt0335119,2003,P,UK,0,'Exhibition On Screen',PG-13,Biography,1,0,M,6.9
+'Spy Kids 3-D: Game Over',tt0338459,2003,P,USA,0,'Dimension Films',PG,Action,0,1,M,4.2
+'Pirates of the Caribbean: The Curse of the Black Pearl',tt0325980,2003,P,USA,1,'Buena Vista Pictures',PG-13,Action,0,3,M,8
+'Pride and Prejudice',tt0366920,2003,P,USA,2,'Excel Entertainment',PG,Comedy,3,1,M,5.3
+Undead,tt0339840,2003,P,Australia,0,'Lions Gate Films',R,Action,0,2,M,5.5
+'House of 1000 Corpses',tt0251736,2003,P,USA,0,'Lions Gate Films Inc.',R,Horror,0,0,M,6.1
+'An Unexpected Love',tt0329679,2003,P,USA,4,'Grand Productions',TV-14,Drama,0,1,M,6.2
+'Freddy vs. Jason',tt0329101,2003,P,USA,0,'New Line Cinema',R,Action,0,3,M,5.8
+'Librarian: Quest for the Spear, The',tt0412915,2004,P,USA,0,'Electric Entertainment','NOT RATED',Action,0,1,M,6.3
+'13 Going on 30',tt0337563,2004,P,USA,3,'Sony Pictures',PG-13,Comedy,0,1,M,6.1
+'Saving Face',tt0384504,2004,P,USA,2,'Sony Pictures Classics',R,Comedy,1,0,F,7.5
+'Holy Girl, The',tt0300270,2004,P,Argentina,0,'Fine Line Features',R,Drama,0,1,M,6.7
+'Kill Bill: Vol. 2',tt0378194,2004,P,USA,2,'Miramax Films',R,Action,0,2,M,8
+Blessed,tt0390450,2004,P,Romania,1,'Storm Pictures',R,Drama,0,2,M,4.2
+Appleseed,tt0401233,2004,P,Japan,0,'Geneon Entertainment',R,Animation,0,0,M,7
+'Ghost Cat',tt0371835,2004,P,Canada,3,'LionsGate Entertainment',PG,Drama,1,2,M,5.5
+'Bring It on Again',tt0334965,2004,P,USA,0,'Universal Studios Home Video',PG-13,Comedy,2,2,M,4.5
+'Bratz the Video: Starrin&#39; &amp; Stylin&#39;',tt1469259,2004,P,USA,0,N/A,N/A,Animation,0,1,M,5
+'Garden State',tt0333766,2004,P,USA,1,'Fox Searchlight',R,Comedy,0,0,M,7.5
+'North and South',tt0417349,2004,P,UK,0,?,TV-PG,Drama,0,0,M,8.7
+'I Heart Huckabees',tt0356721,2004,P,USA,0,'Fox Searchlight',R,Comedy,0,1,M,6.7
+'Scooby Doo 2: Monsters Unleashed',tt0331632,2004,P,USA,0,'Warner Bros. Pictures',PG,Adventure,0,3,M,5
+'Raising Helen',tt0350028,2004,P,USA,2,'Buena Vista Pictures',PG-13,Comedy,0,3,M,6
+'My Summer of Love',tt0382189,2004,P,UK,1,'Focus Features',R,Drama,1,1,M,6.8
+Spanglish,tt0371246,2004,P,USA,4,'Sony Pictures Entertainment',PG-13,Comedy,0,1,M,6.4
+'A Dirty Shame',tt0365125,2004,P,USA,2,N/A,NC-17,Comedy,0,1,M,5.1
+Sideways,tt0375063,2004,P,USA,0,'Fox Searchlight Pictures',R,Comedy,0,2,M,7.5
+Kinsey,tt0362269,2004,P,USA,0,'Fox Searchlight Pictures',R,Biography,0,0,M,7.1
+D.E.B.S.,tt0367631,2004,P,USA,0,'Destination Films',PG-13,Action,1,0,F,5.3
+'Being Julia',tt0340012,2004,P,Canada,0,'Sony Pictures Classics',R,Comedy,0,1,M,7
+'Barbie as the Princess and the Pauper',tt0426955,2004,P,USA,1,'Universal Pictures','NOT RATED',Animation,0,0,M,6.8
+'Resident Evil: Apocalypse',tt0318627,2004,P,Germany,0,'Sony Pictures',R,Action,0,1,M,6.2
+'Incredibles, The',tt0317705,2004,P,USA,0,N/A,PG,Animation,0,0,M,8
+'Crimes of Fashion',tt0414923,2004,P,USA,1,'Image Entertainment',N/A,Comedy,0,1,M,4.8
+'Connie and Carla',tt0345074,2004,P,USA,0,'Universal Pictures',PG-13,Comedy,1,0,M,6.3
+'AVP: Alien vs. Predator',tt0370263,2004,P,USA,0,'20th Century Fox',PG-13,Action,0,5,M,5.6
+'Harry Potter and the Prisoner of  Azkaban',tt0304141,2004,P,UK,0,'Warner Bros. Pictures',PG,Adventure,0,1,M,7.9
+'Puppet Master vs Demonic Toys',tt0431340,2004,P,USA,0,'Anchor Bay Entertainment','NOT RATED',Comedy,0,0,M,4
+'Edukators, The',tt0408777,2004,P,Germany,0,'IFC Films',R,Drama,0,0,M,7.5
+Veer-Zaara,tt0420332,2004,P,India,0,'Yash Raj Films Pvt. Ltd.','NOT RATED',Drama,0,3,M,7.9
+'Without a Paddle',tt0364751,2004,P,USA,0,'Paramount Pictures',PG-13,Adventure,0,1,M,5.9
+'Charlie and the Chocolate Factory',tt0367594,2005,P,USA,0,'Warner Bros. Pictures',PG,Adventure,0,1,M,6.7
+'King Kong',tt0360717,2005,F,'New Zealand',0,'Universal Pictures',PG-13,Action,0,2,M,7.2
+'Ring Two, The',tt0377109,2005,P,USA,0,'Dreamworks Distribution LLC',PG-13,Horror,0,0,M,5.4
+Swimmers,tt0384573,2005,P,USA,1,'Quasiworld Entertainment',UNRATED,Drama,0,0,M,6.7
+'Hide and Seek',tt0382077,2005,P,USA,3,'20th Century Fox',R,Drama,0,1,M,5.9
+'New World, The',tt0402399,2005,P,USA,0,'New Line Cinema',PG-13,Biography,0,1,M,6.7
+'Muppets&#39; Wizard of Oz, The',tt0422778,2005,P,USA,0,N/A,TV-PG,Adventure,0,3,M,5.3
+'Exorcism of Emily Rose, The',tt0404032,2005,P,USA,1,'Dimension Films',PG-13,Drama,0,2,M,6.7
+Cry_Wolf,tt0384286,2005,P,USA,0,'Rogue Pictures',PG-13,Drama,0,1,M,5.9
+'Vampire Bats',tt0473105,2005,P,USA,0,'Sony Pictures Entertainment','NOT RATED',Horror,0,0,M,4.3
+'Pride and Prejudice',tt0414387,2005,P,France,1,'Focus Features',PG,Drama,2,0,M,7.8
+'Sweet Land',tt0428038,2005,P,USA,1,'Libero LLC',PG,Drama,1,2,F,7.3
+Mortuary,tt0415167,2005,P,USA,0,'Echo Bridge Entertainment',R,Horror,0,2,M,4
+'Saw II',tt0432348,2005,P,USA,0,'Lions Gate Films',R,Horror,0,1,M,6.6
+'Strangers with Candy',tt0369994,2005,P,USA,1,ThinkFilm,R,Comedy,2,4,M,6.1
+'Keeping Mum',tt0444653,2005,P,UK,1,ThinkFilm,R,Comedy,0,2,M,6.8
+Fingersmith,tt0423651,2005,P,UK,1,?,'NOT RATED',Crime,0,0,M,8
+'Bad Reputation',tt0478976,2005,P,USA,3,N/A,R,Drama,0,0,M,4.3
+'Wedding Crashers',tt0396269,2005,P,USA,0,'New Line Cinema',R,Comedy,0,1,M,7
+'Assault on Precinct 13',tt0398712,2005,P,France,0,'Focus Features',R,Action,0,2,M,6.3
+'In Her Shoes',tt0388125,2005,P,USA,2,'20th Century Fox',PG-13,Comedy,1,0,M,6.5
+'Fr&aacute;giles (Fragile)',tt0422272,2005,P,Spain,2,MGM,PG-13,Horror,0,0,M,6.1
+'Wild Things: Diamonds in the Rough',tt0448179,2005,P,USA,1,'Sony Pictures Home Entertainment',R,Crime,0,3,M,4.6
+MirrorMask,tt0366780,2005,P,UK,1,'Samuel Goldwyn Films',PG,Adventure,0,2,M,6.9
+'Skeleton Key, The',tt0397101,2005,P,USA,0,'Universal Pictures',PG-13,Drama,0,0,M,6.5
+'Match Point',tt0416320,2005,P,UK,0,Dreamworks,R,Drama,0,0,M,7.6
+'Star Wars: Revelations',tt0457489,2005,P,USA,0,N/A,PG,Action,1,0,M,5.2
+Madagascar,tt0351283,2005,F,USA,0,Dreamworks,PG,Animation,0,3,M,6.9
+'Sophie Scholl - Die letzten Tage',tt0426578,2005,P,Germany,0,Zeitgeist,'NOT RATED',Biography,0,0,M,7.6
+'Last Order: Final Fantasy VII',tt0489134,2005,F,Japan,0,N/A,N/A,Animation,0,0,M,7.3
+'Beauty Shop',tt0388500,2005,P,USA,2,MGM/UA,PG-13,Comedy,2,0,M,5.5
+'Hard Candy',tt0424136,2005,P,USA,1,'Lions Gate Films',R,Crime,0,1,M,7.1
+'Le couperet',tt0422015,2005,P,Belgium,0,'Mars Distribution','NOT RATED',Comedy,0,1,M,7.4
+'Nina&#39;s Heavenly Delights',tt0435706,2006,P,UK,2,'Regent Releasing/Magnolia Pictures',PG-13,Comedy,1,0,M,6.4
+'Zombie Diaries, The',tt0876294,2006,P,UK,0,'Cinedigm Entertainment',R,Horror,0,2,M,4.1
+'Page Turner, The',tt0487503,2006,P,France,5,'Tartan Films',UNRATED,Drama,0,0,M,7.1
+Kidulthood,tt0435680,2006,P,UK,0,'Revolver Entertainment',R,Crime,0,1,M,6.8
+'Little Children',tt0404203,2006,P,USA,0,'New Line Cinema',R,Drama,0,1,M,7.5
+'Fountain, The',tt0414993,2006,P,Canada,1,'Warner Bros. Pictures',PG-13,Drama,0,3,M,7.3
+'Red Road',tt0471030,2006,P,UK,8,'Tartan USA','NOT RATED',Drama,1,0,F,6.8
+'Pursuit of Happyness, The',tt0454921,2006,F,USA,0,'Sony Pictures',PG-13,Biography,0,1,M,8
+'Good Shepherd, The',tt0343737,2006,F,USA,0,'Universal Pictures',R,Drama,0,1,M,6.7
+'Saw III',tt0489270,2006,P,USA,0,'Lionsgate Films',R,Horror,0,1,M,6.2
+'Bleach: Memories of Nobody',tt1105263,2006,P,Japan,0,'Neon Alley',TV-14,Animation,0,1,M,7.3
+Click,tt0389860,2006,P,USA,0,'Sony Pictures Releasing',PG-13,Comedy,0,2,M,6.4
+Altered,tt0457275,2006,F,USA,0,'Universal Pictures',R,Horror,2,3,M,5.7
+'When a Stranger Calls',tt0455857,2006,P,USA,0,'Screen Gems',PG-13,Crime,0,2,M,5.1
+'Arthur and the Invisibles',tt0344854,2006,F,France,0,MGM,PG,Animation,0,1,M,6
+'El laberinto del fauno (Pans Labyrinth)',tt0457430,2006,P,Spain,0,Picturehouse,R,Drama,0,1,M,8.2
+'Das Leben Der Anderen',tt0405094,2006,F,Germany,0,'Sony Pictures Classics',R,Drama,0,0,M,8.4
+'Perfume: The Story of a Murderer',tt0396171,2006,P,Germany,0,Dreamworks,R,Crime,0,2,M,7.5
+'To Have and to Hold',tt0876154,2006,P,Canada,0,N/A,TV-14,Drama,0,2,M,5.6
+'Lonely Hearts',tt0441774,2006,P,Germany,0,'Samuel Goldwyn/Roadside',R,Crime,0,1,M,6.5
+'I Do',tt0478724,2006,P,France,1,'Alliance Atlantis Vivafilm',R,Comedy,0,0,M,6.7
+'Tales from the Grudge',tt0877368,2006,P,USA,0,N/A,TV-PG,Short,0,1,M,6.5
+'Glory Road',tt0385726,2006,P,USA,0,N/A,PG,Biography,0,1,M,7.2
+'Pel&iacute;culas para no dormir: La habitaci&oacute;n del ni&ntilde;o',tt0430164,2006,P,Spain,1,N/A,'NOT RATED',Horror,0,1,M,7
+'&quot;Masters of Horror&quot; The V Word',tt0817401,2006,F,Canada,0,?,N/A,N/A,0,0,M,5.1
+'Times and Winds',tt0855729,2006,P,Turkey,0,'Kino International','NOT RATED',Drama,0,0,M,7.4
+'Little Miss Sunshine',tt0449059,2006,P,USA,1,'Fox Searchlight',R,Comedy,0,1,M,7.8
+'Marie Antoinette',tt0422720,2006,P,USA,3,'Sony Pictures',PG-13,Biography,1,0,F,6.4
+'Il caimano (The Caiman)',tt0429727,2006,P,France,0,'Bac Films',N/A,Comedy,0,0,M,6.7
+'Avenue Montaigne',tt0444112,2006,P,France,6,ThinkFilm,PG-13,Comedy,0,1,M,6.8
+'A Few Days in September',tt0446442,2006,P,Italy,1,'Koch Lorber Films',N/A,Drama,0,1,M,5.4
+Quinceanera,tt0451176,2006,P,USA,5,'Sony Pictures Classics',R,Drama,0,1,M,7.1
+'On the Trail of Igor Rizzi',tt0832958,2006,F,Canada,1,N/A,N/A,Comedy,0,0,M,6.2
+'Stranger Than Fiction',tt0420223,2006,P,USA,0,'Sony Pictures',PG-13,Comedy,0,0,M,7.6
+Sherrybaby,tt0423169,2006,P,USA,1,N/A,R,Drama,0,0,M,6.6
+'Akeelah and the Bee',tt0437800,2006,P,USA,1,'Lionsgate Releasing',PG,Drama,0,0,M,7.4
+'Monmon the Water Spider',tt0768132,2006,F,Japan,1,N/A,N/A,Animation,0,0,M,7.8
+'&quot;Masters of Horror&quot; Sounds Like',tt0817400,2006,F,Canada,0,?,TV-MA,Horror,0,1,M,6.2
+Slither,tt0439815,2006,P,Canada,0,'Universal Pictures',R,Comedy,0,1,M,6.5
+'Architect, The',tt0466665,2006,P,USA,0,'Magnolia Pictures',R,Drama,0,1,M,5.6
+Volver,tt0441909,2006,P,Spain,5,'Sony Pictures Classics',R,Comedy,0,1,M,7.6
+'Monster House',tt0385880,2006,P,USA,0,'Sony Pictures Releasing',PG,Animation,1,0,M,6.6
+'Loving Annabelle',tt0323120,2006,P,USA,2,'Wolfe Releasing','NOT RATED',Drama,3,0,F,6.5
+'Silent Hill',tt0384537,2006,P,Canada,3,'Sony Pictures',R,Horror,0,1,M,6.6
+'Toki wo kakeru sh&amp;#333;jo (The Girl Who Leapt Through Time)',tt0808506,2006,P,Japan,6,'Tokikake Film Partners','NOT RATED',Animation,0,0,M,7.8
+Aquamarine,tt0429591,2006,P,USA,0,'20th Century Fox',PG,Comedy,2,1,F,5.3
+'Snakes on a Plane',tt0417148,2006,P,Germany,0,'New Line Cinema',R,Action,0,4,M,5.5
+'Miss Potter',tt0482546,2006,P,UK,1,MGM,PG,Biography,0,1,M,7
+'Barbie in the 12 Dancing Princesses',tt0859594,2006,P,USA,1,'Universal Studios',TV-Y,Animation,0,0,M,6.7
+'Hello Sister, Goodbye Life',tt0476013,2006,P,USA,2,'Cooper Beech Productions',N/A,Drama,1,1,M,6.3
+'Take the Lead',tt0446046,2006,P,USA,0,'New Line Cinema',PG-13,Drama,0,0,M,6.7
+'University of Illinois vs. a Mummy, The',tt1273816,2006,P,USA,0,N/A,N/A,Comedy,0,0,M,8
+'Suburban Mayhem',tt0450506,2006,P,Australia,3,'Fortissimo Films',R,Comedy,1,0,M,5.9
+Babel,tt0449467,2006,P,France,0,'Paramount Classics',R,Drama,0,3,M,7.5
+'Bridge to Terabithia',tt0398808,2007,P,USA,1,'Buena Vista',PG,Adventure,1,1,M,7.2
+'Evangelion: 1.0: You Are (Not) Alone',tt0923811,2007,P,Japan,0,'Eleven Arts',PG-13,Animation,0,0,M,7.8
+'Diary of the Dead',tt0848557,2007,P,USA,0,'The Weinstein Company',R,Fantasy,0,1,M,5.7
+Beowulf,tt0442933,2007,P,USA,1,'Paramount Pictures',PG-13,Animation,0,2,M,6.2
+'&quot;Masters of Horror&quot; The Washingtonians',tt0854548,2007,P,USA,0,?,N/A,N/A,0,3,M,5.5
+Viva,tt0393956,2007,P,USA,0,'Cult Epics',R,Comedy,1,0,F,6
+'Racing Daylight',tt0840363,2007,P,USA,1,Vanguard,'NOT RATED',Drama,1,0,F,4.5
+'&quot;Masters of Horror&quot; We All Scream for Ice Cream',tt0817402,2007,P,USA,0,?,TV-MA,Horror,0,2,M,5.2
+'World Unseen, The',tt1048174,2007,P,'South Africa',1,'Regent Releasing/here! Films',PG-13,Drama,0,0,M,6.7
+'Yobi, the Five-Tailed Fox (Cheon-nyeon-yeo-woo-yeo-woo-bi)',tt1077274,2007,P,'South Korea',2,'Éditions Montparnasse',N/A,Animation,0,0,M,6.9
+'Sydney White',tt0815244,2007,P,USA,0,'Universal Pictures',PG-13,Comedy,0,1,M,6.3
+'Paranormal Activity',tt1179904,2007,P,USA,0,'Paramount Pictures',R,Horror,0,0,M,6.3
+'No Reservations',tt0481141,2007,P,USA,2,'Warner Bros. Pictures',PG,Comedy,1,0,M,6.3
+'Becoming Jane',tt0416508,2007,P,UK,1,'Miramax Films',PG,Biography,2,1,M,7.1
+'Planet Terror',tt1077258,2007,P,USA,0,'The Weinstein Co./Dimension','NOT RATED',Action,0,1,M,7.1
+'Itty Bitty Titty Committee',tt0496328,2007,P,USA,2,'Pocket Releasing','NOT RATED',Comedy,3,1,F,5.6
+'St. Trinian&#39;s',tt0964587,2007,P,UK,0,'NeoClassics Films',PG-13,Comedy,1,4,M,5.8
+'Across the Universe',tt0445922,2007,P,USA,1,Sony,PG-13,Drama,1,2,F,7.4
+'Smiley Face',tt0780608,2007,P,USA,2,'First Look Media',R,Comedy,1,1,M,5.8
+'Fat Like Me',tt0889600,2007,P,USA,0,'A & E',TV-14,Drama,1,0,M,5.9
+'Dark Mirror',tt0486651,2007,P,USA,3,'IFC Films','NOT RATED',Horror,0,2,M,4.8
+'La vie en rose',tt0450188,2007,P,France,3,N/A,PG-13,Biography,1,0,M,7.6
+'Love Songs',tt0996605,2007,P,France,0,'IFC First Take',UNRATED,Drama,0,0,M,7.2
+'Death Proof',tt1028528,2007,P,USA,1,'The Weinstein Co./Dimension','NOT RATED',Action,0,1,M,7
+Vexille,tt0970472,2007,P,Japan,0,'The Bigger Picture',PG-13,Animation,0,2,M,6.9
+[Rec],tt1038988,2007,P,Spain,0,'Odeon Sky Filmworks',R,Horror,0,0,M,7.5
+'Se upp f&ouml;r d&aring;rarna',tt0959342,2007,P,Sweden,2,N/A,N/A,Comedy,1,0,F,5.1
+'Golden Compass, The',tt0385752,2007,P,UK,1,'New Line Cinema',PG-13,Adventure,0,2,M,6.1
+'Secret, The',tt0446463,2007,P,France,4,N/A,R,Drama,1,0,M,6.4
+'We Are the Strange',tt0923985,2007,F,USA,0,'eOne Entertainment Distribution','NOT RATED',Animation,0,0,M,5.5
+'There Will Be Blood',tt0469494,2007,F,USA,0,'Paramount Vantage',R,Drama,0,1,M,8.1
+'We Own the Night',tt0498399,2007,F,USA,0,Sony/Columbia,R,Crime,0,1,M,6.9
+'Bad Mother&#39;s Handbook, The',tt0909010,2007,P,UK,5,'Cabin Fever Entertainment',PG-13,Comedy,3,0,M,6.6
+'Barbie Fairytopia: Magic of the Rainbow',tt1007920,2007,P,USA,1,'Universal Studios',TV-Y,Animation,0,0,M,6.1
+'Ninas Mal',tt0806940,2007,P,Mexico,0,'Sony Pictures International',R,Comedy,1,2,M,5.4
+'American Zombie',tt0765430,2007,P,USA,0,iHQ,'NOT RATED',Comedy,2,0,F,5.1
+'Bratz: Fashion Pixiez',tt2330312,2007,P,USA,0,'MGA Entertainment',TV-G,Animation,0,0,M,6
+'4 Months, 3 Weeks and 2 Days',tt1032846,2007,P,Romania,2,'IFC First Take','NOT RATED',Drama,0,1,M,7.9
+'Dan in Real Life',tt0480242,2007,P,USA,1,'Buena Vista',PG-13,Comedy,0,2,M,6.8
+'Bring It On: In It to Win It',tt0972785,2007,P,USA,1,'Universal Pictures',PG-13,Comedy,2,0,M,5.4
+'Then She Found Me',tt0455805,2007,P,USA,4,ThinkFilm,R,Comedy,2,1,F,6
+Disturbia,tt0486822,2007,P,USA,0,Dreamworks,PG-13,Crime,0,3,M,6.9
+'Sword of the Stranger',tt1121794,2007,P,Japan,0,'Shochiku Company','NOT RATED',Animation,0,0,M,7.8
+'So, You&#39;ve Downloaded a Demon',tt0348062,2007,P,USA,0,'Accidental Films','NOT RATED',Comedy,0,2,M,6.5
+'Welcome to the Quiet Room',tt0997174,2007,P,Japan,1,N/A,N/A,Comedy,0,0,M,7.2
+'My Blueberry Nights',tt0765120,2007,P,'Hong Kong',2,'The Weinstein Company',PG-13,Drama,0,1,M,6.7
+'Orphanage, The',tt0464141,2007,P,Spain,4,Picturehouse,R,Drama,0,1,M,7.5
+'Shotgun Stories',tt0952682,2007,P,USA,0,'International Film Circuit',PG-13,Drama,0,0,M,7.3
+'Babysitters, The',tt0796302,2007,P,USA,2,'Peace Arch Entertainment',R,Drama,0,1,M,5.7
+'La belle personne',tt1263778,2008,P,France,5,'IFC Films',UNRATED,Comedy,0,0,M,6.8
+'Revolutionary Road',tt0959337,2008,P,USA,0,'Paramount Vantage',R,Drama,0,2,M,7.3
+'Waltz with Bashir',tt1185616,2008,F,Israel,0,'Sony Pictures Classics',R,Animation,0,1,M,8
+Possession,tt0368563,2008,P,USA,2,'Yari Film Group',PG-13,Drama,0,1,M,5.6
+'Seven Pounds',tt0814314,2008,P,USA,0,'Sony Pictures',PG-13,Drama,0,1,M,7.6
+Fanboys,tt0489049,2008,F,USA,0,'The Weinstein Co.',PG-13,Adventure,0,3,M,6.6
+'Welcome Home, Roscoe Jenkins',tt0494652,2008,P,USA,0,'Universal Pictures',PG-13,Comedy,0,1,M,5.4
+'Grizzly Park',tt0915460,2008,P,USA,0,'ScatterScream Productions',R,Comedy,0,0,M,4.1
+Twilight,tt1099212,2008,P,USA,0,'Summit Entertainment',PG-13,Drama,1,0,F,5.2
+Quarantine,tt1082868,2008,P,USA,1,'Screen Gems',R,Horror,0,2,M,6
+'Vicky Cristina Barcelona',tt0497465,2008,P,Spain,0,'The Weinstein Co.',PG-13,Drama,0,0,M,7.1
+'Boy in the Striped Pajamas, The',tt0914798,2008,P,UK,0,Miramax,PG-13,Drama,0,2,M,7.8
+'All about women',tt1037146,2008,P,'Hong Kong',1,N/A,N/A,Comedy,0,0,M,5
+Skin,tt0964586,2008,P,UK,1,'Elysian Films',PG-13,Biography,3,1,M,6.9
+Hunger,tt0986233,2008,F,Ireland,0,'IFC Films','NOT RATED',Biography,0,1,M,7.6
+'Chaser, The',tt1190539,2008,F,'South Korea',1,'IFC Films','NOT RATED',Action,0,0,M,7.9
+'Aanrijding in Moscou',tt0948530,2008,P,Belgium,2,'NeoClassics Films','NOT RATED',Comedy,0,0,M,7.2
+'House Bunny, The',tt0852713,2008,P,USA,2,'Sony Pictures/Columbia',PG-13,Comedy,2,0,M,5.5
+'American Violet',tt1152397,2008,P,USA,2,'Samuel Goldwyn Films',PG-13,Drama,0,0,M,7.1
+'Dead at 17',tt1153103,2008,P,Canada,0,N/A,TV-14,Drama,1,0,M,4.6
+Helen,tt1288589,2008,P,UK,3,'New Wave Films',UNRATED,Drama,1,2,M,5.8
+'Dark Knight, The',tt0468569,2008,P,USA,0,'Warner Bros. Pictures/Legendary',PG-13,Action,0,4,M,9
+'High School Musical 3: Senior Year',tt0962726,2008,P,USA,0,'Walt Disney Pictures',G,Comedy,0,2,M,4.7
+'Ghost in the Shell 2.0',tt1260502,2008,P,Japan,1,'Manga Entertainment',TV-14,Animation,0,0,M,8
+Fashion,tt0964516,2008,P,India,3,'UTV Communications',N/A,Drama,0,0,M,7
+'Dim Sum Funeral',tt1216477,2008,P,Canada,1,'HBO Films',R,Comedy,0,1,F,5.2
+'Easy Virtue',tt0808244,2008,P,UK,2,'Sony Pictures Classics',PG-13,Comedy,0,0,M,6.7
+'Synecdoche, New York',tt0383028,2008,P,USA,1,'Sydney Kimmel Entertainment',R,Comedy,1,1,F,7.5
+'X-Files: I Want to Believe, The',tt0443701,2008,P,USA,0,'20th Century Fox',PG-13,Drama,0,3,M,5.9
+'Were the World Mine',tt0476991,2008,P,USA,0,'Wolfe Releasing','NOT RATED',Adventure,0,2,M,7
+'Family That Preys, The',tt1142798,2008,P,USA,0,Lionsgate,PG-13,Drama,0,1,M,5.4
+'Angus, Thongs and Perfect Snogging',tt0963743,2008,P,USA,2,'Nickelodeon Movies',PG-13,Comedy,0,3,M,6.4
+Deadgirl,tt0896534,2008,F,USA,1,'Dark Sky Films',R,Horror,0,1,M,5.7
+'Women, The',tt0430770,2008,P,USA,4,'Picturehouse Entertainment',PG-13,Comedy,2,0,M,4.9
+'Kung Fu Panda',tt0441773,2008,P,USA,0,'Paramount Pictures',PG,Animation,0,4,M,7.6
+'Ai no mukidashi',tt1128075,2008,P,Japan,1,'Omega Project',UNRATED,Action,0,0,M,8.1
+'Pirates II: Stagnetti&#39;s Revenge',tt1266097,2008,P,USA,0,N/A,R,Adult,0,1,M,7.9
+'Lorna&#39;s Silence',tt1186369,2008,P,Belgium,0,'Sony Pictures Classics',R,Drama,0,0,M,7.2
+'Forgetting Sarah Marshall',tt0800039,2008,P,USA,3,'Universal Pictures',R,Comedy,0,1,M,7.2
+Transsiberian,tt0800241,2008,P,UK,0,'First Look',R,Crime,0,1,M,6.7
+'Rachel Getting Married',tt1084950,2008,P,USA,2,'Sony Pictures Classics',R,Drama,1,0,M,6.7
+'Zombie Strippers!',tt0960890,2008,P,USA,0,'Triumph Films',R,Comedy,0,1,M,4.1
+Doomsday,tt0483607,2008,P,UK,0,'Universal Pictures',R,Action,0,1,M,6
+'While She Was Out',tt0887971,2008,P,USA,3,'Anchor Bay Entertainment',R,Crime,1,1,F,4.8
+'Speed Racer',tt0811080,2008,P,USA,0,'Warner Bros. Pictures',PG,Action,2,0,F,6
+Happy-Go-Lucky,tt1045670,2008,P,UK,1,'Miramax Films',R,Comedy,0,1,M,7
+Keith,tt0435679,2008,P,USA,3,'Lili Claire Communications',PG-13,Drama,0,2,M,7.5
+'Dr. Horrible&#39;s Sing-Along Blog',tt1227926,2008,F,USA,0,?,TV-PG,Comedy,0,0,M,8.6
+'Clash of the Santas',tt1286742,2008,P,UK,1,N/A,'NOT RATED',Drama,0,1,M,6.4
+'Sleep Dealer',tt0804529,2008,F,USA,0,'Maya Releasing',PG-13,Drama,0,3,M,5.9
+'Camp Rock',tt1055366,2008,P,USA,2,'Walt Disney Home Entertainment',TV-G,Comedy,2,1,M,5.1
+'Die Welle',tt1063669,2008,P,Germany,0,'Constantin Film','NOT RATED',Drama,0,3,M,7.6
+Rambo,tt0462499,2008,F,Germany,0,Lionsgate,R,Action,0,1,M,7
+'French Film',tt0986230,2008,P,UK,0,'Slingshot Productions',N/A,Comedy,0,0,M,6.5
+Outpost,tt0892899,2008,F,UK,0,'Screen Gems',R,Action,0,2,M,5.9
+'Gamers: Dorkness Rising, The',tt0447166,2008,P,USA,0,N/A,N/A,Action,0,0,M,7.5
+'Vantage Point',tt0443274,2008,P,USA,0,'Sony Pictures Releasing',PG-13,Action,0,0,M,6.6
+'27 Dresses',tt0988595,2008,P,USA,4,'20th Century Fox',PG-13,Comedy,0,0,F,6.1
+'Loss of a Teardrop Diamond, The',tt0896031,2008,P,USA,1,Paladin,PG-13,Drama,0,0,M,5.9
+'Burning Plain, The',tt1068641,2008,P,USA,3,'Magnolia Pictures',R,Crime,0,1,M,6.8
+'Nothing But the Truth',tt1073241,2008,P,USA,1,'Paramount Pictures',R,Crime,0,0,M,7.2
+Cracks,tt1183665,2009,P,UK,0,'IFC Films',R,Drama,2,2,F,6.7
+'Precious: Based on the Novel Push by Sapphire',tt0929632,2009,P,USA,2,'Lionsgate Films',R,Drama,0,0,M,7.3
+'House of the Devil, The',tt1172994,2009,P,USA,3,'Magnolia Pictures',R,Horror,0,0,M,6.4
+Whiteout,tt0365929,2009,P,USA,0,'Warner Bros. Pictures',R,Action,0,3,M,5.5
+'Last House on the Left, The',tt0844708,2009,P,USA,2,'Rogue Pictures',R,Horror,0,2,M,6.6
+'12 Men of Christmas',tt1446201,2009,P,USA,1,'Lifetime Television',PG,Comedy,0,1,M,5.6
+'Spring Breakdown',tt0814331,2009,P,USA,1,'WARNER BROTHERS PICTURES',R,Comedy,3,2,F,4.9
+Alice,tt1461312,2009,P,UK,0,?,'NOT RATED',Adventure,0,0,M,7.3
+'Wonder Woman',tt1186373,2009,P,USA,0,'Laguna Productions',PG-13,Animation,0,3,F,7.4
+Push,tt0465580,2009,P,USA,1,'Summit Entertainment',PG-13,Action,0,1,M,6.1
+'Grey Gardens',tt0758751,2009,P,USA,2,HBO,TV-PG,Biography,1,2,M,7.5
+'Coco avant Chanel',tt1035736,2009,P,France,0,'Sony Pictures Classics',PG-13,Biography,2,0,F,6.7
+Tournament,tt0471041,2009,F,UK,0,'The Weinstein Co.',R,Action,0,3,M,6.1
+Drool,tt1268962,2009,P,USA,5,'Strand Releasing','NOT RATED',Comedy,1,0,F,5.8
+'Girl with the Dragon Tattoo, The',tt1132620,2009,P,Sweden,1,'Music Box Films',R,Crime,0,0,M,7.8
+'An Education',tt1174732,2009,P,UK,3,'Sony Classics',PG-13,Drama,0,1,M,7.3
+'Albino Farm',tt1050001,2009,P,USA,0,N/A,R,Horror,0,2,M,3.9
+'Final Destination, The',tt1144884,2009,P,USA,0,'Warner Bros. Pictures',R,Horror,0,2,M,5.2
+Antichrist,tt0870984,2009,F,Denmark,0,'IFC Films','NOT RATED',Drama,0,0,M,6.6
+Adventureland,tt1091722,2009,P,USA,0,'Miramax Films',R,Comedy,0,0,M,6.8
+'17 Again',tt0974661,2009,P,USA,0,'New Line Cinema',PG-13,Comedy,0,1,M,6.4
+Ondine,tt1235796,2009,P,Ireland,2,'Magnolia Pictures',PG-13,Drama,0,1,M,6.8
+Lebanon,tt1483831,2009,F,Israel,0,'Sony Classic Pictures',R,Drama,0,1,M,6.9
+'According to Greta',tt1059925,2009,P,USA,1,'Anchor Bay Entertainment',PG-13,Drama,0,1,F,6.2
+Infestation,tt1020543,2009,P,USA,0,'Icon Productions',R,Action,0,1,M,5.9
+'El traspatio (Backyard)',tt1257579,2009,P,Mexico,1,N/A,N/A,Crime,0,0,M,7
+'It&#39;s Complicated',tt1230414,2009,P,USA,0,'Universal Pictures',R,Comedy,1,0,F,6.6
+'Life During Wartime',tt0808526,2009,P,USA,0,'IFC Films',R,Comedy,0,1,M,6.4
+'Scheherazade Tell Me a Story',tt1473149,2009,P,Egypt,3,'ArtMattan Productions',N/A,Drama,0,0,M,6.8
+Carriers,tt0806203,2009,P,USA,0,'Paramount Vantage',PG-13,Drama,0,1,M,6
+'My Last Five Girlfriends',tt1050002,2009,P,UK,0,'Willing Pilowsky Productions',TV-14,Comedy,0,1,M,5.8
+'In the Loop',tt1226774,2009,P,UK,0,IFC,'NOT RATED',Comedy,0,5,M,7.5
+'Il richiamo',tt1463167,2009,P,Argentina,0,N/A,N/A,Drama,1,0,M,6.2
+'Hannah Free',tt1315214,2009,P,USA,2,'Ripe Fruit Films','NOT RATED',Drama,1,0,F,6.5
+'Fish Tank',tt1232776,2009,P,Netherlands,1,IFC,'NOT RATED',Drama,1,0,F,7.3
+'Joneses, The',tt1285309,2009,P,USA,0,'Roadside Attractions',R,Drama,0,2,M,6.5
+'Opie Gets Laid',tt0446043,2009,P,USA,0,N/A,N/A,Comedy,0,1,M,6.5
+'Georgia O&#39;Keeffe',tt1320286,2009,P,USA,1,'Sony Pictures Entertainment','NOT RATED',Biography,0,1,M,6.6
+'Kaiji: The Ultimate Gambler',tt1309449,2009,F,Japan,0,N/A,N/A,Drama,0,0,M,6.5
+'Horde, The',tt1183276,2009,F,France,0,'IFC Films','NOT RATED',Action,0,2,M,5.9
+'He&#39;s Just Not That Into You',tt1001508,2009,P,Germany,0,'Warner Bros. Pictures/New Line Cinema',PG-13,Comedy,1,1,M,6.4
+'Modern Family',tt1442437,2009,P,USA,0,?,TV-PG,Comedy,0,2,M,8.5
+'Nothing Personal',tt1320352,2009,P,Netherlands,4,'Olive Films',N/A,Drama,0,0,M,7.1
+'London River',tt1227787,2009,P,UK,0,'Cinema Libre','NOT RATED',Drama,0,0,M,6.8
+'Maiden Heist, The',tt1107860,2009,F,USA,0,'Yari Film Group',PG-13,Comedy,0,1,M,6.1
+'Confessions of a Shopaholic',tt1093908,2009,P,USA,2,'Walt Disney Studios',PG,Comedy,2,0,M,5.9
+'Year of the Carnivore',tt1372306,2009,P,Canada,3,'34 Seconds Productions',N/A,Comedy,0,0,M,5.8
+'Wild About Harry',tt0435711,2009,P,USA,1,N/A,PG-13,Drama,1,0,M,5.9
+'Last Station, The',tt0824758,2009,P,UK,0,'Sony Pictures Classics',R,Biography,0,2,M,7
+'Butter bei die Fische',tt1362534,2009,P,Germany,0,N/A,N/A,Comedy,0,0,M,6.7
+'I Come with the Rain',tt1024744,2009,F,France,0,'LeBrocquy Fraser Prods.','NOT RATED',Thriller,0,0,M,5.5
+'Futurama: Into the Wild Green Yonder',tt1054487,2009,P,USA,0,'Fox Home Entertainment','NOT RATED',Animation,0,2,M,7.3
+'Bad Lieutenant: Port of Call - New Orleans, The',tt1095217,2009,P,USA,0,'First Look Pictures',R,Crime,0,1,M,6.6
+'My Queen Karo',tt1272041,2009,P,Netherlands,2,'Caviar Films',N/A,Drama,0,0,M,6.5
+'Good Guy, The',tt1247662,2009,P,USA,3,'Roadside Attractions',R,Comedy,0,1,M,5.9
+'Fruit Fly',tt1326221,2009,P,USA,4,'TLA Releasing',N/A,Comedy,0,0,M,5.8
+'Secret of Kells, The',tt0485601,2009,F,France,0,GKIDS,'NOT RATED',Animation,0,0,M,7.7
+Watchmen,tt0409459,2009,P,USA,0,'Warner Bros. Pictures',R,Action,0,2,M,7.6
+'Blood: The Last Vampire',tt0806027,2009,P,'Hong Kong',1,'Samuel Goldwyn Films',R,Action,0,1,M,5.3
+'Julie &amp; Julia',tt1135503,2009,P,USA,1,'Sony/Columbia Pictures',PG-13,Biography,3,1,F,7
+'Nowhere Boy',tt1266029,2009,P,UK,1,'Weinstein Company',R,Biography,0,0,M,7.1
+'David&#39;s Birthday',tt1273204,2009,P,Italy,0,'Ellemme Group','NOT RATED',Drama,1,2,M,6.4
+Orphan,tt1148204,2009,P,USA,3,'Warner Bros. Pictures',R,Horror,0,2,M,7
+9,tt0472033,2009,F,USA,0,'Focus Features',PG-13,Animation,1,1,M,7.1
+'Whip It',tt1172233,2009,P,USA,2,'Fox Searchlight Pictures',PG-13,Drama,0,0,M,6.9
+'Bright Star',tt0810784,2009,P,UK,0,'Apparition Films',PG,Biography,2,1,F,7
+'Valhalla Rising',tt0862467,2009,F,Denmark,0,'IFC Films','NOT RATED',Adventure,0,3,M,6
+'About Elly',tt1360860,2009,P,Iran,1,'Cinema Guild',N/A,Drama,0,0,M,8.1
+'Astro Boy',tt0375568,2009,P,'Hong Kong',0,'Summit Entertainment',PG,Animation,0,3,M,6.3
+'Princess and the Frog, The',tt0780521,2009,P,USA,3,'Walt Disney Pictures',G,Animation,0,3,M,7.1
+'Professor Layton and the Eternal Diva',tt1488591,2009,P,Japan,0,N/A,'NOT RATED',Animation,0,0,M,6.7
+'Hole, The',tt1085779,2009,P,USA,0,'Hole LLC.',PG-13,Adventure,0,1,M,5.7
+Devil,tt1314655,2010,P,USA,0,'Universal Pictures',PG-13,Horror,0,1,M,6.2
+'Revenge of the Bridesmaids',tt1666642,2010,P,USA,2,'Von Zerneck Sertner Films',N/A,Comedy,1,2,M,6.1
+'Los ojos de Julia (Julia&#39;s Eyes)',tt1512685,2010,P,Spain,3,'Universal Pictures International France','NOT RATED',Horror,0,0,M,6.7
+'Essential Killing',tt1561768,2010,F,Poland,0,'HanWay Films',R,Thriller,0,1,M,6.1
+'Amazing Bulk, The',tt1788453,2010,F,USA,1,N/A,'NOT RATED',Animation,0,3,M,1.7
+'When in Rome',tt1185416,2010,P,USA,1,'Walt Disney Pictures',PG-13,Comedy,0,2,M,5.6
+'Leading Ladies',tt1462053,2010,P,USA,0,'Wolfe Video','NOT RATED',Comedy,2,0,M,5.8
+'Space Dogs',tt1272051,2010,P,Russia,0,'Centre of National Film',G,Animation,0,3,M,5.1
+'Time Traveller (Toki o Kakeru Shojo)',tt1614408,2010,P,Japan,1,N/A,N/A,Adventure,0,0,M,6.5
+'Heavy, The',tt0473364,2010,F,UK,0,'Heavy Productions',R,Thriller,0,1,M,5
+'Tomorrow, When the War Began',tt1456941,2010,P,Australia,0,'Freestyle Releasing',R,Action,0,1,M,6.2
+'Una hora mas en Canarias',tt1161411,2010,P,Spain,3,'Vertice Cine',N/A,Comedy,0,1,M,4.9
+'Prince of Persia: The Sands of Time',tt0473075,2010,F,USA,0,'Walt Disney Pictures',PG-13,Action,2,3,M,6.6
+Insidious,tt1591095,2010,P,USA,0,FilmDistrict,PG-13,Horror,0,0,M,6.8
+'Just Wright',tt1407061,2010,P,USA,1,'20th Century Fox',PG,Comedy,0,1,F,5.9
+'Going the Distance',tt1322312,2010,P,USA,0,'New Line Cinema',R,Comedy,0,0,M,6.3
+Bedevilled,tt1646959,2010,P,'South Korea',1,N/A,'NOT RATED',Action,0,0,M,7.3
+'R U There',tt1443518,2010,F,Netherlands,0,N/A,N/A,Drama,0,0,M,5.5
+'Nanny McPhee and the Big Bang',tt1415283,2010,P,UK,5,'Universal Studios',PG,Comedy,1,0,M,6.1
+'Tinker Bell and the Great Fairy Rescue',tt1216515,2010,P,USA,0,'Walt Disney Pictures',G,Animation,0,4,M,7
+'Fair Game',tt0977855,2010,P,USA,2,'Summit Entertainment',PG-13,Biography,1,1,M,6.8
+'127 Hours',tt1542344,2010,P,USA,0,'Fox Searchlight',R,Adventure,0,3,M,7.6
+'Ward, The',tt1369706,2010,P,USA,1,'Arc Entertainment',R,Horror,0,2,M,5.6
+'Certified Copy',tt1020773,2010,P,France,1,'Artificial Eye Film Co. Ltd','NOT RATED',Drama,1,0,M,7.3
+'Bill Cunningham New York',tt1621444,2010,P,USA,0,'Zeitgeist Films','NOT RATED',Documentary,0,0,M,7.9
+'Superman/Batman: Apocalypse',tt1673430,2010,P,USA,2,'WARNER BROTHERS PICTURES',PG-13,Animation,0,5,F,7.2
+Faster,tt1433108,2010,F,USA,0,'CBS Films',R,Action,0,2,M,6.5
+'Red: Werewolf Hunter',tt1626201,2010,P,USA,4,'Sony Pictures Entertainment',TV-14,Fantasy,1,0,M,4.4
+'You Will Meet a Tall Dark Stranger',tt1182350,2010,P,USA,1,'Sony Pictures Classics',R,Comedy,0,0,M,6.3
+'Les emotifs anonymes',tt1565958,2010,P,France,1,'Tribecca Films',PG-13,Comedy,0,0,M,6.9
+'Experiment, The',tt0997152,2010,F,USA,0,'Sony Pictures Home Entertainment',R,Drama,0,4,M,6.5
+'Kids Are All Right, The',tt0842926,2010,P,USA,0,'Focus Features',R,Comedy,1,0,F,7
+'El dios de madera',tt1511354,2010,P,Spain,0,Sagrera,N/A,Drama,0,1,M,5.2
+Transfer,tt1270120,2010,P,Germany,0,N/A,N/A,Drama,0,0,M,6.7
+'Feeding Frenzy',tt1706365,2010,P,USA,0,N/A,N/A,Comedy,0,2,M,6.8
+'Housemaid, The',tt1314652,2010,P,'South Korea',0,'IFC Films','NOT RATED',Drama,0,0,M,6.5
+'Hairdresser, The',tt1585255,2010,P,Germany,2,'Constantin Film Verleih',N/A,Comedy,1,0,M,6.5
+'Remember Me',tt1403981,2010,P,USA,2,'Summit Entertainment',PG-13,Drama,0,1,M,7.1
+'I Will Follow',tt1624426,2010,P,USA,2,'Independent Pictures','NOT RATED',Drama,1,0,F,5.9
+'Hunter Prey',tt1270291,2010,F,USA,0,N/A,N/A,Sci-Fi,0,1,M,5.8
+'Frankie and Alice',tt1221208,2010,P,Canada,2,'Code Black Entertainment',R,Biography,2,4,M,6.5
+'A Bag of Hammers',tt1509787,2010,P,USA,0,'MPI Media Group','NOT RATED',Comedy,0,2,M,6.6
+'Stonehenge Apocalypse',tt1488598,2010,P,Canada,0,'STARZ MEDIA LLC.',PG-13,Sci-Fi,0,1,M,4.2
+'Welcome to the Rileys',tt1183923,2010,P,UK,1,'Samuel Goldwyn Films/Destination Films',R,Drama,0,0,M,7
+'Women on the 6th Floor, The',tt1805297,2010,P,France,0,'Strand Releasing','NOT RATED',Comedy,0,0,M,7.1
+'Tucker and Dale vs Evil',tt1465522,2010,P,Canada,0,'Magnet Releasing',R,Comedy,1,2,M,7.6
+'Mongolian Death Worm',tt1504443,2010,P,USA,0,'Black Chrome Productions',TV-14,Action,0,3,M,3.3
+'Cairo 678',tt1764141,2010,P,Egypt,1,N/A,N/A,Drama,0,1,M,7.5
+'Une vie de chat',tt1673702,2010,P,France,2,'Gébéka Films',PG,Animation,0,0,M,7
+'Other Guys, The',tt1386588,2010,F,USA,0,'Columbia Pictures',PG-13,Action,0,2,M,6.7
+'Tourist, The',tt1243957,2010,F,USA,1,'Columbia Pictures',PG-13,Action,0,2,M,6
+Conviction,tt1244754,2010,P,USA,2,'Fox Searchlight',R,Biography,1,0,M,7.2
+'Debt, The',tt1226753,2010,P,USA,0,'Focus Features',R,Drama,1,2,M,6.9
+Catfish,tt1584016,2010,F,USA,2,'Universal Pictures/Rogue',PG-13,Documentary,0,0,M,7.1
+'Viva Riva!',tt1723120,2010,P,'The Democratic Republic Of Congo',0,'Music Box Films',R,Crime,0,0,M,6.2
+'Ramona and Beezus',tt0493949,2010,P,USA,3,'20th Century Fox',G,Adventure,0,1,F,6.6
+'Extraordinary Adventures of Adele Blanc-Sec, The',tt1179025,2010,P,France,1,'Shout Factory',PG,Action,0,0,M,6.3
+'Boy Wonder',tt1456060,2010,P,USA,0,'Lightning Entertainment',R,Action,0,1,M,6.9
+'Romantics, The',tt1403988,2010,P,USA,0,'Benaroya Pictures',PG-13,Comedy,0,0,M,5.1
+'Pink Saris',tt1721685,2010,P,UK,3,N/A,N/A,Documentary,0,0,M,7.1
+'Another Year',tt1431181,2010,P,UK,0,'Sony Classics',PG-13,Comedy,0,1,M,7.3
+'Basilicata Coast to Coast',tt1529233,2010,P,Italy,0,'Eagle Pictures',N/A,Comedy,0,2,M,6.7
+'Chasing Legends',tt1996211,2010,F,USA,0,'Gripped Films',N/A,Documentary,0,1,M,7.7
+Arrietty,tt1568921,2010,P,Japan,1,'Walt Disney Pictures',G,Animation,1,0,M,7.6
+'Percy Jackson &amp; the Olympians: The Lightning Thief',tt0814255,2010,P,UK,0,'20th Century Fox',PG,Adventure,0,1,M,5.9
+'Eat Me!',tt1412541,2010,P,USA,0,N/A,'NOT RATED',Comedy,1,0,F,6
+'Despicable Me',tt1323594,2010,P,USA,0,'Universal Pictures',PG,Animation,0,1,M,7.7
+'Barney&#39;s Version',tt1423894,2010,P,Italy,0,'Sony Classics',R,Comedy,0,1,M,7.3
+YellowBrickRoad,tt1398428,2010,P,USA,0,'Bloody Disgusting/The Collective',R,Horror,0,2,M,4.7
+Jucy,tt1336999,2010,P,Australia,0,KCDC,N/A,Comedy,2,1,M,5.7
+Predators,tt1424381,2010,F,USA,0,'20th Century Fox',R,Action,0,3,M,6.4
+'Runaways, The',tt1017451,2010,P,USA,0,Apparition,R,Biography,0,0,M,6.6
+Potiche,tt1521848,2010,P,France,2,'Music Box Films',R,Comedy,0,1,M,6.4
+'Resident Evil: Afterlife',tt1220634,2010,P,Germany,0,'Sony Pictures/Screen Gems',R,Action,0,1,M,5.9
+Trigger,tt1624408,2010,P,Canada,1,'E1 Entertainment',N/A,Drama,0,1,M,6.3
+'Titanic II',tt1640571,2010,P,USA,0,'Metrodome Distribution','NOT RATED',Action,0,1,M,1.6
+'Band Baaja Barat',tt1610452,2010,P,India,0,'Yash Raj Films','NOT RATED',Comedy,0,0,M,7.3
+'My Babysitter&#39;s a Vampire',tt1673423,2010,P,Canada,1,'Fresh TV',TV-PG,Adventure,2,0,M,6.3
+'Black Swan',tt0947798,2010,P,USA,1,'Fox Searchlight',R,Drama,0,4,M,8
+'Toy Story 3',tt0435761,2010,P,USA,0,'Walt Disney Pictures',G,Animation,0,4,M,8.3
+Enthiran,tt1305797,2010,P,India,0,Ficus,'NOT RATED',Action,0,0,M,7.1
+'Attack the Block',tt1478964,2011,P,UK,0,'Screen Gems',R,Action,0,1,M,6.6
+'Loneliest Planet, The',tt1695405,2011,F,USA,0,'IFC Films','NOT RATED',Thriller,1,0,F,5.5
+'Phase 7',tt1568816,2011,F,Argentina,1,Collective,R,Sci-Fi,0,0,M,5.9
+'Your Sister&#39;s Sister',tt1742336,2011,P,USA,2,'IFC Films',R,Comedy,0,0,M,6.7
+'Black Butterflies',tt0906778,2011,P,Germany,0,'Tribeca Films','NOT RATED',Biography,0,0,F,6.2
+'Jamie and Jessie Are Not Together',tt1718807,2011,P,USA,2,N/A,'NOT RATED',Comedy,1,0,F,5.1
+Restless,tt1498569,2011,P,USA,1,'Sony Pictures',PG-13,Drama,0,1,M,6.8
+'Midnight in Paris',tt1605783,2011,P,Spain,0,'Sony Pictures Classics',PG-13,Comedy,0,0,M,7.7
+'Craiglist Killer, The',tt1772373,2011,P,USA,0,'Sony Pictures Entertainment',TV-14,Biography,0,2,M,5.3
+'Jumping the Broom',tt1640484,2011,P,USA,0,'Sony Pictures',PG-13,Comedy,2,0,M,5.7
+'Soul Surfer',tt1596346,2011,P,USA,2,TriStar/FilmDistrict,PG,Biography,3,7,M,7.1
+'From Prada to Nada',tt0893412,2011,P,Mexico,0,'Lionsgate Films',PG-13,Comedy,1,2,F,5.5
+Samsara,tt0770802,2011,F,USA,0,'Oscilloscope Pictures',PG-13,Documentary,0,1,M,8.5
+'Alvin and the Chipmunks: Chipwrecked',tt1615918,2011,P,USA,0,'20th Century Fox',G,Animation,0,3,M,4.4
+'She Monkeys',tt1827358,2011,P,Sweden,0,Unknown,'NOT RATED',Drama,1,0,F,5.5
+'Au cul du loup',tt1669794,2011,P,France,0,N/A,N/A,Drama,0,1,M,6.1
+'Jiro Dreams of Sushi',tt1772925,2011,F,USA,0,'Magnolia Pictures',PG,Documentary,0,0,M,7.9
+'Apollo 18',tt1772240,2011,F,USA,0,'The Weinstein Company',PG-13,Horror,0,3,M,5.2
+Drive,tt0780504,2011,P,USA,0,FilmDistrict,R,Crime,0,1,M,7.8
+'Caller, The',tt1525890,2011,P,UK,4,'Bankside Films',R,Thriller,0,1,M,6.1
+Thespians,tt1604225,2011,P,USA,0,'Maven Films',N/A,Documentary,0,0,M,8
+'Kiss Me',tt1859522,2011,P,Sweden,3,'Wolfe Releasing','NOT RATED',Drama,0,0,M,6.9
+Ruggine,tt1833781,2011,P,Italy,0,N/A,N/A,Drama,0,1,M,6
+'Eagle, The',tt1034389,2011,F,UK,0,'Focus Features',PG-13,Action,1,1,M,6.2
+'October Baby',tt1720182,2011,P,USA,2,'IDP/Samuel goldwyn Films',PG-13,Drama,2,3,M,6.8
+'Jin ling shi san chai',tt1410063,2011,P,China,2,'Wrekin Hill Entertainment',R,Drama,0,0,M,7.6
+'Little Birds',tt1623745,2011,P,USA,0,'Millenium Entertainment',R,Drama,0,0,M,6.2
+Hell,tt1643222,2011,P,Germany,0,'Arc Entertainment',R,Horror,0,2,M,5.9
+'A Little Bit of Heaven',tt1440161,2011,P,USA,3,'Millenium Entertainment',PG-13,Comedy,0,0,F,6.3
+Cloudburst,tt1466054,2011,P,USA,0,'Wolfe Video',UNRATED,Adventure,0,0,M,7
+'Innkeepers, The',tt1594562,2011,P,USA,0,'Magnolia Pictures',R,Drama,0,0,M,5.5
+Bridesmaids,tt1478338,2011,P,USA,0,'Universal Studios',R,Comedy,2,0,M,6.8
+Pariah,tt1233334,2011,P,USA,0,'Focus Features',R,Drama,0,0,M,7.2
+'Damsels in Distress',tt1667307,2011,P,USA,0,'Sony Pictures Classics',PG-13,Comedy,0,0,M,5.7
+'Roommate, The',tt1265990,2011,P,USA,4,'Screen Gems/SONY PICTURES',PG-13,Drama,0,1,M,4.9
+'Turn Me On, Dammit!',tt1650407,2011,P,Norway,3,'New Yorker Films','NOT RATED',Comedy,0,0,M,6.3
+'Darkest Hour, The',tt1093357,2011,P,USA,0,'Summit Entertainment',PG-13,Action,1,2,M,4.9
+'Fright Night',tt1438176,2011,P,USA,0,'Walt Disney Pictures',R,Comedy,0,0,M,6.4
+'L&#39;amour dure trois ans',tt1638328,2011,P,France,0,'EuropaCorp. Distribution',N/A,Comedy,0,0,M,6.1
+'Skin I Live In, The',tt1189073,2011,P,Spain,1,'Sony Pictures Classics',R,Drama,0,1,M,7.6
+'Conan the Barbarian',tt0816462,2011,P,USA,0,Lionsgate,R,Action,0,4,M,5.2
+'Sunset Limited, The',tt1510938,2011,F,USA,0,HBO,TV-MA,Drama,0,0,M,7.4
+'&Aacute; annan veg',tt2009643,2011,F,Iceland,0,N/A,'NOT RATED',Comedy,0,0,M,6.7
+'A Separation',tt1832382,2011,P,Iran,0,'Sony Pictures Classics',PG-13,Crime,0,0,M,8.3
+'Alyce Kills',tt1680051,2011,P,USA,3,'Bloody Disgusting/The Collective','NOT RATED',Horror,0,1,M,5.5
+'Exit Humanity',tt1781812,2011,P,Canada,0,'Bloody Disgusting','NOT RATED',Drama,0,1,M,5.3
+'Killer Elite',tt1448755,2011,F,UK,0,'Open Road Films',R,Action,0,0,M,6.5
+'Without Men',tt1547090,2011,P,USA,1,'Maya Entertainment',R,Comedy,1,1,F,3.2
+'Year Dolly Parton Was My Mom, The',tt1316624,2011,P,Canada,5,'Mongrel Media',N/A,Comedy,1,0,F,6.2
+'K-ON! Movie',tt1909796,2011,P,Japan,0,'Section 23',TV-14,Animation,0,1,M,7.5
+'Divide, The',tt1535616,2011,P,Germany,0,'Anchor Bay Entertainment',R,Action,0,0,M,5.8
+'Awakening, The',tt1687901,2011,P,UK,1,'Cohen Media Group',R,Horror,0,2,M,6.5
+'Future, The',tt1235170,2011,P,Germany,0,'Roadside Attractions',R,Drama,1,0,F,6.2
+'Life Without Principle',tt1371585,2011,P,'Hong Kong',0,'Indomina Releasing','NOT RATED',Crime,0,1,M,7
+'Take Shelter',tt1675192,2011,P,USA,0,'Sony Pictures Classics',R,Drama,0,0,M,7.4
+'Moth Diaries, The',tt1407065,2011,P,Canada,2,'IFC Films',R,Drama,2,0,F,4.9
+'Apartment 143',tt1757742,2011,P,Spain,0,'Magnolia Pictures',R,Horror,0,1,M,5.1
+'Paranormal Activity 3',tt1778304,2011,P,USA,0,'Paramount Pictures',R,Horror,0,1,M,5.8
+'Amber Lake',tt1737090,2011,P,USA,0,Cinetic,'NOT RATED',Drama,0,1,M,5.9
+'Smurfs, The',tt0472181,2011,P,USA,0,'Sony Pictures Columbia',PG,Animation,0,4,M,5.5
+'Woman, The',tt1714208,2011,P,USA,0,'Bloody Disgusting Films',R,Horror,0,2,M,6
+'Mildred Pierce',tt1492030,2011,P,USA,2,?,TV-MA,Drama,0,0,M,7.7
+'No One Killed Jessica',tt1734110,2011,P,India,2,'UTV Communications',N/A,Biography,0,0,M,7.2
+'Silent House',tt1767382,2011,P,France,2,'Open Road Films',R,Drama,1,2,M,5.3
+'Black Power Mixtape 1967-1975, The',tt1592527,2011,P,Sweden,0,'IFC Films','NOT RATED',Documentary,0,0,M,7.5
+'Monte Carlo',tt1067774,2011,P,Hungary,1,'20th Century Fox',PG,Adventure,3,1,M,5.8
+'Cabin in the Woods, The',tt1259521,2011,P,USA,0,'Lionsgate Films',R,Comedy,0,1,M,7
+'Atlas Shrugged: Part I',tt0480239,2011,P,USA,0,'Rocky Mountain Pictures',PG-13,Drama,0,2,M,5.7
+'Rid of Me',tt1376233,2011,P,USA,1,'Independent Pictures','NOT RATED',Comedy,0,1,M,6.6
+'Aliens vs. Avatars',tt1854506,2011,P,USA,0,N/A,'NOT RATED',Horror,0,3,M,1.6
+Flypaper,tt1541160,2011,P,Germany,0,'IFC Films','NOT RATED',Comedy,0,2,M,6.4
+'Help, The',tt1454029,2011,P,USA,0,'DreamWorks Studios',PG-13,Drama,1,1,M,8.1
+Hugo,tt0970179,2011,P,USA,0,'Paramount Studios',PG,Adventure,0,2,M,7.5
+Butter,tt1349451,2011,P,USA,3,'Weinstein Company',R,Comedy,0,1,M,6.2
+'Last Call at the Oasis',tt2043900,2011,P,USA,0,IDP/ATO,PG-13,Documentary,1,1,F,7.5
+'Little Engine That Could, The',tt1764666,2011,P,USA,0,'Kidtoon Films',G,Animation,0,4,M,5.7
+'Kill List',tt1788391,2011,P,UK,0,'IFC Films','NOT RATED',Crime,1,1,M,6.4
+'Kung Fu Panda 2',tt1302011,2011,P,USA,0,'Paramount Studios/Dreamworks',PG,Animation,0,2,F,7.2
+'Jack and Jill',tt0810913,2011,P,USA,0,'Sony Pictures',PG,Comedy,0,3,M,3.3
+'Lie, The',tt1531930,2011,P,USA,0,'Screen Media Ventures',R,Drama,0,2,M,5
+'Drengen der ikke kunne svomme',tt1961281,2011,F,Denmark,2,N/A,N/A,Short,0,0,M,5.6
+Gosick,tt1872328,2011,P,Japan,0,?,TV-MA,Animation,0,0,M,7.4
+Quartet,tt1441951,2012,P,UK,1,'The Weinstein Co.',PG-13,Comedy,0,2,M,6.8
+'Dredd 3D',tt1343727,2012,P,UK,0,'Lionsgate Films',R,Action,0,3,M,7.1
+'Resident Evil: Retribution',tt1855325,2012,P,Germany,1,'Screen Gems',R,Action,0,1,M,5.4
+Arachnoquake,tt2151543,2012,P,USA,0,'Active Entertainment',N/A,Horror,0,2,M,2.8
+'Factory, The',tt1132285,2012,P,France,1,'Warner Bros. Pictures',R,Crime,1,2,F,5.8
+'Parental Guidance',tt1047540,2012,P,USA,0,'20th Century Fox',PG,Comedy,1,1,M,6.1
+'Cloud Atlas',tt1371111,2012,P,Germany,0,'Warner Bros. Pictures',R,Action,2,2,M,7.5
+Populaire,tt2070776,2012,P,France,3,'The Weinstein Company',R,Comedy,0,1,M,6.9
+Lincoln,tt0443272,2012,P,USA,0,'Dreamworks Pictures',PG-13,Biography,0,1,M,7.4
+'Lizzie Bennet Diaries, The',tt2392261,2012,P,USA,3,?,N/A,Comedy,0,0,M,8.8
+'American Warships',tt2175927,2012,P,USA,0,'The Asylum',TV-14,Action,0,0,M,2.8
+'Hannah Arendt',tt1674773,2012,P,Germany,0,'Zeitgeist Films','NOT RATED',Biography,1,0,M,7.1
+'In The Dark Half',tt1764645,2012,P,UK,1,N/A,N/A,Drama,1,0,M,5.4
+Barbara,tt2178941,2012,P,Germany,0,'Adopt Films',PG-13,Drama,0,1,M,7.2
+'Safety Not Guaranteed',tt1862079,2012,P,USA,0,'Film District',R,Comedy,0,1,M,7
+'Paradies: Liebe',tt1403214,2012,P,Austria,2,'Strand Releasing',UNRATED,Drama,0,0,M,7.1
+'Think Like a Man',tt1621045,2012,P,USA,1,'Sony Screen Gems',PG-13,Comedy,0,3,M,6.6
+'This Is 40',tt1758830,2012,P,USA,0,'Universal Studios',R,Comedy,0,0,M,6.2
+'Bad Parents',tt2081178,2012,P,USA,1,'Bad Parents LLC','NOT RATED',Comedy,0,0,M,3.3
+Elementary,tt2191671,2012,P,USA,0,?,TV-14,Crime,0,1,M,7.9
+'Alien Tornado',tt1942798,2012,P,USA,0,'MTI Home Video',N/A,Action,0,1,M,3.2
+'Door, The',tt1194577,2012,P,Hungary,2,'FilmArt Kft.',N/A,Drama,1,0,M,6.5
+'Magic of Belle Isle, The',tt1839654,2012,P,USA,1,'Magnolia Pictures',PG,Comedy,0,0,M,7
+'Perks of Being a Wallflower, The',tt1659337,2012,P,USA,0,'Lionsgate Films',PG-13,Drama,0,2,M,8
+'Much Ado About Nothing',tt2094064,2012,P,USA,0,'Roadside Attractions',PG-13,Comedy,0,1,M,7.2
+'Foreign Letters',tt1492841,2012,P,USA,0,'Film Movement',N/A,Comedy,0,0,M,7
+'Jack and Diane',tt0850677,2012,P,USA,4,'Magnolia Pictures',R,Drama,0,1,M,4.5
+'What to Expect When You&#39;re Expecting',tt1586265,2012,P,USA,0,'Lionsgate Films',PG-13,Comedy,2,0,M,5.7
+'Die Wand',tt1745686,2012,F,Austria,3,'Music Box Films','NOT RATED',Drama,0,1,M,6.8
+'Jayne Mansfield&#39;s Car',tt1781840,2012,P,USA,2,'Anchor Bay Films',R,Drama,0,1,M,6.3
+'People Like Us',tt1716777,2012,P,USA,0,'Dreamworks Pictures',PG-13,Comedy,0,2,M,7.1
+'Ill Manors',tt1760967,2012,P,UK,0,'Revolver Entertainment','NOT RATED',Crime,0,0,M,7.1
+Cybergeddon,tt2189240,2012,P,USA,0,?,PG-13,Thriller,0,1,M,6.5
+'English Vinglish',tt2181931,2012,P,India,3,'Eros Entertainment','NOT RATED',Comedy,0,0,M,7.9
+'Cheesecake Casserole',tt1733114,2012,P,USA,0,'Axis Pacific Filmworks',TV-PG,Comedy,2,1,M,6.2
+'Call Girl',tt1977739,2012,P,Sweden,1,'Garagefilm International',N/A,Drama,0,0,M,6.5
+Violine,tt2249628,2012,F,Germany,0,N/A,N/A,Short,0,1,M,7
+'Seasoning House, The',tt1555093,2012,P,UK,2,'Well Go USA','NOT RATED',Drama,1,2,M,6.1
+Bindlestiffs,tt2091243,2012,P,USA,0,Slamdance,R,Comedy,0,4,M,4.5
+'Out in the Dark',tt2318625,2012,F,Israel,0,'Breaking Glass Pictures',N/A,Drama,0,2,M,7.5
+'Mine Games',tt1928337,2012,P,USA,0,'Phase 4 Films',TV-14,Horror,0,5,M,5.4
+'Premium Rush',tt1547234,2012,P,USA,0,'Columbia Pictures',PG-13,Action,0,2,M,6.5
+Gayby,tt2106739,2012,P,USA,0,'Independent Pictures','NOT RATED',Comedy,0,1,M,5.9
+'Five-Year Engagement, The',tt1195478,2012,P,USA,0,'Universal Pictures',R,Comedy,0,2,M,6.2
+'Ahi va el diablo',tt2107648,2012,P,Mexico,0,'Magnolia Pictures','NOT RATED',Horror,0,0,M,5.6
+Sparkle,tt1876451,2012,P,USA,1,'Sony Pictures',PG-13,Drama,1,2,M,5.7
+'Moonrise Kingdom',tt1748122,2012,P,USA,0,'Focus Features',PG-13,Adventure,0,1,M,7.8
+'Future Weather',tt1701215,2012,P,USA,3,'First Pond Entertainment','NOT RATED',Drama,1,0,F,6.2
+Entrance,tt1918806,2012,P,USA,2,'IFC Midnight','NOT RATED',Drama,3,2,M,4.8
+'White Alligator',tt2435166,2012,P,USA,4,N/A,N/A,Comedy,1,0,F,7.7
+Sightseers,tt2023690,2012,P,UK,0,'IFC Films','NOT RATED',Adventure,2,1,M,6.5
+'Step Up Revolution',tt1800741,2012,P,USA,1,'Summit Entertainment',PG-13,Drama,1,0,M,6.5
+'Batman: The Dark Knight Returns, part 1',tt2313197,2012,P,USA,0,'WARNER BROTHERS PICTURES',PG-13,Animation,0,1,M,8
+'Bourne Legacy, The',tt1194173,2012,P,USA,0,'Universal Pictures',PG-13,Action,0,3,M,6.7
+'For a Good Time, Call...',tt1996264,2012,P,USA,0,'Focus Features',R,Comedy,2,0,F,6
+'Neighboring Sounds',tt2190367,2012,P,Brazil,0,'Cinema Guild',UNRATED,Drama,0,0,M,7.1
+'Why Stop Now?',tt1853643,2012,P,USA,2,'IFC Films',R,Comedy,0,0,M,5.6
+'Vow, The',tt1606389,2012,P,USA,3,'Sony Pictures',PG-13,Drama,1,2,M,6.8
+Excision,tt1984153,2012,P,USA,2,'Anchor Bay Films','NOT RATED',Drama,0,1,M,6.1
+'Tango libre',tt2370034,2012,F,France,4,'Artemis Productions',N/A,Drama,1,0,M,6.2
+'Girls Und Panzer',tt2294076,2012,P,Japan,3,?,TV-14,Animation,0,0,M,7.5
+'If I Were You',tt1587309,2012,P,UK,2,'Paragraph Pictures',R,Comedy,0,0,M,7.1
+'Ruroni Kenshin: Meiji kenkaku roman tan',tt1979319,2012,P,Japan,0,N/A,TV-MA,Action,0,0,M,7.6
+'Key and the Frame, The',tt2601160,2012,P,USA,0,N/A,N/A,Short,0,1,M,?
+'I Belong',tt2377396,2012,P,Norway,2,'Motlys AS',N/A,Comedy,0,0,M,6.7
+Smiley,tt2025667,2012,P,USA,2,'Fever Productions',R,Comedy,0,2,M,3.5
+'Dark Shadows',tt1077368,2012,P,USA,0,'Warner Bros. Pictures',PG-13,Comedy,0,3,M,6.2
+Byzantium,tt1531901,2012,P,UK,1,'IFC Films',R,Drama,0,0,M,6.5
+'Wreck-It Ralph',tt1772341,2012,P,USA,0,'Walt Disney Pictures',PG,Animation,1,3,M,7.7
+'Call Me Kuchu',tt2088714,2012,P,USA,0,Cinedigm,'NOT RATED',Documentary,1,0,F,7.6
+'Das Leben ist nichts fur Feiglinge',tt2147550,2012,P,Germany,1,'Riva Filmproduktion',N/A,Drama,0,0,M,6.7
+Morgana,tt2318360,2012,P,Mexico,1,N/A,N/A,Horror,0,0,M,3.7
+'Rock of Ages',tt1336608,2012,P,USA,1,'New Line Cinema',PG-13,Comedy,0,4,M,5.9
+Goodbye,tt1926992,2012,P,Iran,0,N/A,N/A,Drama,0,1,M,7.2
+'Underworld: Awakening',tt1496025,2012,P,USA,0,'Screen Gems',R,Action,1,4,M,6.4
+'One for the Money',tt1598828,2012,P,USA,4,'Lionsgate Films',PG-13,Action,3,0,F,5.3
+'Lucky One, The',tt1327194,2012,P,USA,1,'Warner Bros. Pictures',PG-13,Drama,0,2,M,6.5
+'What Maisie Knew',tt1932767,2012,P,USA,2,'Millenium Entertainment',R,Drama,1,1,M,7.5
+'Guilt Trip, The',tt1694020,2012,P,USA,1,'Paramount Pictures',PG-13,Comedy,0,0,F,5.8
+Vamps,tt1545106,2012,P,USA,0,'Anchor Bay Entertainment',PG-13,Comedy,1,0,F,5.2
+'Saving Mr. Banks',tt2140373,2013,P,USA,2,'Walt Disney Pictures',PG-13,Biography,1,0,M,7.5
+Ida,tt2718492,2013,P,Poland,2,'Music Box Films',PG-13,Drama,1,0,M,7.4
+'Only Lovers Left Alive',tt1714915,2013,P,Germany,1,'Sony Pictures Classics',R,Comedy,0,0,M,7.3
+Prisoners,tt1392214,2013,P,USA,2,'Warner Bros.',R,Crime,0,1,M,8.1
+'Baggage Claim',tt1171222,2013,P,USA,3,'Fox Searchlight',PG-13,Comedy,0,2,M,5.1
+Wadjda,tt2258858,2013,P,'Saudi Arabia',4,'Sony Pictures Classics',PG,Comedy,0,0,M,7.6
+'Kyss meg for faen i helvete',tt2829458,2013,P,Norway,0,Motlys,N/A,Comedy,0,0,M,6.5
+Turbo,tt1860353,2013,P,USA,0,'DreamWorks Animation',PG,Animation,0,4,M,6.4
+'Wolverine, The',tt1430132,2013,P,USA,0,'20th Century Fox',PG-13,Action,0,2,M,6.7
+'An Easter Bunny Puppy',tt2599226,2013,P,USA,5,'FUN FAMILY FEATURES. LLC',N/A,Family,0,1,M,2.4
+'Odd Thomas',tt1767354,2013,P,USA,0,'RLJ/Image Entertainment',N/A,Comedy,0,2,M,6.9
+'Best Friends Forever',tt2224073,2013,P,USA,1,N/A,'NOT RATED',Drama,0,0,M,5.1
+'Punk Singer, The',tt1785612,2013,P,USA,0,'IFC Films','NOT RATED',Documentary,0,0,M,7.4
+'Ass Backwards',tt1509788,2013,P,USA,0,'Gravitas Ventures',UNRATED,Adventure,2,1,M,4.2
+'Yip Man: Jung gik yat jin',tt2495118,2013,P,'Hong Kong',0,'Well Go USA',PG-13,Action,1,0,M,6.2
+'Lost In Living',tt2628260,2013,P,USA,1,N/A,N/A,Documentary,0,0,F,7.2
+'Machine, The',tt2317225,2013,P,UK,0,'Xlrator Media',R,Action,0,0,M,6.1
+'Flores Raras',tt2217458,2013,P,Brazil,0,'Wolfe Releasing','NOT RATED',Biography,3,1,M,7
+'Barbie &amp; Her Sisters in a Pony Tale',tt3321254,2013,P,USA,2,'Universal Pictures',TV-Y,Animation,0,1,M,6.3
+Coherence,tt2866360,2013,P,USA,0,'Oscilloscope Pictures','NOT RATED',Horror,0,3,M,7.2
+'La jaula de oro',tt2042583,2013,F,Mexico,0,N/A,'NOT RATED',Drama,0,2,M,7.7
+Ang&eacute;lique,tt2776074,2013,P,France,4,N/A,N/A,Adventure,3,1,F,6.1
+'In Fear',tt2165859,2013,F,UK,0,'Anchor Bay/Freestyle Releasing',R,Horror,0,2,M,5.5
+'Dallas Buyers Club',tt0790636,2013,P,USA,0,'Focus Features',R,Biography,0,1,M,8
+'A Talking Cat!?!',tt2511190,2013,P,USA,0,'FUN FAMILY FEATURES. LLC','NOT RATED',Comedy,0,1,M,2.5
+'Europa Report',tt2051879,2013,P,USA,0,'Magnolia Pictures',PG-13,Drama,0,1,M,6.5
+'Nymphomaniac: Volume 1',tt1937390,2013,P,Denmark,2,'Magnolia Pictures','NOT RATED',Drama,0,0,M,7
+'About Time',tt2194499,2013,P,UK,0,'Universal Pictures',R,Comedy,0,1,M,7.8
+'Words and Pictures',tt2380331,2013,P,USA,0,'Roadside Attractions',PG-13,Comedy,0,1,M,6.6
+'Smurfs 2, The',tt2017020,2013,P,USA,1,'Sony Pictures',PG,Animation,0,6,M,5.4
+'Way Way Back, The',tt1727388,2013,P,USA,4,'Fox Searchlight',PG-13,Comedy,0,0,M,7.4
+'Iron Man 3',tt1300854,2013,P,China,0,'Walt Disney Pictures',PG-13,Action,0,5,M,7.2
+'In a World...',tt2294677,2013,P,USA,1,'Roadside Attractions',R,Comedy,0,0,M,6.7
+Parker,tt1904996,2013,P,USA,1,FilmDistrict,R,Action,0,2,F,6.2
+'Secret Life of Walter Mitty, The',tt0359950,2013,P,USA,0,'20th Century Fox',PG,Adventure,0,3,M,7.3
+'Hemlock Grove',tt2309295,2013,P,USA,0,?,TV-MA,Horror,0,2,M,7.2
+'Hobbit: The Desolation of Smaug, The',tt1170358,2013,P,USA,0,'Warner Bros.',PG-13,Adventure,0,2,M,7.8
+'How I Live Now',tt1894476,2013,P,UK,3,'Magnolia Pictures',R,Romance,1,3,M,6.5
+'Congress, The',tt1821641,2013,P,Israel,3,'Drafthouse Films','NOT RATED',Animation,0,1,M,6.5
+'Don Jon',tt2229499,2013,P,USA,0,'Relativity Media',R,Comedy,0,1,M,6.6
+Maron,tt2520512,2013,F,USA,0,?,N/A,Comedy,0,1,M,7.7
+'Zoran, il mio nipote scemo',tt3078718,2013,F,Italy,0,N/A,N/A,Comedy,1,2,M,6.6
+Plush,tt2226519,2013,P,USA,4,'Millennium Entertainment',R,Drama,1,0,F,5.4
+'Upstream Color',tt2084989,2013,F,USA,1,'Independent Pictures/Metrodome Dist.','NOT RATED',Drama,0,1,M,6.7
+'300 Worte Deutsch',tt2288044,2013,P,Germany,0,N/A,N/A,Comedy,2,1,M,5.7
+'Saige Paints the Sky',tt2818348,2013,P,USA,1,'Universal Studios',TV-G,Family,3,0,M,6.3
+'Safe Haven',tt1702439,2013,P,USA,4,'Relativity Media',PG-13,Drama,1,2,M,6.7
+'Vi ar bast!',tt2364975,2013,P,Sweden,0,'Magnolia Pictures','NOT RATED',Drama,0,1,M,7.2
+'L&#39;ecume des jours',tt2027140,2013,P,France,2,'Drafthouse Films','NOT RATED',Comedy,0,0,M,6.5
+Gravity,tt1454468,2013,F,UK,0,'Warner Bros. Pictures',PG-13,Drama,0,1,M,7.7
+'Escape from Planet Earth',tt0765446,2013,P,USA,0,'The Weinstein Co.',PG,Animation,0,4,M,5.9
+'Railway Man, The',tt2058107,2013,F,Switzerland,0,'The Weinstein Company',R,Biography,0,3,M,7.1
+G.B.F.,tt2429074,2013,P,USA,0,'Vertical Entertainment',R,Comedy,0,1,M,6
++1,tt2395385,2013,P,USA,0,'IFC Films','NOT RATED',Horror,0,1,M,5.5
+'Enough Said',tt2390361,2013,P,USA,3,s,PG-13,Comedy,1,0,F,7
+'Hit Girl, The',tt2651924,2013,P,USA,1,N/A,N/A,Action,0,3,M,7.5
+'American Hustle',tt1800241,2013,P,USA,0,'Sony Pictures',R,Crime,0,2,M,7.3
+Riddick,tt1411250,2013,F,USA,0,'Universal Classics',R,Action,0,1,M,6.4
+'Crystal Fairy &amp; the Magical Cactus and 2012',tt2332579,2013,P,Chile,1,'IFC Films','NOT RATED',Adventure,0,0,M,5.8
+Gabrielle,tt3106846,2013,P,Canada,3,'Entertainment One',R,Drama,0,0,M,6.9
+Mama,tt2023587,2013,P,Canada,0,'Universal Pictures',PG-13,Horror,2,3,M,6.2
+Horns,tt1528071,2013,P,USA,0,Radius-TWC,R,Crime,0,2,M,6.5
+'Future Shift',tt2991316,2013,P,Canada,0,N/A,N/A,Action,0,0,M,?
+'Hansel &amp; Gretel: Witch Hunters',tt1428538,2013,P,Germany,0,'Paramount Pictures/MGM',R,Action,0,1,M,6.1
+'Short Term 12',tt2370248,2013,P,USA,1,Cinedigm,R,Drama,0,0,M,8
+'Orphan Black',tt2234222,2013,P,Canada,2,?,TV-MA,Action,1,5,M,8.3
+'Oz the Great and Powerful',tt1623205,2013,P,USA,0,'Walt Disney Pictures',PG,Adventure,0,3,M,6.3
+'Dead Man Down',tt2101341,2013,P,USA,1,FilmDistrict,R,Action,0,0,M,6.5
+'Bounty Killer',tt2369396,2013,P,USA,0,'Arc Entertainment',R,Action,0,4,M,5.5
+'Only God Forgives',tt1602613,2013,P,Denmark,1,Radius-TWC,R,Crime,0,1,M,5.7
+'Cloudy with a Chance of Meatballs 2',tt1985966,2013,P,USA,0,'Sony Pictures',PG,Animation,2,3,M,6.4
+V/H/S/2,tt2450186,2013,P,USA,0,'Magnet Releasing',R,Horror,1,4,M,6.1
+'Knights of Badassdom',tt1545660,2013,P,USA,0,'Entertainment One Films',R,Action,0,1,M,5.7
+'Touchy Feely',tt2364949,2013,P,USA,2,'Magnolia Pictures',R,Drama,0,0,M,5.3
+Mobius,tt2106550,2013,P,France,1,'Grindstone Entertainment',R,Drama,0,1,M,6.1
+'Perfect Mothers',tt2103267,2013,P,Australia,0,'Exclusive Media',R,Drama,2,1,F,6.2
+'Soshite chichi ni naru (Like Father, Like Son)',tt2331143,2013,P,Japan,1,'IFC Films','NOT RATED',Drama,0,0,M,7.8
+Gam-si-ja-deul,tt2969656,2013,P,'South Korea',0,'Zip Cinema','NOT RATED',Action,0,0,M,7.2
+'August: Osage County',tt1322269,2013,P,USA,2,'The Weinstein Company',R,Drama,0,0,M,7.2
+'Patema Inverted',tt2981768,2013,F,Japan,1,GKIDS,'NOT RATED',Animation,0,1,M,7.4
+'All Cheerleaders Die',tt2527186,2013,P,USA,2,'RLJ/Image Entertainment','NOT RATED',Comedy,0,1,M,5.1
+Snowpiercer,tt1706620,2013,P,'South Korea',0,Radius-TWC,R,Action,1,1,M,7.1
+'Vivian Maier Mystery, The',tt3252208,2013,P,UK,2,FilmBuff,N/A,Documentary,0,0,M,7.6
+'Tale of The Princess Kaguya, The',tt2576852,2013,P,Japan,6,GKIDS,PG,Animation,0,0,M,8.1
+'rastres de s&aacute;ndal',tt3521332,2013,P,Spain,0,N/A,N/A,Drama,2,0,F,6.8
+'Qu&#39;est-ce qu&#39;on a fait au Bon Dieu?',tt2800240,2014,P,France,0,'AZ Films',N/A,Comedy,0,0,M,7
+'Alles Inklusive',tt3469518,2014,P,Germany,0,'Constantin Film Verleih',N/A,Comedy,0,0,M,5.6
+'Expendables 3, The',tt2333784,2014,F,USA,0,'Lionsgate Pictures',PG-13,Action,0,0,M,6.1
+'Atlas Shrugged: Who Is John Galt?',tt2800038,2014,P,USA,0,'Atlas Distribution',PG-13,Drama,0,2,M,4.4
+'Under the Skin',tt1441395,2014,F,Switzerland,2,A24,R,Drama,0,2,M,6.3
+Belle,tt2404181,2014,P,UK,2,'Fox Searchlight',PG,Biography,0,0,M,7.4
+'Skeleton Twins, The',tt1571249,2014,P,USA,0,'Roadside Attractions',R,Comedy,0,2,M,6.8
+Outcast,tt1552224,2014,P,Canada,1,'Eone Films','NOT RATED',Action,0,1,M,4.6
+Treehouse,tt1791681,2014,P,UK,0,'Uncorkd Entertainment',N/A,Horror,0,2,M,3.9
+Dohee-ya,tt3661798,2014,P,'South Korea',3,N/A,N/A,Drama,0,0,M,7
+Cake,tt3442006,2014,P,USA,3,'Cinelou Films',R,Drama,0,1,M,6.4
+'Verden venter',tt4800178,2014,P,Norway,0,N/A,N/A,Comedy,0,0,M,7
+'Taking of Deborah Logan, The',tt3387648,2014,P,USA,2,'Millennium Entertainment',R,Horror,0,2,M,6
+'My Father Must Die',tt3368814,2014,P,Canada,4,N/A,TV-14,Crime,0,1,M,6.1
+'Book of Life, The',tt2262227,2014,P,USA,0,'20th Century Fox',PG,Animation,0,1,M,7.3
+Electricity,tt2936470,2014,P,UK,3,N/A,N/A,Drama,0,2,M,6.1
+'Ask Me Anything',tt2505294,2014,P,USA,3,'Phase 4 Films','NOT RATED',Drama,2,0,F,6.1
+Innocence,tt1724965,2014,P,USA,2,'Abramorama Entertainment',PG-13,Adventure,1,0,M,4.6
+'Single Moms Club, The',tt2465140,2014,P,USA,0,'Lionsgate Films',PG-13,Comedy,0,1,M,5.3
+'Batman: Assault on Arkham',tt3139086,2014,P,USA,1,'WARNER BROTHERS PICTURES',PG-13,Animation,0,5,M,7.5
+Annie,tt1823664,2014,P,USA,3,'Sony Pictures',PG,Comedy,0,3,M,5.3
+'Babadook, The',tt2321549,2014,P,Australia,4,'IFC Films','NOT RATED',Drama,1,0,F,6.8
+'Into the Storm',tt2106361,2014,P,USA,0,'Warner Bros. Pictures',PG-13,Action,0,1,M,5.8
+'A Long Way Down',tt0458413,2014,P,UK,0,'Magnolia Pictures',R,Comedy,0,2,M,6.4
+'Hoje Eu Quero Voltar Sozinho',tt1702014,2014,P,Brazil,0,'Strand Releasing','NOT RATED',Drama,0,1,M,7.9
+'La cr&egrave;me de la cr&egrave;me',tt2536428,2014,P,France,0,N/A,N/A,Comedy,0,0,M,5.9
+'Fault in Our Stars, The',tt2582846,2014,P,USA,0,'20th Century Fox',PG-13,Drama,0,3,M,7.7
+Non-Stop,tt2024469,2014,P,UK,0,'Universal Pictures',PG-13,Action,1,5,M,7
+'Begin Again',tt1980929,2014,P,USA,0,'The Weinstein Company',R,Comedy,0,1,M,7.4
+'Quiet Hour, The',tt2645188,2014,P,UK,2,N/A,N/A,Drama,0,0,M,4.7
+'Anatomy of a Love Seen',tt3546114,2014,P,USA,0,N/A,'NOT RATED',Drama,1,0,F,4.8
+'Eat with Me',tt2274604,2014,P,USA,1,'Eat With Me Productions','NOT RATED',Comedy,0,1,M,6.5
+'Wish I Was Here',tt2870708,2014,P,USA,0,'Focus Features',R,Comedy,0,1,M,6.7
+'Still the Water',tt3230162,2014,P,France,0,Kumie,N/A,Drama,1,0,F,6.7
+Mercenaries,tt3598222,2014,P,USA,2,N/A,UNRATED,Action,0,1,M,3.7
+Respire,tt3365778,2014,P,France,4,'Film Movement','NOT RATED',Drama,0,1,M,7.1
+'Near Death Experience',tt3800012,2014,F,France,0,N/A,N/A,Comedy,0,0,M,5.8
+'Primero De Enero',tt3263732,2014,P,'Dominican Republic',0,N/A,N/A,Drama,1,0,F,6.6
+Phoenix,tt2764784,2014,P,Germany,2,'IFC Films',PG-13,Drama,0,1,M,7.3
+'I Call It Love',tt4211680,2014,F,Lebanon,0,'Rajshri Media',N/A,Short,0,0,M,?
+'God&#39;s Not Dead',tt2528814,2014,P,USA,0,'Pure Flix Entertainment',PG,Drama,0,1,M,4.8
+'Camp Takota',tt3097084,2014,P,USA,3,N/A,'NOT RATED',Comedy,1,1,M,6.9
+'Quiet Roar, The',tt2835536,2014,P,Sweden,3,Idyll,N/A,Drama,0,0,M,5.7
+'Other Woman, The',tt2203939,2014,P,USA,3,'20th Century Fox',PG-13,Comedy,1,0,M,6
+'Lego Movie, The',tt1490017,2014,P,Australia,0,'Warner Bros. Pictures',PG,Animation,0,5,M,7.8
+'That Awkward Moment',tt1800246,2014,P,USA,0,'Focus Features',R,Comedy,0,0,M,6.2
+'Wir sind die Neuen',tt3777462,2014,P,Germany,0,N/A,N/A,Comedy,0,0,M,6.7
+'Tinker Bell and the Legend of the NeverBeast',tt3120408,2014,P,USA,1,'DisneyToon Studios',G,Animation,1,3,M,7.3
+'Disappearance of Eleanor Rigby: Her, The',tt3720788,2014,P,USA,0,N/A,R,Drama,0,0,M,7
+'Before I Go to Sleep',tt1726592,2014,P,UK,4,'Clarius Entertainment',R,Drama,1,1,F,6.3
+'Der kleine Drache Kokosnuss',tt3726220,2014,F,Germany,0,N/A,TV-G,Animation,0,1,M,4.7
+'Miss Meadows',tt3128900,2014,P,USA,0,'Eone Films','NOT RATED',Drama,1,0,F,5.7
+'Da Sweet Blood of Jesus',tt3104930,2014,P,USA,0,'Gravitas Ventures','NOT RATED',Comedy,0,0,M,4.1
+'Jane the Virgin',tt3566726,2014,P,USA,2,?,TV-PG,Comedy,0,0,M,7.8
+'Justice League: WAR',tt3060952,2014,P,USA,0,'Warner Home Video',PG-13,Animation,0,6,M,7.3
+'Frozen in Time',tt4150316,2014,F,USA,0,N/A,G,Animation,1,0,M,6
+'Like Sunday, Like Rain',tt3104818,2014,P,USA,1,'Monterey Media',R,Drama,0,1,M,6.9
+Unbroken,tt1809398,2014,F,USA,0,'Universal Pictures',PG-13,Biography,1,4,F,7.2
+'White Bird in a Blizzard',tt2238050,2014,P,France,3,'Magnolia Pictures',R,Drama,1,0,M,6.4
+'Dolphin Tale 2',tt2978462,2014,P,USA,4,'Warner Bros. Pictures',PG,Drama,1,1,M,6.4
+'Rio 2',tt2357291,2014,P,USA,0,'20th Century Fox',G,Animation,1,2,M,6.3
+'Two Faces of January, The',tt1976000,2014,P,UK,1,'Magnolia Pictutures',PG-13,Romance,1,0,M,6.2
+'Grace of Monaco',tt2095649,2014,P,France,0,'The Weinstein Company','NOT RATED',Biography,0,0,M,5.7
+'Flowers in the Attic',tt3074694,2014,P,Canada,0,'Front Street Pictures',TV-14,Drama,2,0,F,6.1
+'East Side Sushi',tt2340650,2014,P,USA,1,'Samuel Douek/Hola Mexico Film Festival',PG,Drama,0,1,M,7.1
+'Disappearance of Eleanor Rigby: Them, The',tt3729920,2014,P,USA,0,'The Weinstein Company',R,Drama,0,0,M,6.3
+'Wyrmwood: Road of the Dead',tt2535470,2014,P,Australia,0,'IFC Midnight','NOT RATED',Action,0,1,M,6.2
+'Beyond the Lights',tt3125324,2014,P,USA,4,'Relativity Media',PG-13,Drama,1,0,F,6.9
+'Love, Rosie',tt1638002,2014,P,Germany,0,'Film Arcade',R,Comedy,2,0,M,7.2
+Hits,tt3145220,2014,P,USA,0,'Honora Productions',N/A,Comedy,0,1,M,5.8
+'Into the Woods',tt2180411,2014,P,USA,1,'Walt Disney Pictures',PG,Adventure,0,2,M,6
+'A Girl Walks Home Alone at Night',tt2326554,2014,P,USA,0,'Vice Films','NOT RATED',Drama,1,0,F,7
+'Que Horas Ela Volta?',tt3742378,2015,P,Brazil,1,'Oscilloscope Laboratories',R,Comedy,1,0,F,7.8
+Intruders,tt4009278,2015,P,USA,3,N/A,R,Drama,0,1,M,5.7
+'Boi Neon',tt4899406,2015,P,Brazil,0,N/A,UNRATED,Drama,0,1,M,6.8
+'Wedding Ringer, The',tt0884732,2015,P,USA,0,'Sony Screen Gems',R,Comedy,0,2,M,6.7
+'Harter Brocken',tt3981858,2015,P,Germany,1,N/A,N/A,Crime,0,0,M,6.8
+'Steve Jobs',tt2080374,2015,P,UK,0,'Universal Pictures',R,Biography,0,2,M,7.2
+'Victor Frankenstein',tt1976009,2015,F,UK,0,'Eclectic Pictures',PG-13,Drama,1,2,M,6
+'Wave (B&oslash;lgen), The',tt3616916,2015,P,Norway,0,N/A,R,Action,0,1,M,6.7
+'Angry Indian Goddesses',tt3368222,2015,P,India,3,N/A,N/A,Comedy,0,0,M,6.9
+'Fathers &amp; Daughters',tt2582502,2015,P,Italy,2,'Voltage Pictures',R,Drama,0,0,M,7.1
+'Star Wars: The Force Awakens',tt2488496,2015,P,USA,0,'Walt Disney Pictures',PG-13,Action,0,3,M,8
+'Love Live! The School Idol Movie',tt3837248,2015,P,Japan,0,N/A,'NOT RATED',Animation,0,0,M,6.9
+Feeheld,tt1658801,2015,P,USA,2,'Summit Entertainment',PG-13,Biography,0,0,M,6.5
+'Battledream Chronicle',tt4714032,2015,P,Martinique,1,N/A,N/A,Animation,0,0,M,6.3
+'Miss You Already',tt2245003,2015,P,UK,0,'Embargo Films',PG-13,Comedy,0,0,F,6.8
+'Second Best Exotic Marigold Hotel, The',tt2555736,2015,P,UK,0,'20th Century Fox',PG,Comedy,0,1,M,6.6
+'Invisible Sister',tt4420110,2015,P,USA,1,'Disney Channel',TV-G,Adventure,2,2,M,6.3
+'VVitch: A New-England Folktale, The',tt4263482,2015,P,UK,0,'A24 Films',R,Horror,0,1,M,6.8
+'Final Girls, The',tt2118624,2015,P,USA,5,'Stage 6 Films',PG-13,Comedy,0,1,M,6.6
+'brothers of the wind',tt3532278,2015,F,Austria,0,'Epic Pictures',N/A,Adventure,0,1,M,6.8
+'Liza, the fox fairy',tt2210769,2015,P,Hungary,3,N/A,N/A,Comedy,0,0,M,7.6
+Sisters,tt1850457,2015,P,USA,0,'Universal Pictures',R,Comedy,1,0,M,6
+Unexpected,tt4145304,2015,P,USA,2,'The Film Arcade',R,Comedy,1,0,M,5.7
+Legend,tt3569230,2015,P,UK,0,'Universal Studios',R,Biography,0,2,M,7
+Advantageous,tt3090670,2015,P,USA,2,'Film Presence','NOT RATED',Drama,2,0,F,6.2
+'Queen of Earth',tt3993894,2015,P,USA,1,'IFC Films','NOT RATED',Drama,0,1,M,6.3
+'Overnight, The',tt3844362,2015,P,USA,0,'The Orchard',R,Comedy,0,1,M,6.1
+'Magic Mike XXL',tt2268016,2015,P,USA,0,'Warner Bros. Pictures',R,Comedy,0,1,M,5.6
+'Il racconto dei racconti',tt3278330,2015,P,Italy,0,'Sundance Selects',R,Drama,0,1,M,6.4
+'Fifty Shades of Grey',tt2322441,2015,P,USA,1,'Focus Features',R,Drama,1,0,M,4.1
+Anguish,tt3620762,2015,P,USA,2,'Anguish Film',N/A,Drama,0,1,M,4.5
+Cinderella,tt1661199,2015,P,USA,3,'Walt Disney Pictures',PG,Drama,0,2,M,6.9
+Carol,tt2402927,2015,P,UK,1,'The Weinstein Company',R,Drama,1,0,M,7.2
+Room,tt3170832,2015,P,Ireland,2,'Element Pictures',R,Drama,2,0,M,8.2
+Max,tt3369806,2015,P,USA,0,'Warner Bros. Pictures',PG,Adventure,0,1,M,6.8
+'Far From the Madding Crowd',tt2935476,2015,P,UK,0,'20th Century Fox',PG-13,Drama,0,2,M,7.1
+'Halal Love',tt5105218,2015,P,Germany,1,N/A,N/A,Comedy,0,0,M,6.4
+Maryland,tt4085084,2015,F,France,1,'Scope Pictures',UNRATED,Drama,1,0,F,6.2
+Stitcher,tt4858280,2015,F,Ireland,0,N/A,N/A,Short,0,0,M,?
+Captive,tt3268668,2015,P,Mexico,2,'Paramount Pictures',PG-13,Action,2,1,M,5.4
+'Insidious: Chapter 3',tt3195644,2015,P,Canada,2,'Focus Features',PG-13,Horror,0,0,M,6.1
+'Un peu, beaucoup, aveuglement!',tt4466936,2015,P,France,3,N/A,'NOT RATED',Comedy,0,1,M,6.6
+'Reason I Shop Online, The',tt4780834,2015,P,UK,1,N/A,N/A,Short,1,0,M,?
+'Phoenix Project, The',tt3430042,2015,F,USA,0,FilmBuff,'NOT RATED',Drama,0,1,M,4.2
+'45 Years',tt3544082,2015,P,UK,0,'Sundance Selects',R,Drama,0,2,M,7.1
+'Trust Fund',tt3969208,2015,P,USA,7,'Transatlantic Films',PG,Drama,1,0,F,6.5
+'Full Out',tt3977462,2015,P,Canada,0,'Carmel Creek Productions',TV-PG,Biography,0,0,M,6.5
+'You&#39;re My Boss',tt4489160,2015,F,Philippines,3,N/A,TV-PG,Comedy,0,0,M,6.2
+Life,tt2948840,2015,P,UK,0,'See-Saw Films',R,Biography,0,1,M,6.1
+Sicario,tt3397884,2015,F,USA,0,Lionsgate,R,Action,1,1,M,7.6
+'Hotel Transylvania 2',tt2510894,2015,P,USA,0,'Sony Pictures',PG,Animation,0,3,M,6.7
+Ghosthunters,tt3711622,2015,P,Germany,0,'Lucky Birds Media',PG,Animation,0,4,M,5.5
+'Blackcoat&#39;s Daughter, The',tt3286052,2015,P,Canada,0,'A24 and DIRECTV',R,Horror,0,0,M,5.9
+'Septembers of Shiraz',tt3661298,2015,P,USA,0,'Millennium Films',PG-13,Thriller,2,0,M,6.1
+'Jem and the Holograms',tt3614530,2015,P,USA,3,'Universal Pictures',PG,Adventure,1,1,M,4.1
+'Shaun the Sheep Movie',tt2872750,2015,F,UK,0,Lionsgate,PG,Animation,0,3,M,7.4
+'Hitman: Agent 47',tt2679042,2015,F,USA,4,'20th Century Fox',R,Action,0,2,M,5.7
+Meadowland,tt3529656,2015,P,USA,0,'Meadowland Production',R,Drama,0,1,M,5.8
+'Miss Sloane',tt4540710,2016,P,France,2,EuropaCorp,R,Drama,0,1,M,7.5
+'Queen of Katwe',tt4341582,2016,P,USA,2,'Walt Disney Studios',PG,Biography,0,1,F,7.4
+'Captain America: Civil War',tt3498820,2016,P,USA,0,'Walt Disney Pictures',PG-13,Action,0,4,M,7.8
+'Mother&#39;s Day',tt4824302,2016,P,USA,1,'Open Road Films',PG-13,Comedy,2,2,M,5.6
+'Teenage Mutant Ninja Turtles: Out of the Shadows',tt3949660,2016,P,USA,0,'Paramount Pictures',PG-13,Action,0,3,M,6
+'Fantastic Beasts and Where to Find Them',tt3183660,2016,P,UK,0,'Warner Bros. Pictures',PG-13,Adventure,0,0,M,7.4
+Ballerina,tt2261287,2016,P,France,3,'The Weinstein Company',PG,Animation,0,3,M,6.8
+'Dernieres nouvelles du cosmos',tt5786040,2016,P,France,0,N/A,N/A,Documentary,0,0,F,6.7
+'Everybody Wants Some',tt2937696,2016,F,USA,0,'Paramount Pictures',R,Comedy,0,1,M,7
+'20th Century Women',tt4385888,2016,P,USA,2,'A24 Films',R,Comedy,0,1,M,7.3
+'Hunt for the Wilderpeople',tt4698684,2016,P,'New Zealand',0,'Piki Films',PG-13,Adventure,0,0,M,7.9
+'Choice, The',tt3797868,2016,P,USA,0,'Lionsgate Films',PG-13,Drama,0,2,M,6.6
+'Raising the Bar',tt5274066,2016,P,Australia,2,N/A,'NOT RATED',Family,1,2,M,5.8
+'My Little Pony: Equestria Girls - Legend of Everfree',tt5474644,2016,P,USA,0,'DHX Media',TV-Y7,Animation,1,0,M,6.5
+'Other People',tt4158876,2016,P,USA,1,'Gettin Rad Productions',UNRATED,Comedy,0,1,M,6.7
+'Spa Night',tt5254640,2016,P,USA,0,'Nonetheless Productions',UNRATED,Drama,0,1,M,5.8
+'Boss, The',tt2702724,2016,P,USA,3,'Universal Pictures',R,Comedy,1,2,M,5.4
+'Love Witch, The',tt3908142,2016,P,USA,1,'Oscilloscope Laboratories',UNRATED,Comedy,1,0,F,6.2
+Trolls,tt1679335,2016,P,USA,1,'DreamWorks Animation',PG,Animation,1,3,M,6.5
+'Nice Guys, The',tt3799694,2016,P,USA,1,'Warner Bros. Pictures',R,Action,0,2,M,7.4
+'A Dark Song',tt4805316,2016,F,Ireland,1,'Samson Films',UNRATED,Drama,0,1,M,6.1
+Arrival,tt2543164,2016,P,USA,0,'21 Laps Entertainment',PG-13,Drama,0,1,M,7.9
+'Hounds of Love',tt3896738,2016,P,Australia,5,'Gunpowder & Sky','NOT RATED',Crime,0,1,M,6.5
+'Legend of Tarzan, The',tt0918940,2016,F,UK,0,'Lionsgate Pictures',PG-13,Action,0,5,M,6.3
+'Be Somebody',tt5512872,2016,P,USA,0,'Studio 71',PG,Comedy,0,2,M,5.8
+'War on Everyone',tt3708886,2016,P,UK,0,'Saban Films',R,Action,0,1,M,5.8
+Nerve,tt3531824,2016,P,USA,1,'Keep Your Head',PG-13,Action,1,0,M,6.6
+'Final Fantasy XV',tt5595168,2016,P,Japan,0,'Square Enix Company',PG-13,Animation,0,0,M,6.8
+'Crouching Tiger, Hidden Dragon: Sword of Destiny',tt2652118,2016,P,China,0,Netflix,PG-13,Action,0,1,M,6.1
+'10 Cloverfield Lane',tt1179933,2016,P,USA,1,'Bad Robot Productions',PG-13,Drama,0,5,M,7.2
+'Infiltrator, The',tt1355631,2016,P,UK,0,'Broad Green Pictures',R,Biography,1,1,M,7
+'Kung Fu Panda 3',tt2267968,2016,P,China,0,'DreamWorks Animation',PG,Animation,0,2,M,7.1
+Hush,tt5022702,2016,P,USA,2,'Intrepid Pictures',R,Horror,1,1,M,6.6
+Divines,tt4730986,2016,P,France,1,'Easy Tiger',N/A,Crime,0,1,M,7.4
+'Shallows, The',tt4052882,2016,P,USA,1,'Ombra Films',PG-13,Drama,0,1,M,6.3
+'Belko Experiment, The',tt1082807,2016,P,USA,0,'BH Tilt',R,Action,0,1,M,6.1
+'Fundamentals of Caring, The',tt2452386,2016,P,USA,0,Netflix,TV-MA,Comedy,0,1,M,7.3
+'Rogue One',tt3748528,2016,P,USA,1,'Walt Disney Pictures',PG-13,Action,0,5,M,7.8
+'Girl with All the Gifts, The',tt4547056,2016,P,UK,1,'Saban Films',R,Drama,0,2,M,6.7
+Cam-Girl,tt2290819,2016,P,USA,0,N/A,N/A,Thriller,0,0,M,4.7
+Tallulah,tt1639084,2016,P,USA,2,Netflix,N/A,Comedy,0,0,M,6.7
+'Jane Got a Gun',tt2140037,2016,F,USA,3,'Relativity Media',R,Action,0,4,M,5.9
+'Dear Eleanor',tt2927212,2016,P,USA,0,'Nine Nights',PG-13,Adventure,2,0,M,6
+Christine,tt4666726,2016,P,UK,2,'Borderline Films',R,Biography,0,1,M,6.9
+'Divergent Series: Allegiant, The',tt3410834,2016,P,USA,0,Lionsgate,PG-13,Action,1,2,M,5.7
+'Middle School: The Worst Years of My Life',tt4981636,2016,P,USA,0,'James Patterson Entertainment',PG,Animation,1,3,M,6.1
+Prevenge,tt5154288,2016,P,UK,3,'Western Edge Pictures','NOT RATED',Comedy,1,0,F,5.9
+Julieta,tt4326444,2016,P,Spain,4,'El Deseo',R,Drama,1,1,M,7.1
+'Gr&uuml;&szlig;e aus Fukushima (Greetings from Fukushima)',tt4667788,2016,P,Germany,2,N/A,N/A,Drama,0,0,M,6.8
+'10 Days In A Madhouse',tt3453052,2016,P,USA,1,N/A,R,Drama,0,1,M,7.1
+'How to Be Single',tt1292566,2016,P,USA,0,'Warner Bros. Pictures',R,Comedy,3,2,M,6.1
+'Finding Dory',tt2277860,2016,P,USA,1,'Walt Disney Pictures/PIXAR',PG,Animation,1,2,M,7.3
+'Let Me Go',tt5153952,2016,P,UK,0,N/A,N/A,N/A,0,0,M,?
+'La La Land',tt3783958,2016,P,USA,0,'Liongate Films',PG-13,Comedy,0,1,M,8.1
+Spidarlings,tt2262129,2016,P,UK,0,N/A,N/A,Comedy,0,0,M,7.5
+'Void, The',tt4255304,2016,P,Canada,0,'SGL Entertainment','NOT RATED',Horror,0,2,M,5.8
+'A United Kingdom',tt3387266,2016,P,'Czech Republic',1,'Harbinger Pictures',PG-13,Biography,1,0,M,6.8
+Split,tt4972582,2016,P,USA,0,'Universal Pictures',PG-13,Horror,0,0,M,7.3
+'Their Finest',tt1661275,2016,P,UK,0,'EuropaCorp / STXfilms',R,Comedy,0,0,M,6.8
+Catfight,tt5294198,2016,P,USA,0,N/A,'NOT RATED',Comedy,0,0,M,5.8
+'Psych: The Movie',tt6868216,2017,P,USA,0,USA,TV-PG,Comedy,0,3,M,7.6
+Wilson,tt1781058,2017,P,USA,2,'Fox Searchlight',R,Comedy,0,2,M,5.8
+'Paddington 2',tt4468740,2017,P,UK,0,N/A,PG,Animation,0,3,M,7.9
+Gifted,tt4481414,2017,P,USA,1,N/A,PG-13,Drama,0,0,M,7.6
+'T2 Trainspotting',tt2763304,2017,P,UK,0,'TriStar Pictures',R,Drama,0,1,M,7.2
+'Before I Fall',tt1691916,2017,P,USA,4,'Open Road Films',PG-13,Drama,2,0,M,6.4
+'Beatriz at Dinner',tt5929750,2017,P,USA,1,'Roadside Attractions',R,Comedy,0,1,M,6.1
+'It Comes at Night',tt4695012,2017,P,USA,1,A24,R,Horror,0,1,M,6.2
+'Incredible Jessica James, The',tt5990342,2017,P,USA,0,Netflix,N/A,Comedy,0,0,M,6.5
+'Annabelle: Creation',tt5140878,2017,P,USA,2,'New Line Cinema',R,Horror,0,2,M,6.5
+'xXx: Return of Xander Cage',tt1293847,2017,P,China,0,'Paramount Pictures',PG-13,Action,0,0,M,5.2
+'What Happened to Monday',tt1536537,2017,P,UK,0,Netflix,TV-MA,Action,0,1,M,6.9
+'Ingrid Goes West',tt5962210,2017,P,USA,0,NEON,R,Comedy,0,1,M,6.6
+'On Body and Soul',tt5607714,2017,P,Hungary,0,N/A,'NOT RATED',Drama,0,0,M,7.6
+'Blade Runner 2049',tt1856101,2017,P,USA,0,'Warner Bros. Pictures',R,Drama,0,2,M,8
+'Good Time',tt4846232,2017,P,USA,0,A24,R,Crime,0,2,M,7.3
+'Wall, The',tt4218696,2017,F,USA,0,'Amazon Studios and Roadside Attractions',R,Drama,0,0,M,6.2
+'Home Again',tt5719700,2017,P,USA,2,'Open Road Films',PG-13,Comedy,1,0,F,5.8
+'Breadwinner, The',tt3901826,2017,P,Ireland,3,N/A,PG-13,Animation,2,0,F,7.7
+'Pokemon the Movie: I Choose You!',tt6595896,2017,P,Japan,0,N/A,'NOT RATED',Animation,0,0,M,6.5
+'Ghost in the Shell',tt1219827,2017,P,USA,1,'Paramount Pictures',PG-13,Action,1,2,M,6.4
+Coco,tt2380307,2017,P,USA,0,Disney/Pixar,PG,Animation,0,6,M,8.4
+'Dance Academy: The Movie',tt5834660,2017,P,Germany,0,Cinedigm,N/A,Drama,1,0,M,7
+'Fate of the Furious, The',tt4630562,2017,P,China,1,'Universal Pictures',PG-13,Action,0,2,M,6.7
+'Wonder Wheel',tt5825380,2017,P,USA,1,'Amazon Studios',PG-13,Drama,0,0,M,6.2
+Ver&oacute;nica,tt5862312,2017,P,Spain,2,N/A,TV-MA,Drama,0,1,M,6.2
+'Wonder Woman',tt0451279,2017,P,USA,1,'Warner Bros. Pictures',PG-13,Action,0,5,M,7.5
+'Cherry Pop',tt4807950,2017,P,USA,0,'Wolfe Releasing',N/A,Comedy,0,1,M,4.3
+'Mary and The Witch&#39;s Flower',tt6336356,2017,P,Japan,1,N/A,PG,Animation,1,1,M,6.8
+'A man of integrity',tt6776462,2017,P,Iran,0,N/A,N/A,Drama,0,1,M,7.2
+'La llamada',tt5176252,2017,P,Spain,0,N/A,N/A,Musical,0,4,M,6.4
+'Megan Leavy',tt4899370,2017,P,USA,1,'Bleecker Street',PG-13,Biography,2,0,F,7.1
+'Post, The',tt6294822,2017,P,USA,0,'20th Century Fox',PG-13,Biography,0,1,M,7.2
+Ava,tt6194530,2017,P,France,4,N/A,N/A,Drama,0,1,M,6.8
+'Monster High: Electrified',tt6536944,2017,P,N/A,0,N/A,'NOT RATED',Animation,0,1,M,6
+Okja,tt3967856,2017,P,'South Korea',2,Netflix,TV-MA,Action,0,1,M,7.3
+Dunkirk,tt5013056,2017,F,UK,0,'Warner Bros. Pictures',PG-13,Action,0,1,M,7.9
+'Logan Lucky',tt5439796,2017,P,USA,0,'Fingerprint Releasing / Bleecker Street',PG-13,Comedy,1,0,M,7
+'Death Note',tt1241317,2017,F,USA,0,'Vertigo Entertainment',TV-MA,Adventure,0,1,M,4.6
+'Band Aid',tt5816374,2017,P,USA,0,'IFC Films',R,Comedy,1,0,F,6.6
+'Jumanji: Welcome to the Jungle',tt2283362,2017,P,USA,0,'Columbia Pictures',PG-13,Action,0,7,M,7
+'Wish Upon',tt5322012,2017,P,USA,1,'Broad Green Pictures',PG-13,Fantasy,1,0,M,5.1
+'Glass Castle, The',tt2378507,2017,P,USA,2,Lionsgate,PG-13,Biography,0,1,M,7.2
+'Hitman&#39;s Bodyguard, The',tt1959563,2017,P,USA,0,'Summit Entertainment',R,Action,0,0,M,6.9
+'Death Race 2050',tt5493706,2017,P,USA,0,N/A,R,Action,0,0,M,3.7
+Revelator,tt5296086,2017,P,USA,0,'Revelator Films',N/A,Horror,0,0,M,8.2
+'You Get Me',tt5539054,2017,P,USA,0,Netflix,TV-MA,Crime,0,1,M,4.6
+'Fifty Shades Darker',tt4465564,2017,P,USA,2,'Universal Pictures',R,Drama,0,0,M,4.6
+'For Here or To Go?',tt4157510,2017,P,USA,0,N/A,N/A,Comedy,0,1,M,7.9
+Pilgrimage,tt3531202,2017,F,Ireland,0,'RLJ Entertainment','NOT RATED',Adventure,1,1,M,5.8
+Canaries,tt4082644,2017,P,UK,0,N/A,N/A,Comedy,0,1,M,4.3
+'Batman vs. Two-Face',tt6142314,2017,P,USA,0,'DC Entertainment',PG,Animation,0,5,M,6.1
+'God&#39;s Own Country',tt5635086,2017,F,UK,0,'Samuel Goldwyn Films','NOT RATED',Drama,0,1,M,7.7
+'I Don&#39;t Feel at Home in This World Anymore',tt5710514,2017,P,USA,3,'Film Science',TV-MA,Comedy,0,0,M,6.9
+'Discovery, The',tt5155780,2017,P,USA,2,Netflix,TV-MA,Drama,1,2,F,6.3
+Kidnap,tt1458169,2017,P,USA,2,'Aviron Pictures',R,Action,0,0,M,5.9
+Bright,tt5519340,2017,P,USA,0,Netflix,TV-MA,Action,0,1,M,6.4
+Unlocked,tt1734493,2017,P,'Czech Republic',0,'Lionsgate Premiere',R,Action,0,1,M,6.2
+'Everything, Everything',tt5001718,2017,P,USA,2,'Warner Bros. Pictures',PG-13,Drama,0,0,F,6.4
+'My Cousin Rachel',tt4411596,2017,P,UK,3,'Fox Searchlight Pictures',PG-13,Drama,1,1,M,6
+'Ritual, The',tt5638642,2017,F,UK,0,Netflix,TV-MA,Horror,0,2,M,6.3
+'To the bone',tt5541240,2017,P,USA,3,Netflix,TV-MA,Drama,0,0,M,6.9
+'Amityville: The Awakening',tt1935897,2017,P,USA,3,'Dimension Films',PG-13,Horror,0,0,M,4.8
+'I Feel Pretty',tt6791096,2018,P,China,7,STXfilms,PG-13,Comedy,1,1,F,5.3
+'Life of the Party',tt5619332,2018,P,USA,3,'New Line Cinema',PG-13,Comedy,1,1,M,5.5
+Tag,tt2854926,2018,P,USA,0,'Warner Bros. Pictures',R,Comedy,0,3,M,6.6
+'Game Night',tt2704998,2018,P,USA,0,'Warner Brothers',R,Action,0,1,M,7
+'Guernsey Literary and Potato Peel Pie Society, The',tt1289403,2018,P,UK,1,Netflix,N/A,Drama,2,2,M,7.4
+Tully,tt5610554,2018,P,USA,2,'Focus Features',R,Comedy,0,0,M,7
+'Pass Over',tt7768846,2018,F,USA,0,'40 Acres & A Mule Filmworks','NOT RATED',Drama,0,0,M,5.8
+'Set It Up',tt5304992,2018,P,USA,0,Netflix,TV-14,Comedy,1,0,F,6.5
+'Truth or Dare',tt6772950,2018,P,USA,0,'Universal Pictures',PG-13,Horror,1,3,M,5.1
+'Incredibles 2',tt3606756,2018,P,USA,0,Disney/Pixar,PG,Animation,0,0,M,7.9
+'Au poste!',tt7156222,2018,F,France,0,N/A,N/A,Comedy,0,1,M,?
+'A Simple Favor',tt7040874,2018,P,USA,2,Lionsgate,N/A,Comedy,1,0,M,7.1
+Blockers,tt2531344,2018,P,USA,0,'Universal Pictures',R,Comedy,0,1,M,6.2
+'Black Panther',tt1825683,2018,P,USA,0,'Marvel Studios',PG-13,Action,1,3,F,7.4
+'Cloverfield Paradox, The',tt2548396,2018,P,USA,0,Netflix,TV-MA,Horror,0,0,M,5.6
+'Tomb Raider',tt1365519,2018,P,UK,4,'Warner Bros. Pictures',PG-13,Action,0,1,M,6.4
+'Kissing Booth, The',tt3799232,2018,P,UK,1,Netflix,TV-14,Comedy,0,0,M,6.2
+'Ocean&#39;s 8',tt5164214,2018,P,USA,0,'Warner Bros. Pictures',PG-13,Action,1,4,M,6.3
+Kaala,tt6929642,2018,P,India,0,'Wunderbar Studios','NOT RATED',Action,0,0,M,7
