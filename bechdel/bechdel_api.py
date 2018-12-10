@@ -23,30 +23,46 @@ import os
 
 fem_words = ['she', 'her', 'hers', 'woman', 'women', 'girl', 'mother', 'daughter', 'wife']
 
-with open('secondpass.csv') as secondpass:
-    reader = csv.DictReader(secondpass)
-    with open('ctrain.csv', 'w') as train:
-        train_w = csv.writer(train)
-        with open('ctest.csv', 'w') as test:
-            test_w = csv.writer(test)
-            train_w.writerow(['title', 'imdbid', 'year', 'class', 'Country', 'Fem Wordcount', 'Production', 'Rated', 'Genre', 'Writers F', 'Writers M', 'Director', 'imdbRating'])
-            test_w.writerow(['title', 'imdbid', 'year', 'class', 'Country', 'Fem Wordcount', 'Production', 'Rated', 'Genre', 'Writers F', 'Writers M', 'Director', 'imdbRating'])
+with open('ctrain.csv') as train:
+    reader = csv.DictReader(train)
+    director_stat = {'F, pass':0, 'M, pass':0, 'F, fail':0, 'M, fail':0}
+    for row in reader:
+        if row['Director'] == 'F':
+            if row['class'] == 'P':
+                director_stat['F, pass'] += 1
+            else:
+                director_stat['F, fail'] += 1
+        else:
+            if row['class'] == 'P':
+                director_stat['M, pass'] += 1
+            else:
+                director_stat['M, fail'] += 1
+    print(director_stat)
 
-            for row in reader:
-                if row['class'] == 'P':
-                    x = random.random()
-                    if x < 0.1472:
-                        y = random.random()
-                        if y < 0.7:
-                            train_w.writerow(row.values())
-                        else:
-                            test_w.writerow(row.values())
-                else:
-                    z = random.random()
-                    if z < 0.7:
-                        train_w.writerow(row.values())
-                    else:
-                        test_w.writerow(row.values())
+# with open('secondpass.csv') as secondpass:
+#     reader = csv.DictReader(secondpass)
+#     with open('ctrain.csv', 'w') as train:
+#         train_w = csv.writer(train)
+#         with open('ctest.csv', 'w') as test:
+#             test_w = csv.writer(test)
+#             train_w.writerow(['title', 'imdbid', 'year', 'class', 'Country', 'Fem Wordcount', 'Production', 'Rated', 'Genre', 'Writers F', 'Writers M', 'Director', 'imdbRating'])
+#             test_w.writerow(['title', 'imdbid', 'year', 'class', 'Country', 'Fem Wordcount', 'Production', 'Rated', 'Genre', 'Writers F', 'Writers M', 'Director', 'imdbRating'])
+#
+#             for row in reader:
+#                 if row['class'] == 'P':
+#                     x = random.random()
+#                     if x < 0.1472:
+#                         y = random.random()
+#                         if y < 0.7:
+#                             train_w.writerow(row.values())
+#                         else:
+#                             test_w.writerow(row.values())
+#                 else:
+#                     z = random.random()
+#                     if z < 0.7:
+#                         train_w.writerow(row.values())
+#                     else:
+#                         test_w.writerow(row.values())
 
 # with open('secondpass.csv') as secondpass:
 #     reader = csv.DictReader(secondpass)
